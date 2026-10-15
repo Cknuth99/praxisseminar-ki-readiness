@@ -1,0 +1,52 @@
+1. Theorieauswahl und Begründung
+Für die Messung der KI-Readiness von Mitarbeitenden in einem Unternehmen wird eine Integration aus drei in den Quellen verankerten theoretischen Modellen empfohlen:
+	1	Unified Theory of Acceptance and Use of Technology 2 (UTAUT2) / Reasoned Action Approach (RAA): Diese Akzeptanzmodelle erklären die Nutzungsabsicht von Beschäftigten maßgeblich über die wahrgenommene Nützlichkeit (Perceived Usefulness / Performance Expectancy), die subjektive Mühelosigkeit bzw. Fähigkeiten (Perceived Ease of Use / Abilities) sowie soziale bzw. wahrgenommene Normen (Perceived Norms). Für die KI-Readiness ist grundlegend, ob Mitarbeitende den Wert von KI-Systemen erkennen, sich fähig fühlen, diese zu bedienen, und einen positiven sozialen Rückhalt im Kollegium erleben.
+	2	Organisationales Vertrauensmodell (Mayer, Davis & Schoorman, 1995; angewendet auf KI): Bei der betrieblichen Einführung von KI-Anwendungen spielt das Vertrauen eine zentral vermittelnde Rolle für die Akzeptanz. Das Modell gliedert Vertrauensfaktoren in Fähigkeit und Erklärbarkeit (Ability / Explainability), Integrität und Datenschutz (Integrity / Data Privacy) sowie Wohlwollen (Benevolence). Mitarbeitende entwickeln eine höhere Bereitschaft zur KI-Nutzung, wenn sie die Generierung von KI-Ergebnissen nachvollziehen können und vertrauliche Unternehmensdaten geschützt wissen.
+	3	Task-Technology Fit (TTF) Modell (Goodhue & Thompson, 1995; McGrath's Aufgabentypologie): Das TTF-Modell besagt, dass eine Technologie die individuelle Arbeitsleistung und Nutzungsabsicht genau dann steigert, wenn ihre Funktionalitäten optimal zu den spezifischen Anforderungen der betrieblichen Aufgaben passen. Anhand von McGraths Aufgaben-Taxonomie (z. B. Planungs-, Kreativitäts-, Urteils- und Ausführungsaufgaben) lässt sich präzise erheben, in welchen konkreten Tätigkeitsfeldern Beschäftigte den Einsatz von KI als passgenau und leistungssteigernd wahrnehmen.
+
+2. Abgeleitete Konstrukte
+Aus der Kombination der theoretischen Modelle lassen sich sieben Kernkonstrukte zur Erhebung der KI-Readiness ableiten:
+	•	Technische Fähigkeiten & Verständlichkeit (Abilities / Perceived Ease of Use): Zutrauen der Mitarbeitenden bezüglich des mühelosen Umgangs mit KI sowie das grundlegende Verständnis ihrer Funktionsweise.
+	•	Erklärbarkeit der KI-Ergebnisse (Ability / Explainability): Fähigkeit der Beschäftigten, den Zustandekommensprozess von KI-Ergebnissen nachzuvollziehen und deren Korrektheit zu beurteilen.
+	•	Datenschutz & Integrität (Integrity / Data Privacy): Subjektives Vertrauen in die sichere Verarbeitung und den Schutz unternehmensinterner Daten durch KI-Anwendungen.
+	•	Wahrgenommene Nützlichkeit & Leistung (Perceived Usefulness / Performance): Erwarteter Mehrwert der KI zur Steigerung der eigenen Arbeitsleistung, Effizienz und Ergebnisqualität.
+	•	Aufgaben-Technologie-Passung (Task-Technology Fit - TTF): Wahrgenommener Eignungsgrad von KI-Werkzeugen zur zielgerichteten Unterstützung spezifischer arbeitsbezogener Aufgabentypen.
+	•	Soziale & Wahrgenommene Normen (Perceived Norms): Wahrgenommener sozialer Einfluss sowie Empfehlungen von Führungskräften und Kollegium zur Nutzung von KI.
+	•	Nutzungsabsicht (Intention to Use / Behavioral Intention): Konkrete persönliche Bereitschaft und Absicht der Mitarbeitenden, KI-Systeme zukünftig bei ihren Arbeitsaufgaben einzusetzen.
+
+3. Fragebogen (7-stufige Likert-Skala)
+Zur Messung der Items wird eine 7-stufige Likert-Skala verwendet (1 = stimme überhaupt nicht zu bis 7 = stimme voll und ganz zu), wie sie in den empirischen Studien des Datensatzes standardmäßig eingesetzt wird.
+Konstrukt
+Definition
+Items
+Quelle
+Technische Fähigkeiten & Verständlichkeit (Abilities / Perceived Ease of Use)
+Spiegelt das subjektive Wissen und das Zutrauen der Mitarbeitenden wider, KI-Anwendungen mühelos bedienen und deren Grundfunktionsweise verstehen zu können.
+(1) Ich weiß, wie KI-Anwendungen grundsätzlich funktionieren.(2) Es fällt mir leicht, KI-gestützte Werkzeuge bei meiner Arbeit zu bedienen.(3) Die Hauptfunktionen von KI-Anwendungen sind für mich einfach zu verstehen.(4) Ich benötige nur eine kurze Einarbeitung, um eine neue KI-Anwendung für meine Aufgaben zu nutzen.
+Datensatz_v1.docx (Questionnaire 1, 2 & 4); Paper Fragebogen 2; Paper Fragebogen 4
+Erklärbarkeit der KI-Ergebnisse (Ability / Explainability)
+Beschreibt die Fähigkeit von Mitarbeitenden, die Generierung von KI-Ergebnissen nachzuvollziehen und deren Korrektheit objektiv zu beurteilen.
+(1) Ich kann nachvollziehen, wie KI-Systeme zu ihren vorgeschlagenen Ergebnissen kommen.(2) Ich kann beurteilen, ob die von einer KI gelieferten Ergebnisse und Antworten richtig sind.(3) Ich vertraue den Antworten und Ausgaben von KI-Anwendungen in meinem Arbeitsbereich.
+Datensatz_v1.docx (Questionnaire 4); Paper Fragebogen 4
+Datenschutz & Integrität (Integrity / Data Privacy)
+Misst das Vertrauen der Mitarbeitenden in den sicheren und vertraulichen Umgang der KI-Anwendung mit unternehmensinternen Daten.
+(1) Ich habe keine Bedenken, dass KI-Anwendungen unsere eingegebenen unternehmensinternen Informationen an Dritte weitergeben.(2) Ich denke, dass unsere Interaktionsdaten bei der Nutzung von KI-Systemen sicher geschützt sind.(3) Ich vertraue darauf, dass KI-Werkzeuge verantwortungsvoll mit sensiblen Unternehmensdaten umgehen.
+Datensatz_v1.docx (Questionnaire 4); Paper Fragebogen 4
+Wahrgenommene Nützlichkeit & Leistung (Perceived Usefulness / Performance)
+Erfasst die Erwartung der Mitarbeitenden, dass der Einsatz von KI ihre Arbeitsleistung verbessert, Arbeitsprozesse unterstützt und die Ergebnisqualität erhöht.
+(1) Ich denke, dass der Einsatz von KI meine Leistung bei der Erfüllung meiner Arbeitsaufgaben verbessern würde.(2) Durch die Nutzung von KI könnte ich meine Aufgaben besser erledigen als ohne sie.(3) Ich denke, dass der Einsatz von KI-Werkzeugen die Qualität meiner Arbeitsergebnisse erhöht.(4) Insgesamt halte ich den Einsatz von KI-Anwendungen an meinem Arbeitsplatz für nützlich.
+Datensatz_v1.docx (Questionnaire 2 & 3); Paper Fragebogen 2; Paper Fragebogen 3
+Aufgaben-Technologie-Passung (Task-Technology Fit - TTF)
+Beschreibt den wahrgenommenen Grad der Eignung von KI-Technologien zur zielgerichteten Unterstützung spezifischer arbeitsbezogener Aufgabentypen.
+(1) Ich denke, dass KI meine Aufgaben unterstützen kann, die eine strukturierte Planung von Abläufen erfordern.(2) Ich denke, dass KI meine Aufgaben unterstützen kann, bei denen neue Ideen oder Lösungskonzepte entwickelt werden müssen.(3) Ich denke, dass KI meine Aufgaben unterstützen kann, bei denen Entscheidungen zwischen verschiedenen Handlungsoptionen getroffen werden müssen.(4) Ich denke, dass KI meine Aufgaben unterstützen kann, bei denen klar definierte und standardisierte Arbeitsschritte umgesetzt werden.
+Datensatz_v1.docx (Questionnaire 3); Paper Fragebogen 3
+Soziale & Wahrgenommene Normen (Perceived Norms)
+Drückt den wahrgenommenen sozialen Einfluss bzw. Empfehlungen aus dem beruflichen Umfeld (Führungskräfte, Kollegium) bezüglich der KI-Nutzung aus.
+(1) Kolleginnen und Kollegen in einer mir vergleichbaren Arbeitssituation würden mir empfehlen, KI-Anwendungen zu nutzen.(2) Personen im Unternehmen, deren Meinung ich schätze, befürworten den Einsatz von KI.(3) Führungskräfte und wichtige Ansprechpersonen in unserer Organisation raten zur Nutzung von KI-Werkzeugen.
+Datensatz_v1.docx (Questionnaire 1 & 2); Paper Fragebogen 1; Paper Fragebogen 2
+Nutzungsabsicht (Intention to Use / Behavioral Intention)
+Erfasst die konkrete persönliche Bereitschaft und Absicht der Mitarbeitenden, KI-Anwendungen künftig in ihren Arbeitsalltag zu integrieren.
+(1) Ich beabsichtige, künftig KI-Anwendungen für die Bearbeitung meiner Arbeitsaufgaben einzusetzen.(2) Ich plane, KI-gestützte Werkzeuge regelmäßig in meinen Arbeitsalltag zu integrieren.(3) Sobald geeignete KI-Anwendungen an meinem Arbeitsplatz verfügbar sind, werde ich sie nutzen.
+Datensatz_v1.docx (Questionnaire 1, 2, 3 & 4); Paper Fragebogen 2; Paper Fragebogen 3; Paper Fragebogen 4
+
+💡 Möchtest du, dass ich aus diesen Items ein auswertbares Befragungsdokument (z. B. als PDF oder Word-Datei) erstelle oder weitere abteilungsspezifische Anpassungen vornehme?

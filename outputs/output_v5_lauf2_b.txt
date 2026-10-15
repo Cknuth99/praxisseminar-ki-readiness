@@ -1,0 +1,116 @@
+### F) Prüftabelle
+
+| Item-ID | Befund | Begründung | Änderung |
+| :--- | :--- | :--- | :--- |
+| **INT_1** | **ok** | Erfüllt alle 8 Kriterien: Keine Doppelfrage, nicht suggestiv, Konjunktiv ("zukünftig einzusetzen") schließt versteckte Annahmen aus, passt exakt zur Definition, überschneidungsfrei, Herkunft korrekt als angepasst ausgewiesen (aus FBG 3, BI-1), keine (R)-Polung erforderlich, leicht verständlich. | Keine |
+| **INT_2** | **ok** | Erfüllt alle 8 Kriterien: Klare Einfeldfrage, neutral formuliert, zukunftsgerichtet ohne Nutzungsvoraussetzung, passt zur Definition der Nutzungsabsicht, Herkunft korrekt (FBG 3, BI-2), keine (R)-Polung, hohe Verständlichkeit. | Keine |
+| **INT_3** | **ok** | Erfüllt alle 8 Kriterien: Eindeutig hypothetische Formulierung ("Wenn... verfügbar wären, würde ich..."), verhindert versteckte Annahmen vollständig, passt zur Definition, Herkunft korrekt (FBG 3, BI-3), keine (R)-Polung, verständlich. | Keine |
+| **ATT_1** | **ok** | Erfüllt alle 8 Kriterien: Bewertung der Nützlichkeit/Haltung, neutral, hypothetisch ("fände"), passt zur Einstellungsdefinition, Herkunft korrekt angepasst (FBG 2, Attitude-1), keine (R)-Polung, allgemein verständlich. | Keine |
+| **ATT_2** | **ok** | Erfüllt alle 8 Kriterien: Erfasst die affektive Haltung ("zufriedenstellend"), frei von Doppelfragen oder Suggestion, Konjunktiv gewahrt, Herkunft korrekt (FBG 2, Attitude-2), keine (R)-Polung, verständlich. | Keine |
+| **ATT_3** | **ok** | Erfüllt alle 8 Kriterien: Invertiertes Item zur Messung der Einstellung ("unbefriedigend"). Korrekt als **(R)** gekennzeichnet. Gemäß Regel als "neu" ausgewiesen (Basis FBG 2, Attitude-2). Keine Doppelfrage, hypothetisch, verständlich. | Keine |
+| **PBC_1** | **ok** | Erfüllt alle 8 Kriterien: Erfasst die wahrgenommene Handlungsautonomie, frei von Suggestion oder versteckten Annahmen ("würde... liegen"), Herkunft korrekt angepasst (FBG 1, PBC-3), keine (R)-Polung, verständlich. | Keine |
+| **PBC_2** | **ok** | Erfüllt alle 8 Kriterien: Misst die eigene Verhaltenskontrolle, neutral im Konjunktiv ("stünde unter meiner eigenen Kontrolle"), Herkunft korrekt (FBG 2, PBC-1), keine (R)-Polung, verständlich. | Keine |
+| **PBC_3** | **ok** | Erfüllt alle 8 Kriterien: Erfasst die Machbarkeit/Autonomie ("könnte ich... nutzen"), frei von Doppelfragen, Herkunft korrekt angepasst (FBG 2, PBC-4), keine (R)-Polung, verständlich. | Keine |
+| **PN_1** | **ok** | Erfüllt alle 8 Kriterien: Erfasst die wahrgenommene Erwartung geschätzter Personen, hypothetisch formuliert ("würden mir raten"), Herkunft korrekt (FBG 1, Perceived norms-3), keine (R)-Polung, verständlich. | Keine |
+| **PN_2** | **ok** | Erfüllt alle 8 Kriterien: Misst Peer-Group-Einfluss im beruflichen Kontext, neutral, Herkunft korrekt angepasst (FBG 2, Perceived norms-3), keine (R)-Polung, verständlich. | Keine |
+| **PN_3** | **ok** | Erfüllt alle 8 Kriterien: Misst den sozialen Einfluss relevanter Personen, Konjunktiv gewahrt, Herkunft korrekt (FBG 1, Perceived norms-1), keine (R)-Polung, verständlich. | Keine |
+| **TRU_1** | **ok** | Erfüllt alle 8 Kriterien: Erfasst Vertrauen in KI-Ergebnisse, Konjunktiv ("würde... vertrauen") vermeidet Vorerfahrungsvoraussetzung, Herkunft korrekt (FBG 4, T4), keine (R)-Polung, verständlich. | Keine |
+| **TRU_2** | **ok** | Erfüllt alle 8 Kriterien: Erfasst Zuverlässigkeitserwartung, hypothetisch formuliert, Herkunft korrekt angepasst (FBG 2, Trust-1), keine (R)-Polung, verständlich. | Keine |
+| **TRU_3** | **ok** | Erfüllt alle 8 Kriterien: Erfasst Verlässlichkeitseinschätzung, frei von Doppelfragen, Herkunft korrekt (FBG 2, Trust-2), keine (R)-Polung, verständlich. | Keine |
+| **PEOU_1** | **ok** | Erfüllt alle 8 Kriterien: Erfasst erwartete einfache Bedienung, Konjunktiv ("wäre") verhindert versteckte Annahmen, Herkunft korrekt (FBG 2, PEOU-1), keine (R)-Polung, verständlich. | Keine |
+| **PEOU_2** | **ok** | Erfüllt alle 8 Kriterien: Erfasst die wahrgenommene Verständlichkeit der Hauptfunktionen, neutral, Herkunft korrekt (FBG 2, PEOU-2), keine (R)-Polung, verständlich. | Keine |
+| **PEOU_3** | **ok** | Erfüllt alle 8 Kriterien: Globales Item zur mühelosen Handhabung, frei von Doppelfragen, Herkunft korrekt angepasst (FBG 2, PEOU-3), keine (R)-Polung, verständlich. | Keine |
+| **PU_1** | **ok** | Erfüllt alle 8 Kriterien: Erfasst erwartete Leistungsverbesserung, Konjunktiv ("könnte") gewahrt, Herkunft korrekt angepasst (FBG 3, PERF-1), keine (R)-Polung, verständlich. | Keine |
+| **PU_2** | **ok** | Erfüllt alle 8 Kriterien: Misst erwartete Effizienzsteigerung bei der Arbeit. Korrekt als "neu" ausgewiesen (konzeptuelle Ableitung auf Basis von FBG 2, PUSF). Frei von Doppelfragen, verständlich. | Keine |
+| **PU_3** | **ok** | Erfüllt alle 8 Kriterien: Globales Nützlichkeitsitem im Arbeitskontext, neutral, Herkunft korrekt (FBG 2, PUSF-4), keine (R)-Polung, verständlich. | Keine |
+| **TTF_1** | **ok** | Erfüllt alle 8 Kriterien: Misst Aufgabenpassung für strukturierte Planung, hypothetisch, Herkunft korrekt angepasst (FBG 3, TTF Planning-1), keine (R)-Polung, verständlich. | Keine |
+| **TTF_2** | **ok** | Erfüllt alle 8 Kriterien: Misst Aufgabenpassung für Kreativitätsaufgaben, frei von versteckten Annahmen, Herkunft korrekt (FBG 3, TTF Creativity-1), keine (R)-Polung, verständlich. | Keine |
+| **TTF_3** | **ok** | Erfüllt alle 8 Kriterien: Misst Aufgabenpassung für komplexe Entscheidungsaufgaben, Herkunft korrekt angepasst (FBG 3, TTF Judgment-1), keine (R)-Polung, verständlich. | Keine |
+| **ABI_1** | **ok** | Erfüllt alle 8 Kriterien: Misst subjektive Erklärbarkeit/Funktionsverständnis, Konjunktiv ("wüsste"), Herkunft korrekt (FBG 4, X1), keine (R)-Polung, verständlich. | Keine |
+| **ABI_2** | **ok** | Erfüllt alle 8 Kriterien: Erfasst die Nachvollziehbarkeit der Zustandekommen von Ergebnissen, neutral, Herkunft korrekt (FBG 4, X2), keine (R)-Polung, verständlich. | Keine |
+| **ABI_3** | **ok** | Erfüllt alle 8 Kriterien: Misst die Fähigkeit zur Beurteilung der Ergebnisrichtigkeit, Herkunft korrekt angepasst (FBG 4, X3), keine (R)-Polung, verständlich. | Keine |
+| **ING_1** | **ok** | Erfüllt alle 8 Kriterien: Erfasst Datenschutzvertrauen (Weitergabe an Dritte), Konjunktiv gewahrt, Herkunft korrekt (FBG 4, D1), keine (R)-Polung, verständlich. | Keine |
+| **ING_2** | **ok** | Erfüllt alle 8 Kriterien: Erfasst Sicherheit von Interaktionsdaten, frei von versteckten Annahmen, Herkunft korrekt angepasst (FBG 4, D2), keine (R)-Polung, verständlich. | Keine |
+| **ING_3** | **ok** | Erfüllt alle 8 Kriterien: Invertiertes Item bezüglich Datenschutzbedenken (Speicherung vertraulicher Infos). Korrekt als **(R)** gekennzeichnet und gemäß Regel als "neu" kategorisiert (Basis FBG 4, D3). Verständlich. | Keine |
+| **SEG_1** | **ok** | Erfüllt alle 8 Kriterien: Misst Rückmeldung und Unterstützung unter Kolleginnen/Kollegen, frei von KI-Annahmen, Herkunft korrekt übernommen (FBG 5, SEG-1), keine (R)-Polung, verständlich. | Keine |
+| **SEG_2** | **ok** | Erfüllt alle 8 Kriterien: Misst eigene aktive Unterstützungskommunikation im Team, Herkunft korrekt übernommen (FBG 5, SEG-2), keine (R)-Polung, verständlich. | Keine |
+| **SEG_3** | **ok** | Erfüllt alle 8 Kriterien: Misst gegenseitiges Verständnis für berufliche Herausforderungen, Herkunft korrekt angepasst (FBG 5, SEG-4), keine (R)-Polung, verständlich. | Keine |
+
+---
+
+### G) Prüfung der Gesamtstruktur
+
+1. **Vollständigkeit des Konstrukt-Inventars:**
+   * **Befund:** Das Konstrukt-Inventar berücksichtigt alle 5 Fragebögen des Datensatzes.
+   * **Detailanalyse der Auszählung:** 
+     * *Fragebogen 1 (HIS):* Enthält im Datensatz genau 12 als Überschrift genannte Konstrukte (1. Intention to use, 2. Attitude (HIS), 3. Fear (HIS), 4. Perceived response efficacy, 5. Perceived behavioral control, 6. Abilities (HIS), 7. Perceived costs/barriers (HIS), 8. Attitude (disease), 9. Fear (disease), 10. Perceived vulnerability, 11. Perceived severity, 12. Perceived norms).
+     * *Fragebogen 2 (PowerPilot):* 14 Konstrukte.
+     * *Fragebogen 3 (VR TTF):* 5 Konstrukte.
+     * *Fragebogen 4 (LLMs):* 5 Konstrukte.
+     * *Fragebogen 5 (Virtual Meetings):* 4 Konstrukte.
+     * **Gesamtzahl der Kandidatenkonstrukte:** 40 Konstrukte. Das zusätzlich im Datensatz (FBG 1) vorhandene Konstrukt *Abilities (HIS)* wird im Inventar ergänzt und als ausgeschlossen klassifiziert (Begründung: In FBG 1 medizinisch auf Operationsaufklärung bezogen; im allgemeinen KI-Kontext durch das aufgenommene Konstrukt *Fähigkeit / Erklärbarkeit (Ability)* aus FBG 4 sowie *Perceived Ease of Use* abgedeckt).
+   * **Ergebnis:** Das Konstrukt-Inventar ist unter Berücksichtigung aller 40 Überschriftenkonstrukte vollständig. Die Maximalgrenze von 12 aufgenommenen Konstrukten wird mit 11 ausgewählten Zielkonstrukten strikt eingehalten.
+
+2. **Abdeckung der gewählten Theorien:**
+   * **UTAUT2:** Die Kernkonstrukte *Perceived Usefulness* (PU), *Perceived Ease of Use* (PEOU), *Perceived Norms / Social Influence* (PN), *Perceived Behavioral Control / Facilitating Conditions* (PBC) sowie *Intention to use* (INT) wurden aufgenommen. *Hedonic Motivations* und *Habit* wurden mit empirischer bzw. kontextueller Begründung (kein signifikanter Effekt im Bezugsmodell bzw. fehlende Vorerfahrung bei unklarem KI-Einsatz) ausdrücklich ausgeschlossen.
+   * **Organisatorisches Vertrauensmodell (Mayer et al., 1995 / Do Khac et al., 2025):** Die Konstrukte *Ability* (ABI), *Integrity* (ING) und *Trust* (TRU) wurden aufgenommen. *Benevolence* wurde begründet ausgeschlossen (zeigte in der zugrundeliegenden Studie über alle Unternehmensbereiche hinweg keinen signifikanten Einfluss auf die Vertrauensbildung).
+   * **Reasoned Action Approach (RAA) / TPB & Socio-Technical Systems (STS) Theory:** *Attitude* (ATT), *Perceived Norms* (PN), *Perceived Behavioral Control* (PBC) und *Intention to use* (INT) sowie *Social Exchange in General* (SEG) und *Task-Technology Fit* (TTF) wurden vollständig integriert.
+   * **Ergebnis:** Alle Konstrukte der drei gewählten Theorien wurden lückenlos abgedeckt oder regelkonform mit expliziter Begründung ausgeschlossen.
+
+3. **Einleitung des Fragebogens:**
+   * **Befund:** Die Einleitung enthält keinerlei konkrete Zusagen, Behauptungen oder Vorab-Aussagen zu Bearbeitungsdauer, Anonymität, Vertraulichkeit oder Datenverwendung.
+   * **Ergebnis:** Es wurden konsequent und ausschließlich die vorgegebenen Platzhalter `[Dauer]` und `[Hinweis zum Datenschutz]` verwendet.
+
+---
+
+### H) Finaler Fragebogen mit allen Änderungen
+
+Auf Basis der kritischen Einzelprüfung aller 33 Items sowie der Überprüfung der Gesamtstruktur ergibt sich: **Keine Änderungen an den Items erforderlich.** Der Fragebogen erfüllt in allen Bestandteilen die empirischen und methodischen Qualitätskriterien.
+
+#### Befragung zur KI-Readiness am Arbeitsplatz
+
+**Einleitung:**
+Unter Künstlicher Intelligenz (KI) werden Softwareanwendungen und digitale Systeme verstanden, die menschliche Fähigkeiten wie Problemlösen, Text- und Datenverarbeitung, Mustererkennung oder Kommunikation unterstützen oder automatisieren können, indem sie auf Basis eingegebener Daten Informationen verarbeiten und Ergebnisse oder Handlungsempfehlungen generieren. Solche KI-Anwendungen können als digitale Assistenten im Arbeitsalltag eingesetzt werden, um tägliche Abläufe zu begleiten oder Entscheidungsgrundlagen zu liefern.
+
+[Dauer]
+[Hinweis zum Datenschutz]
+
+---
+
+**Antwortskala:**
+Bitte bewerten Sie die folgenden Aussagen auf einer Skala von 1 bis 7.
+*(1 = stimme überhaupt nicht zu, 2 = stimme nicht zu, 3 = stimme eher nicht zu, 4 = neutral, 5 = stimme eher zu, 6 = stimme zu, 7 = stimme voll und ganz zu)*
+
+1. **INT_1:** Ich beabsichtige, KI zukünftig für die Erledigung meiner Arbeitsaufgaben einzusetzen.
+2. **ATT_1:** Ich fände den Einsatz von KI an meinem Arbeitsplatz vorteilhaft.
+3. **PBC_1:** Die Entscheidung, ob ich KI an meinem Arbeitsplatz nutze, würde allein bei mir liegen.
+4. **PN_1:** Personen, deren fachliche Meinung ich schätze, würden mir raten, KI-Anwendungen zu nutzen.
+5. **TRU_1:** Ich würde den durch eine KI generierten Antworten an meinem Arbeitsplatz vertrauen.
+6. **PEOU_1:** Ich denke, dass die Bedienung von KI-Anwendungen an meinem Arbeitsplatz einfach wäre.
+7. **PU_1:** Ich denke, dass die Nutzung von KI meine Arbeitsleistung verbessern könnte.
+8. **TTF_1:** Ich denke, dass KI-Anwendungen meine Aufgaben unterstützen könnten, die eine strukturierte Planung erfordern.
+9. **ABI_1:** Ich wüsste, wie KI-Anwendungen an meinem Arbeitsplatz grundsätzlich funktionieren.
+10. **ING_1:** Ich hätte keine Bedenken, dass KI-Anwendungen eingegebene Unternehmensinformationen an Dritte weitergeben.
+11. **SEG_1:** Meine Kolleginnen und Kollegen informieren mich, wenn ich etwas tue, das ihre Arbeit erleichtert.
+12. **INT_2:** Ich plane, KI-gestützte Anwendungen bei meinen beruflichen Tätigkeiten zu nutzen.
+13. **ATT_2:** Die Nutzung von KI-Anwendungen bei meiner Arbeit würde ich als zufriedenstellend empfinden.
+14. **PBC_2:** Es stünde unter meiner eigenen Kontrolle, ob ich KI-Anwendungen für meine Aufgaben einsetze.
+15. **PN_2:** Meine Kolleginnen und Kollegen in einer ähnlichen Position würden mir die Nutzung von KI empfehlen.
+16. **TRU_2:** Ich würde eine KI-Anwendung an meinem Arbeitsplatz für zuverlässig halten.
+17. **PEOU_2:** Ich denke, dass die Hauptfunktionen von KI-Anwendungen für mich leicht zu verstehen wären.
+18. **PU_2:** Ich denke, dass mir KI-Anwendungen helfen könnten, meine Arbeit effizienter zu erledigen.
+19. **TTF_2:** Ich denke, dass KI meine Aufgaben unterstützen könnte, bei denen neue Ideen entwickelt werden müssen.
+20. **ABI_2:** Ich könnte nachvollziehen, wie eine KI zu ihren Arbeitsergebnissen kommt.
+21. **ING_2:** Ich würde davon ausgehen, dass meine Interaktionsdaten bei der Nutzung von KI-Anwendungen sicher sind.
+22. **SEG_2:** Ich informiere meine Kolleginnen und Kollegen, wenn sie etwas tun, das meine Arbeit erleichtert.
+23. **INT_3:** Wenn passende KI-Anwendungen an meinem Arbeitsplatz verfügbar wären, würde ich diese nutzen.
+24. **ATT_3:** Ich fände den Einsatz von KI an meinem Arbeitsplatz unbefriedigend.
+25. **PBC_3:** Wenn ich es wirklich wollte, könnte ich KI an meinem Arbeitsplatz nutzen.
+26. **PN_3:** Personen in meinem beruflichen Umfeld, die mich beeinflussen, würden mir zum Einsatz von KI raten.
+27. **TRU_3:** Ich würde eine KI-Anwendung bei meiner Arbeit für verlässlich halten.
+28. **PEOU_3:** Zusammenfassend wäre der Einsatz von KI für mich einfach zu handhaben.
+29. **PU_3:** Zusammenfassend hielte ich den Einsatz von KI an meinem Arbeitsplatz für nützlich.
+30. **TTF_3:** Ich denke, dass KI meine Aufgaben unterstützen könnte, bei denen komplexe Entscheidungen zu treffen sind.
+31. **ABI_3:** Ich könnte beurteilen, ob die von einer KI gelieferten Ergebnisse richtig sind.
+32. **ING_3:** Ich würde befürchten, dass KI-Anwendungen zu viele vertrauliche Informationen über unser Unternehmen speichern.
+33. **SEG_3:** Meine Kolleginnen und Kollegen verstehen meine beruflichen Herausforderungen sehr gut.

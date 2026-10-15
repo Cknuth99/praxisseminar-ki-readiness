@@ -1,0 +1,101 @@
+### F) Prüftabelle
+
+| Item-ID | Befund | Begründung | Änderung |
+| :--- | :--- | :--- | :--- |
+| **NABS1** | ok | Frei von Doppelfragen, verständlich, nutzt korrekte hypothetische Bedingung ("wenn sie verfügbar sind"). | keine |
+| **NABS2** | ok | Sachliche Zukunftsorientierung, setzt keine vorhandene KI voraus. | keine |
+| **NABS3** | ok | Methodisch sauberes, hypothetisch formuliertes Item zur Nutzungsabsicht. | keine |
+| **EINST1** | ok | Einwandfreie Erfassung der kognitiven Einstellung mit Arbeitsplatzbezug. | keine |
+| **EINST2** | ok | Affektive Einstellungskomponente ohne methodische Mängel. | keine |
+| **EINST3** | ok | Korrekt als entgegen der Konstruktrichtung formuliert `(R)` gekennzeichnet und Herkunft regelgemäß als "neu" eingestuft. | keine |
+| **NORM1** | ok | Erfasst sozialen Einfluss wichtiger Personen ohne Vorannahmen über reale Nutzung. | keine |
+| **NORM2** | ok | Passt exakt zur Konstruktdefinition wahrgenommener Normen im Kollegenkreis. | keine |
+| **NORM3** | ok | Klares Item ohne Doppel- oder Suggestivfrage. | keine |
+| **VKONT1** | ok | Drückt eigene Entscheidungsfreiheit präzise aus. | keine |
+| **VKONT2** | ok | Unzweideutige Erfassung der subjektiven Steuerungskontrolle. | keine |
+| **VKONT3** | ok | Verwendet saubere Konjunktiv-Formulierung ("könnte"). | keine |
+| **VERT1** | **Problem (1)** | Die Aufzählung "Antworten und Ergebnissen" stellt eine Aufzählung/Doppelfrage dar (Kriterium 1). | **"Ich würde den Ergebnissen von KI-Anwendungen an meinem Arbeitsplatz vertrauen."** |
+| **VERT2** | ok | Misst wahrgenommene Zuverlässigkeit ohne Annahme bereits genutzter KI. | keine |
+| **VERT3** | ok | Entgegen der Konstruktrichtung von Vertrauen formuliert, korrekt mit `(R)` gekennzeichnet und Herkunft "neu". | keine |
+| **NUTZ1** | **Problem (5, 6)** | "Effizienz" überschneidet sich inhaltlich mit "Wahrgenommener Leistung" (Kriterium 5). Zudem ist die Quelle F2 10(4) ("useful") im Original ohne Effizienz-Bezug und war doppelt vergeben (Kriterium 6). | **"Ich denke, dass der Einsatz von KI mir helfen könnte, Zeit bei meinen täglichen Aufgaben zu sparen."** *(angepasst aus F2 Item 10(1))* |
+| **NUTZ2** | ok | Passt zur Konstruktdefinition und ist sauber aus F2 Item 10(3) abgeleitet. | keine |
+| **NUTZ3** | ok | Exakte begriffliche Passung zu F2 Item 10(4) ("useful"). | keine |
+| **BEDI1** | ok | Verständliche Erfassung der wahrgenommenen Bedienerfreundlichkeit ohne KI-Vorerfahrung. | keine |
+| **BEDI2** | ok | Klares Item zur Verständlichkeit der Grundfunktionen. | keine |
+| **BEDI3** | ok | Umgekehrtes Item zur Komplexität, korrekt als `(R)` und Herkunft "neu" ausgewiesen. | keine |
+| **TTF1** | ok | Präzise Abbildung der Passung bei Planungsaufgaben im Konjunktiv. | keine |
+| **TTF2** | ok | Saubere Passung zur TTF-Definition für Kreativitätsaufgaben. | keine |
+| **TTF3** | ok | Klares Item zu Ausführungsaufgaben ohne Vorannahmen. | keine |
+| **LEIST1** | **Problem (6)** | Wurde als "übernommen" deklariert, obwohl der Gegenstand ("VR") durch "KI" ersetzt wurde. Regelgemäß zwingend "angepasst" (Kriterium 6). | Herkunftsdeklaration auf **"angepasst"** korrigieren *(Original: "... Nutzung von VR verbessern würde")*. |
+| **LEIST2** | **Problem (6)** | Wurde als "übernommen" deklariert, obwohl "VR" durch "KI" ersetzt wurde. Regelgemäß zwingend "angepasst" (Kriterium 6). | Herkunftsdeklaration auf **"angepasst"** korrigieren *(Original: "... Nutzung von VR meine Aufgaben ...")*. |
+| **LEIST3** | **Problem (6)** | Wurde als "übernommen" deklariert, obwohl "VR" durch "KI" ersetzt wurde. Regelgemäß zwingend "angepasst" (Kriterium 6). | Herkunftsdeklaration auf **"angepasst"** korrigieren *(Original: "... Nutzung von VR verbessern würde")*. |
+| **WOHL1** | **Problem (6, 7)** | Bei dem positiv definierten Zielkonstrukt "Wohlwollen" (Benevolence) sind Items zur Unheimlichkeit entgegen der Konstruktrichtung formuliert. Erfordert `(R)` und Herkunft "neu" (Kriterium 6, 7). | `(R)`-Kennzeichnung auf **(R)** setzen, Herkunft auf **"neu"** anpassen. |
+| **WOHL2** | **Problem (6, 7)** | "Unangenehm" ist entgegen der Zielrichtung von Wohlwollen formuliert. Erfordert `(R)` und Herkunft "neu" (Kriterium 6, 7). | `(R)`-Kennzeichnung auf **(R)** setzen, Herkunft auf **"neu"** anpassen. |
+| **WOHL3** | **Problem (6, 7)** | "Fremdartig" ist entgegen der Zielrichtung von Wohlwollen formuliert. Erfordert `(R)` und Herkunft "neu" (Kriterium 6, 7). | `(R)`-Kennzeichnung auf **(R)** setzen, Herkunft auf **"neu"** anpassen. |
+| **FAEH1** | ok | Verständlich formuliert, misst Nachvollziehbarkeit und Erklärbarkeit. | keine |
+| **FAEH2** | ok | Klares Kriterium zur Ergebniskontrolle, auch ohne KI-Vorerfahrung verständlich. | keine |
+| **FAEH3** | ok | Passt exakt zur Definition des kognitiven Funktionsverständnisses. | keine |
+| **INTEG1** | ok | Sachliche Abfrage der Datenschutzbedenken ohne versteckte Nutzung Annahmen. | keine |
+| **INTEG2** | ok | Positiv gewendetes Datenschutz-Item, inhaltlich einwandfrei. | keine |
+| **INTEG3** | ok | Umgekehrtes Item zur Befürchtung unzureichenden Datenschutzes, korrekt mit `(R)` und Herkunft "neu" versehen. | keine |
+
+---
+
+### G) Prüfung der Gesamtstruktur
+
+* **Vollständigkeit des Konstrukt-Inventars**: Das Konstrukt-Inventar in Abschnitt C ist vollständig. Es führt ausnahmslos alle 40 Überschriften-Konstrukte aus den fünf Fragebögen des Datensatzes auf (Fragebogen 1: 12, Fragebogen 2: 14, Fragebogen 3: 5, Fragebogen 4: 5, Fragebogen 5: 4) und weist die Gesamtzahl pro Fragebogen korrekt aus.
+* **Abdeckung der gewählten Theorien**: Sämtliche Konstrukte der drei gewählten Theorien (Reasoned Action Approach, Integratives Vertrauensmodell, Task-Technology Fit Modell) wurden im Schema berücksichtigt. Konstrukte, die rein deskriptiver Natur sind (wie Aufgabentypen oder Technologieeigenschaften im TTF-Modell), wurden ausdrücklich und sachlich begründet ausgeschlossen.
+* **Einhaltung der Einleitungsvorgaben**: Die Einleitung enthält keinerlei inhaltliche Zusagen oder Versprechungen zu Anonymität, Vertraulichkeit, Datenverwendung oder Bearbeitungsdauer. Alle organisatorischen Hinweise werden strikt durch die Platzhalter `[Dauer]` und `[Hinweis zum Datenschutz]` abgedeckt.
+
+---
+
+### H) Finaler Fragebogen mit allen Änderungen
+
+**Fragebogen zur Nutzung von Künstlicher Intelligenz am Arbeitsplatz**
+
+**Einleitung:**
+Künstliche Intelligenz (KI) bezeichnet Softwaresysteme und digitale Werkzeuge, die menschliche Aufgaben wie das Erstellen von Texten, das Analysieren von Daten oder das Lösen von Problemen unterstützen können, indem sie automatisch Muster in Daten erkennen und darauf basierend Vorschläge oder Ergebnisse generieren. Im Folgenden möchten wir Ihre persönliche Einschätzung zu möglichen KI-Anwendungen an Ihrem Arbeitsplatz erfahren. Auch wenn Sie bislang keine KI nutzen oder keine Vorkenntnisse besitzen, sind Ihre Erwartungen und Einschätzungen für uns von Bedeutung.
+
+Bitte beantworten Sie die nachfolgenden Aussagen auf der Skala von **1 = stimme überhaupt nicht zu** bis **7 = stimme voll und ganz zu**.
+
+`[Dauer]`
+`[Hinweis zum Datenschutz]`
+
+---
+
+* M01: Ich beabsichtige, KI-Anwendungen an meinem Arbeitsplatz zu nutzen, wenn sie verfügbar sind.
+* M02: Die Nutzung von KI an meinem Arbeitsplatz wäre für mich vorteilhaft.
+* M03: Personen, die mir an meinem Arbeitsplatz wichtig sind, würden mir die Nutzung von KI empfehlen.
+* M04: Es läge allein in meiner Entscheidung, ob ich KI an meinem Arbeitsplatz nutze.
+* M05: Ich würde den Ergebnissen von KI-Anwendungen an meinem Arbeitsplatz vertrauen.
+* M06: Ich denke, dass der Einsatz von KI mir helfen könnte, Zeit bei meinen täglichen Aufgaben zu sparen.
+* M07: Ich denke, dass die Bedienung von KI-Anwendungen für mich einfach wäre.
+* M08: Ich denke, dass KI meine Aufgaben bei der strukturierten Planung von Abläufen unterstützen könnte.
+* M09: Ich denke, dass sich meine Arbeitsleistung durch die Nutzung von KI verbessern würde.
+* M10: Ich würde KI-Anwendungen an meinem Arbeitsplatz als unheimlich empfinden.
+* M11: Ich könnte nachvollziehen, wie KI-Anwendungen an meinem Arbeitsplatz zu ihren Ergebnissen kommen.
+* M12: Ich hätte keine Bedenken, dass durch die Nutzung von KI interne Informationen an Dritte weitergegeben werden.
+* M13: Ich fände den Einsatz von KI bei meiner täglichen Arbeit erfreulich.
+* M14: Ich plane, KI-Anwendungen zukünftig für meine Arbeitstätigkeit einzusetzen.
+* M15: Ich hätte die volle Kontrolle darüber, ob ich KI für meine Aufgaben einsetze.
+* M16: Meine Kolleginnen und Kollegen in einer ähnlichen Position würden mir empfehlen, KI zu nutzen.
+* M17: Ich glaube, dass mir KI-Anwendungen bei der Bewältigung meiner Aufgaben helfen könnten.
+* M18: Ich würde KI-Anwendungen an meinem Arbeitsplatz als zuverlässig einstufen.
+* M19: Ich glaube, dass KI mich bei Aufgaben unterstützen könnte, die die Entwicklung neuer Ideen erfordern.
+* M20: Ich glaube, dass die Grundfunktionen von KI-Werkzeugen leicht zu verstehen wären.
+* M21: Ich würde den Einsatz von KI bei meiner täglichen Arbeit als unangenehm empfinden.
+* M22: Ich glaube, dass ich meine Aufgaben mit KI besser erledigen könnte als ohne sie.
+* M23: Ich würde davon ausgehen, dass unsere Interaktionsdaten bei der Nutzung von KI sicher sind.
+* M24: Ich könnte beurteilen, ob die von einer KI gelieferten Ergebnisse richtig sind.
+* M25: Personen, deren fachliche Meinung ich schätze, würden mir zum Einsatz von KI raten.
+* M26: Ich würde KI-Anwendungen an meinem Arbeitsplatz definitiv nutzen, wenn mir die Möglichkeit geboten würde.
+* M27: Ich würde mich nicht wohl dabei fühlen, wenn KI arbeitskritische Aufgaben ohne menschliche Kontrolle übernimmt.
+* M28: Ich fände den Einsatz von KI an meinem Arbeitsplatz unbefriedigend.
+* M29: Die Nutzung von KI-Anwendungen fände ich in meiner täglichen Arbeit kompliziert.
+* M30: Wenn ich es wirklich wollte, könnte ich KI jederzeit an meinem Arbeitsplatz nutzen.
+* M31: Ich denke, dass sich die Qualität meiner Arbeitsergebnisse durch den Einsatz von KI erhöhen würde.
+* M32: Ich denke, dass der Einsatz von KI an meinem Arbeitsplatz nützlich wäre.
+* M33: Ich wüsste grundlegend, wie KI-Systeme an meinem Arbeitsplatz funktionieren.
+* M34: Ich glaube, dass KI mich bei Aufgaben unterstützen könnte, die klar definierten Arbeitsabläufen folgen.
+* M35: Ich würde die Interaktion mit KI-Systemen an meinem Arbeitsplatz als fremdartig empfinden.
+* M36: Ich würde befürchten, dass KI-Systeme zu viele vertrauliche Informationen über unser Unternehmen speichern.

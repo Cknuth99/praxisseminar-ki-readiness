@@ -1,0 +1,168 @@
+### A) Definitionen
+
+**KI-Readiness (Arbeitsdefinition):**
+KI-Readiness bezeichnet die kognitive, affektive und soziale Bereitschaft sowie die wahrgenommenen persönlichen und organisatorischen Voraussetzungen von Mitarbeitenden, KI-gestützte Systeme im eigenen Arbeitskontext zielgerichtet einzusetzen. Sie umfasst neben der Nutzungsabsicht auch das Vertrauen in die Technologie, die wahrgenommene Aufgabenpassung sowie die Einbettung in ein unterstützendes soziales Arbeitsumfeld. *(Eigene Arbeitsdefinition, da eine explizite Definition des Begriffs in den Quellen fehlt).*
+
+**Künstliche Intelligenz (KI) im Fragebogen:**
+Unter Künstlicher Intelligenz (KI) werden im Fragebogen Softwareanwendungen und digitale Systeme verstanden, die menschliche Fähigkeiten wie Problemlösen, Text- und Datenverarbeitung, Mustererkennung oder Kommunikation unterstützen oder automatisieren, indem sie auf Basis eingegebener Daten Informationen verarbeiten und Handlungsempfehlungen oder Ergebnisse generieren. *(Sachliche Arbeitsdefinition, abgeleitet aus).*
+
+---
+
+### B) Theorien mit Begründung
+
+Zur theoretischen Erklärung der KI-Readiness werden drei komplementäre Theorien aus den Quellen herangezogen, die kognitive, affektive und soziale Aspekte abdecken:
+
+1. **Unified Theory of Acceptance and Use of Technology 2 (UTAUT2):**
+   * **Begründung (Kognitive Aspekte):** UTAUT2 erklärt die rational-kognitive Bewertung von Technologien durch Mitarbeitende. Kernkonstrukte wie die wahrgenommene Nützlichkeit (*Perceived Usefulness*) und die wahrgenommene Benutzerfreundlichkeit (*Perceived Ease of Use*) erfassen, inwiefern Mitarbeitende einen klaren Leistungsgewinn und eine geringe Aufwandshürde bei der KI-Nutzung am Arbeitsplatz erwarten.
+2. **Organisatorisches Vertrauensmodell (Mayer, Davis & Schoorman, 1995 / Do Khac et al., 2025):**
+   * **Begründung (Affektive und einstellungsbezogene Aspekte):** Die Akzeptanz von KI hängt stark von vertrauens- und risikoassoziierten Wahrnehmungen ab. Das Modell erklärt, wie die wahrgenommene Fähigkeit/Erklärbarkeit (*Ability*) und die Integrität/Datensicherheit (*Integrity*) der KI das Vertrauen (*Trust*) und die emotionale Einstellung (*Attitude*) der Mitarbeitenden prägen.
+3. **Reasoned Action Approach (RAA) / Theory of Planned Behavior (TPB) & Socio-Technical Systems (STS) Theory:**
+   * **Begründung (Soziale Aspekte):** Die RAA erfasst über die wahrgenommenen Normen (*Perceived Norms*) den sozialen Druck und die Erwartungen von Führungskräften sowie Kolleginnen und Kollegen. Ergänzend zeigt die STS-Theorie, dass der allgemeine soziale Austausch (*Social Exchange in General*) im Betrieb die Einbettung neuer Technologien maßgeblich unterstützt.
+
+---
+
+### C) Konstrukt-Inventar
+
+**Anzahl der Konstrukte pro Fragebogen in den Quellen:**
+* **Fragebogen 1 (Cataract, Arthrosis, Diabetes - HIS):** 11 Konstrukte
+* **Fragebogen 2 (PowerPilot - Energy Monitoring):** 14 Konstrukte
+* **Fragebogen 3 (Task-Technology Fit in VR):** 5 Konstrukte
+* **Fragebogen 4 (Trust towards LLMs in companies):** 5 Konstrukte
+* **Fragebogen 5 (Social Communication in Virtual Meetings):** 4 Konstrukte
+* **Gesamtzahl der Kandidatenkonstrukte:** 39 Konstrukte.
+
+Für das finale Messinstrument wurden **11 Konstrukte** priorisiert und ausgewählt (Maximalgrenze: 12).
+
+| Konstrukt | Fragebogen | Entscheid | Begründung |
+| :--- | :--- | :--- | :--- |
+| **1. Intention to use (HIS)** | Fragebogen 1 | **Aufnehmen** | Wird gemäß Vorgabe als zentrales Zielkonstrukt (Nutzungsabsicht) in den Fragebogen aufgenommen. |
+| **2. Attitude (HIS)** | Fragebogen 1 | **Aufnehmen** | Kernkonstrukt der RAA und UTAUT2 zur Erfassung der affektiv-evaluativen Einstellung gegenüber KI. |
+| **3. Fear (HIS)** | Fragebogen 1 | **Ausschließen** | Wird ausgeschlossen, da emotionale Bedenken bereits über die Valenz der Einstellung und Vertrauensindikatoren abgedeckt werden. |
+| **4. Perceived response efficacy** | Fragebogen 1 | **Ausschließen** | Redundant zur allgemeineren *Perceived Usefulness* aus UTAUT2, die für Arbeitsplatz-KI etablierter ist. |
+| **5. Perceived behavioral control** | Fragebogen 1 | **Aufnehmen** | Kernkonstrukt der RAA zur Messung der wahrgenommenen Handlungsautonomie bei der Entscheidung für KI. |
+| **6. Perceived costs/barriers (HIS)** | Fragebogen 1 | **Ausschließen** | Finanzielle Kosten liegen beim Arbeitgeber; zudem empirisch in allen KI-Medizinszenarien ohne direkten Effekt [68, Multimedia Appendix 1]. |
+| **7. Attitude (disease)** | Fragebogen 1 | **Ausschließen** | Spezifisch für medizinische Erkrankungen und inhaltlich nicht auf den betrieblichen KI-Kontext übertragbar. |
+| **8. Fear (disease)** | Fragebogen 1 | **Ausschließen** | Krankheitsbezogenes Affektkonstrukt ohne Relevanz für betriebliche KI-Readiness. |
+| **9. Perceived vulnerability** | Fragebogen 1 | **Ausschließen** | Krankheitsbezogene Verwundbarkeit; für allgemeine Arbeitsplatz-KI ungeeignet. |
+| **10. Perceived severity** | Fragebogen 1 | **Ausschließen** | Erfasst die Schwere von Krankheiten und besitzt keinen Bezug zu KI am Arbeitsplatz. |
+| **11. Perceived norms** | Fragebogen 1 | **Aufnehmen** | Kernkonstrukt der RAA zur Erfassung des sozialen Einflusses durch das berufliche Umfeld. |
+| **12. Intention to use** | Fragebogen 2 | **Ausschließen** | Redundant zum bereits aufgenommenen Zielkonstrukt *Intention to use* aus Fragebogen 1. |
+| **13. Attitude** | Fragebogen 2 | **Ausschließen** | Redundant zum bereits aufgenommenen Konstrukt *Attitude* aus Fragebogen 1. |
+| **14. Perceived norms** | Fragebogen 2 | **Ausschließen** | Redundant zu *Perceived Norms* aus Fragebogen 1. |
+| **15. Perceived behavioral control** | Fragebogen 2 | **Ausschließen** | Redundant zu Fragebogen 1; zeigte zudem empirisch inkonsistente/negative Effekte auf die Nutzungsabsicht. |
+| **16. Trust** | Fragebogen 2 | **Aufnehmen** | Kernkonstrukt des Vertrauensmodells zur Messung des Vertrauens in KI-generierte Arbeitsergebnisse. |
+| **17. Fear towards environmental hazards**| Fragebogen 2 | **Ausschließen** | Kontextspezifisch für Umweltkatastrophen und empirisch ohne signifikanten Einfluss auf die Verhaltenskontrolle. |
+| **18. Hazard experiences** | Fragebogen 2 | **Ausschließen** | Spezifisch für Umweltereignisse und ungeeignet für KI-Readiness. |
+| **19. Habit** | Fragebogen 2 | **Ausschließen** | Da der bisherige KI-Einsatz im Unternehmen unbekannt ist, ist Routinenutzung vorab nicht messbar und empirisch nicht signifikant für PBC. |
+| **20. Perceived ease of use** | Fragebogen 2 | **Aufnehmen** | Kernkonstrukt aus UTAUT2 zur Erfassung der kognitiv wahrgenommenen Mühelosigkeit der KI-Bedienung. |
+| **21. Perceived usefulness** | Fragebogen 2 | **Aufnehmen** | Kernkonstrukt aus UTAUT2 zur Messung des kognitiven Leistungs- und Effizienzzuwachses durch KI. |
+| **22. Hedonic motivations** | Fragebogen 2 | **Ausschließen** | Zeigte im empirischen Modell keinen signifikanten Einfluss auf die Nutzungsabsicht. |
+| **23. Perceived costs/benefits** | Fragebogen 2 | **Ausschließen** | Relevante Kosten betreffen die Unternehmensebene, nicht die individuelle Einstellung der Mitarbeitenden. |
+| **24. Governmental regulations** | Fragebogen 2 | **Ausschließen** | Konzentriert sich auf staatliche Förderungen und ist für den betriebsinternen KI-Einsatz sekundär. |
+| **25. Environmental concerns** | Fragebogen 2 | **Ausschließen** | Spezifisches Umweltkonstrukt ohne signifikanten Einfluss auf die Verhaltenskontrolle. |
+| **26. Task Characteristics (TC)** | Fragebogen 3 | **Ausschließen** | Dient als Relevanzfilter für Aufgabentypen und misst nicht die individuelle Bereitschaft der Mitarbeitenden. |
+| **27. Technology Characteristics (TeC)**| Fragebogen 3 | **Ausschließen** | Fokussiert auf spezifische VR-Eigenschaften (z. B. Immersion), die nicht auf allgemeine KI übertragbar sind. |
+| **28. Task-Technology Fit (TTF)** | Fragebogen 3 | **Aufnehmen** | Kernkonstrukt zur Messung der kognitiven Eignung von KI für spezifische Arbeitsaufgaben. |
+| **29. Behavioral intention to use (BI)** | Fragebogen 3 | **Ausschließen** | Redundant zum aufgenommenen Zielkonstrukt *Intention to use* aus Fragebogen 1. |
+| **30. Perceived Performance (PERF)** | Fragebogen 3 | **Ausschließen** | Redundant zur *Perceived Usefulness*, die die Leistungsverbesserung durch Technologie bereits abdeckt. |
+| **31. Intention to use** | Fragebogen 4 | **Ausschließen** | Redundant zum aufgenommenen Zielkonstrukt *Intention to use* aus Fragebogen 1. |
+| **32. Trust** | Fragebogen 4 | **Ausschließen** | Redundant zum aufgenommenen Konstrukt *Trust* aus Fragebogen 2. |
+| **33. Benevolence** | Fragebogen 4 | **Ausschließen** | Zeigte empirisch in allen Unternehmensbereichen keinen signifikanten Einfluss auf Vertrauen. |
+| **34. Ability** | Fragebogen 4 | **Aufnehmen** | Erfasst kognitiv das Verständnis und die Nachvollziehbarkeit (Erklärbarkeit) von KI-Ergebnissen. |
+| **35. Integrity** | Fragebogen 4 | **Aufnehmen** | Erfasst das Vertrauen in den sicheren und vertraulichen Umgang der KI mit Unternehmensdaten. |
+| **36. Perceived Technical Aspects (PTAVM)**| Fragebogen 5 | **Ausschließen** | Spezifisch für Videokonferenzen formuliert und nicht auf allgemeine KI-Systeme übertragbar. |
+| **37. Social Communication (SCVM)** | Fragebogen 5 | **Ausschließen** | Meeting-Spezifisch und zeigte empirisch keinen signifikanten Einfluss auf Work Engagement. |
+| **38. Social Exchange in General (SEG)** | Fragebogen 5 | **Aufnehmen** | Erfasst das soziale Unterstützungsumfeld und die Hilfsbereitschaft im Team als Nährboden für KI-Readiness. |
+| **39. Work Engagement (WE)** | Fragebogen 5 | **Ausschließen** | Allgemeines Arbeitskonstrukt, das keine spezifische KI-Readiness misst. |
+
+---
+
+### D) Item-Tabelle
+
+| Konstrukt | Definition | Item-ID | Item | (R) | Herkunft | Quelle |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| **Nutzungsabsicht** | Die Absicht einer Person, ein KI-basiertes System zukünftig für die eigenen Arbeitsaufgaben einzusetzen. | **INT_1** | Ich beabsichtige, KI zukünftig für die Erledigung meiner Arbeitsaufgaben einzusetzen. | Nein | angepasst (Original: "Ich beabsichtige, Virtual Reality künftig für meine Aufgaben einzusetzen.") | Fragebogen 3, BI-1 |
+| **Nutzungsabsicht** | Die Absicht einer Person, ein KI-basiertes System zukünftig für die eigenen Arbeitsaufgaben einzusetzen. | **INT_2** | Ich plane, KI-gestützte Anwendungen bei meinen beruflichen Tätigkeiten zu nutzen. | Nein | angepasst (Original: "Ich plane, Virtual Reality für meine Aufgaben zu nutzen.") | Fragebogen 3, BI-2 |
+| **Nutzungsabsicht** | Die Absicht einer Person, ein KI-basiertes System zukünftig für die eigenen Arbeitsaufgaben einzusetzen. | **INT_3** | Wenn passende KI-Anwendungen an meinem Arbeitsplatz verfügbar wären, würde ich diese nutzen. | Nein | angepasst (Original: "Wenn Virtual Reality verfügbar wäre, würde ich sie für meine Aufgaben einsetzen.") | Fragebogen 3, BI-3 |
+| **Einstellung** | Die allgemeine bewertende Haltung einer Person gegenüber der Nutzung von KI am Arbeitsplatz. | **ATT_1** | Ich fände den Einsatz von KI an meinem Arbeitsplatz vorteilhaft. | Nein | angepasst (Original: "The use of PowerPilot would be… advantageous.") | Fragebogen 2, Attitude-1 |
+| **Einstellung** | Die allgemeine bewertende Haltung einer Person gegenüber der Nutzung von KI am Arbeitsplatz. | **ATT_2** | Die Nutzung von KI-Anwendungen bei meiner Arbeit würde ich als zufriedenstellend empfinden. | Nein | angepasst (Original: "The use of PowerPilot would be… satisfactory.") | Fragebogen 2, Attitude-2 |
+| **Einstellung** | Die allgemeine bewertende Haltung einer Person gegenüber der Nutzung von KI am Arbeitsplatz. | **ATT_3** | Ich fände den Einsatz von KI an meinem Arbeitsplatz unbefriedigend. | **(R)** | neu (Invertiertes Item zur Kontrolle von Antworttendenzen) | Fragebogen 2, Attitude-2 |
+| **Wahrgenommene Verhaltenskontrolle** | Der Grad an Handlungsfreiheit und persönlicher Kontrolle bezüglich der Entscheidung zur KI-Nutzung. | **PBC_1** | Die Entscheidung, ob ich KI an meinem Arbeitsplatz nutze, würde allein bei mir liegen. | Nein | angepasst (Original: "Whether I choose the treatment or not, is solely up to me.") | Fragebogen 1, PBC-3 |
+| **Wahrgenommene Verhaltenskontrolle** | Der Grad an Handlungsfreiheit und persönlicher Kontrolle bezüglich der Entscheidung zur KI-Nutzung. | **PBC_2** | Es stünde unter meiner eigenen Kontrolle, ob ich KI-Anwendungen für meine Aufgaben einsetze. | Nein | angepasst (Original: "It is under my control to use PowerPilot.") | Fragebogen 2, PBC-1 |
+| **Wahrgenommene Verhaltenskontrolle** | Der Grad an Handlungsfreiheit und persönlicher Kontrolle bezüglich der Entscheidung zur KI-Nutzung. | **PBC_3** | Wenn ich es wirklich wollte, könnte ich KI an meinem Arbeitsplatz nutzen. | Nein | angepasst (Original: "If I really want to, I can use PowerPilot.") | Fragebogen 2, PBC-4 |
+| **Wahrgenommene Normen** | Die wahrgenommenen Erwartungen von Personen im beruflichen Umfeld bezüglich der KI-Nutzung. | **PN_1** | Personen, deren fachliche Meinung ich schätze, würden mir raten, KI-Anwendungen zu nutzen. | Nein | angepasst (Original: "Individuals whose opinion I appreciate would advise me to use the described treatment.") | Fragebogen 1, Perceived norms-3 |
+| **Wahrgenommene Normen** | Die wahrgenommenen Erwartungen von Personen im beruflichen Umfeld bezüglich der KI-Nutzung. | **PN_2** | Meine Kolleginnen und Kollegen in einer ähnlichen Position würden mir die Nutzung von KI empfehlen. | Nein | angepasst (Original: "My colleagues at work in a situation similar to mine would recommend me to use PowerPilot.") | Fragebogen 2, Perceived norms-3 |
+| **Wahrgenommene Normen** | Die wahrgenommenen Erwartungen von Personen im beruflichen Umfeld bezüglich der KI-Nutzung. | **PN_3** | Personen in meinem beruflichen Umfeld, die mich beeinflussen, würden mir zum Einsatz von KI raten. | Nein | angepasst (Original: "Individuals from whom I let myself be influenced would advise me to use the described treatment.") | Fragebogen 1, Perceived norms-1 |
+| **Vertrauen** | Die Bereitschaft, sich auf die Korrektheit und Verlässlichkeit von KI-Anwendungen zu verlassen. | **TRU_1** | Ich würde den durch eine KI generierten Antworten an meinem Arbeitsplatz vertrauen. | Nein | angepasst (Original: "Ich vertraue den Antworten von ChatGPT.") | Fragebogen 4, T4 |
+| **Vertrauen** | Die Bereitschaft, sich auf die Korrektheit und Verlässlichkeit von KI-Anwendungen zu verlassen. | **TRU_2** | Ich würde eine KI-Anwendung an meinem Arbeitsplatz für zuverlässig halten. | Nein | angepasst (Original: "PowerPilot is reliable.") | Fragebogen 2, Trust-1 |
+| **Vertrauen** | Die Bereitschaft, sich auf die Korrektheit und Verlässlichkeit von KI-Anwendungen zu verlassen. | **TRU_3** | Ich würde eine KI-Anwendung bei meiner Arbeit für verlässlich halten. | Nein | angepasst (Original: "PowerPilot is dependable.") | Fragebogen 2, Trust-2 |
+| **Wahrgenommene Benutzerfreundlichkeit** | Das Ausmaß, in dem eine Person glaubt, dass die Nutzung von KI mühelos und einfach verständlich wäre. | **PEOU_1** | Ich denke, dass die Bedienung von KI-Anwendungen an meinem Arbeitsplatz einfach wäre. | Nein | angepasst (Original: "I think it is easy to operate PowerPilot.") | Fragebogen 2, PEOU-1 |
+| **Wahrgenommene Benutzerfreundlichkeit** | Das Ausmaß, in dem eine Person glaubt, dass die Nutzung von KI mühelos und einfach verständlich wäre. | **PEOU_2** | Ich denke, dass die Hauptfunktionen von KI-Anwendungen für mich leicht zu verstehen wären. | Nein | angepasst (Original: "I think that the main function of PowerPilot is easy to understand.") | Fragebogen 2, PEOU-2 |
+| **Wahrgenommene Benutzerfreundlichkeit** | Das Ausmaß, in dem eine Person glaubt, dass die Nutzung von KI mühelos und einfach verständlich wäre. | **PEOU_3** | Zusammenfassend wäre der Einsatz von KI für mich einfach zu handhaben. | Nein | angepasst (Original: "In other words, PowerPilot is easy for me to use.") | Fragebogen 2, PEOU-3 |
+| **Wahrgenommene Nützlichkeit** | Die Einschätzung, dass der Einsatz von KI die eigene Arbeitsleistung oder Effizienz verbessert. | **PU_1** | Ich denke, dass die Nutzung von KI meine Arbeitsleistung verbessern könnte. | Nein | angepasst (Original: "Ich denke, dass sich meine Leistung bei meinen Aufgaben durch die Nutzung von Virtual Reality verbessern würde.") | Fragebogen 3, PERF-1 |
+| **Wahrgenommene Nützlichkeit** | Die Einschätzung, dass der Einsatz von KI die eigene Arbeitsleistung oder Effizienz verbessert. | **PU_2** | Ich denke, dass mir KI-Anwendungen helfen könnten, meine Arbeit effizienter zu erledigen. | Nein | neu (Konzeptuelle Ableitung zur Erfassung betrieblicher Effizienzgewinne) | Fragebogen 2, PUSF |
+| **Wahrgenommene Nützlichkeit** | Die Einschätzung, dass der Einsatz von KI die eigene Arbeitsleistung oder Effizienz verbessert. | **PU_3** | Zusammenfassend hielte ich den Einsatz von KI an meinem Arbeitsplatz für nützlich. | Nein | angepasst (Original: "In other words, PowerPilot is useful.") | Fragebogen 2, PUSF-4 |
+| **Aufgaben-Technologie-Passung** | Die Wahrnehmung, wie gut die Funktionen einer KI zu den Anforderungen der Arbeitsaufgaben passen. | **TTF_1** | Ich denke, dass KI-Anwendungen meine Aufgaben unterstützen könnten, die eine strukturierte Planung erfordern. | Nein | angepasst (Original: "Ich denke, dass Virtual Reality meine Aufgaben unterstützen kann, die eine strukturierte Planung von Abläufen erfordern.") | Fragebogen 3, TTF Planning-1 |
+| **Aufgaben-Technologie-Passung** | Die Wahrnehmung, wie gut die Funktionen einer KI zu den Anforderungen der Arbeitsaufgaben passen. | **TTF_2** | Ich denke, dass KI meine Aufgaben unterstützen könnte, bei denen neue Ideen entwickelt werden müssen. | Nein | angepasst (Original: "Ich denke, dass Virtual Reality meine Aufgaben unterstützen kann, bei denen ich neue Ideen für bestehende oder neue Anforderungen entwickle.") | Fragebogen 3, TTF Creativity-1 |
+| **Aufgaben-Technologie-Passung** | Die Wahrnehmung, wie gut die Funktionen einer KI zu den Anforderungen der Arbeitsaufgaben passen. | **TTF_3** | Ich denke, dass KI meine Aufgaben unterstützen könnte, bei denen komplexe Entscheidungen zu treffen sind. | Nein | angepasst (Original: "Ich denke, dass Virtual Reality meine Aufgaben unterstützen kann, bei denen Entscheidungen ohne eindeutig richtige Antwort getroffen werden müssen.") | Fragebogen 3, TTF Judgment-1 |
+| **Fähigkeit / Erklärbarkeit** | Das Ausmaß, in dem eine Person die Funktionsweise und Korrektheit der KI nachvollziehen kann. | **ABI_1** | Ich wüsste, wie KI-Anwendungen an meinem Arbeitsplatz grundsätzlich funktionieren. | Nein | angepasst (Original: "Ich weiß, wie ChatGPT funktioniert.") | Fragebogen 4, X1 |
+| **Fähigkeit / Erklärbarkeit** | Das Ausmaß, in dem eine Person die Funktionsweise und Korrektheit der KI nachvollziehen kann. | **ABI_2** | Ich könnte nachvollziehen, wie eine KI zu ihren Arbeitsergebnissen kommt. | Nein | angepasst (Original: "Ich kann nachvollziehen, wie ChatGPT zu den Ergebnissen kommt.") | Fragebogen 4, X2 |
+| **Fähigkeit / Erklärbarkeit** | Das Ausmaß, in dem eine Person die Funktionsweise und Korrektheit der KI nachvollziehen kann. | **ABI_3** | Ich könnte beurteilen, ob die von einer KI gelieferten Ergebnisse richtig sind. | Nein | angepasst (Original: "Ich kann nachvollziehen, ob die Ergebnisse von ChatGPT richtig sind.") | Fragebogen 4, X3 |
+| **Integrität / Datenschutz** | Die Wahrnehmung, dass die KI vertrauliche Daten schützt und Unternehmensinhalte nicht missbraucht. | **ING_1** | Ich hätte keine Bedenken, dass KI-Anwendungen eingegebene Unternehmensinformationen an Dritte weitergeben. | Nein | angepasst (Original: "Ich habe keine Bedenken, dass ChatGPT unsere eingegebenen unternehmensinternen Informationen an Dritte weitergibt.") | Fragebogen 4, D1 |
+| **Integrität / Datenschutz** | Die Wahrnehmung, dass die KI vertrauliche Daten schützt und Unternehmensinhalte nicht missbraucht. | **ING_2** | Ich würde davon ausgehen, dass meine Interaktionsdaten bei der Nutzung von KI-Anwendungen sicher sind. | Nein | angepasst (Original: "Ich denke, dass die Interaktionsdaten unserer Nutzung von ChatGPT sicher sind.") | Fragebogen 4, D2 |
+| **Integrität / Datenschutz** | Die Wahrnehmung, dass die KI vertrauliche Daten schützt und Unternehmensinhalte nicht missbraucht. | **ING_3** | Ich würde befürchten, dass KI-Anwendungen zu viele vertrauliche Informationen über unser Unternehmen speichern. | **(R)** | neu (Invertiertes Item zur Messung von Datenschutzbedenken) | Fragebogen 4, D3 |
+| **Allgemeiner sozialer Austausch** | Das Ausmaß gegenseitiger fachlicher Unterstützung und gegenseitigen Verständnisses im Kollegium. | **SEG_1** | Meine Kolleginnen und Kollegen informieren mich, wenn ich etwas tue, das ihre Arbeit erleichtert. | Nein | übernommen (Original: "My colleagues inform me if I do something that facilitates their work.") | Fragebogen 5, SEG-1 |
+| **Allgemeiner sozialer Austausch** | Das Ausmaß gegenseitiger fachlicher Unterstützung und gegenseitigen Verständnisses im Kollegium. | **SEG_2** | Ich informiere meine Kolleginnen und Kollegen, wenn sie etwas tun, das meine Arbeit erleichtert. | Nein | übernommen (Original: "I inform my colleagues if they did something that facilitates my work.") | Fragebogen 5, SEG-2 |
+| **Allgemeiner sozialer Austausch** | Das Ausmaß gegenseitiger fachlicher Unterstützung und gegenseitigen Verständnisses im Kollegium. | **SEG_3** | Meine Kolleginnen und Kollegen verstehen meine beruflichen Herausforderungen sehr gut. | Nein | angepasst (Original: "My colleagues understand my problems very well.") | Fragebogen 5, SEG-4 |
+
+---
+
+### E) Fragebogen für die Mitarbeitenden
+
+#### Befragung zur KI-Readiness am Arbeitsplatz
+
+**Einleitung:**
+Unter Künstlicher Intelligenz (KI) werden Softwareanwendungen und digitale Systeme verstanden, die menschliche Fähigkeiten wie Problemlösen, Text- und Datenverarbeitung, Mustererkennung oder Kommunikation unterstützen oder automatisieren können, indem sie auf Basis eingegebener Daten Informationen verarbeiten und Ergebnisse oder Handlungsempfehlungen generieren. Solche KI-Anwendungen können als digitale Assistenten im Arbeitsalltag eingesetzt werden, um tägliche Abläufe zu begleiten oder Entscheidungsgrundlagen zu liefern.
+
+[Dauer]
+[Hinweis zum Datenschutz]
+
+---
+
+**Antwortskala:**
+Bitte bewerten Sie die folgenden Aussagen auf einer Skala von 1 bis 7.
+*(1 = stimme überhaupt nicht zu, 2 = stimme nicht zu, 3 = stimme eher nicht zu, 4 = neutral, 5 = stimme eher zu, 6 = stimme zu, 7 = stimme voll und ganz zu)*
+
+1. **INT_1:** Ich beabsichtige, KI zukünftig für die Erledigung meiner Arbeitsaufgaben einzusetzen.
+2. **ATT_1:** Ich fände den Einsatz von KI an meinem Arbeitsplatz vorteilhaft.
+3. **PBC_1:** Die Entscheidung, ob ich KI an meinem Arbeitsplatz nutze, würde allein bei mir liegen.
+4. **PN_1:** Personen, deren fachliche Meinung ich schätze, würden mir raten, KI-Anwendungen zu nutzen.
+5. **TRU_1:** Ich würde den durch eine KI generierten Antworten an meinem Arbeitsplatz vertrauen.
+6. **PEOU_1:** Ich denke, dass die Bedienung von KI-Anwendungen an meinem Arbeitsplatz einfach wäre.
+7. **PU_1:** Ich denke, dass die Nutzung von KI meine Arbeitsleistung verbessern könnte.
+8. **TTF_1:** Ich denke, dass KI-Anwendungen meine Aufgaben unterstützen könnten, die eine strukturierte Planung erfordern.
+9. **ABI_1:** Ich wüsste, wie KI-Anwendungen an meinem Arbeitsplatz grundsätzlich funktionieren.
+10. **ING_1:** Ich hätte keine Bedenken, dass KI-Anwendungen eingegebene Unternehmensinformationen an Dritte weitergeben.
+11. **SEG_1:** Meine Kolleginnen und Kollegen informieren mich, wenn ich etwas tue, das ihre Arbeit erleichtert.
+12. **INT_2:** Ich plane, KI-gestützte Anwendungen bei meinen beruflichen Tätigkeiten zu nutzen.
+13. **ATT_2:** Die Nutzung von KI-Anwendungen bei meiner Arbeit würde ich als zufriedenstellend empfinden.
+14. **PBC_2:** Es stünde unter meiner eigenen Kontrolle, ob ich KI-Anwendungen für meine Aufgaben einsetze.
+15. **PN_2:** Meine Kolleginnen und Kollegen in einer ähnlichen Position würden mir die Nutzung von KI empfehlen.
+16. **TRU_2:** Ich würde eine KI-Anwendung an meinem Arbeitsplatz für zuverlässig halten.
+17. **PEOU_2:** Ich denke, dass die Hauptfunktionen von KI-Anwendungen für mich leicht zu verstehen wären.
+18. **PU_2:** Ich denke, dass mir KI-Anwendungen helfen könnten, meine Arbeit effizienter zu erledigen.
+19. **TTF_2:** Ich denke, dass KI meine Aufgaben unterstützen könnte, bei denen neue Ideen entwickelt werden müssen.
+20. **ABI_2:** Ich könnte nachvollziehen, wie eine KI zu ihren Arbeitsergebnissen kommt.
+21. **ING_2:** Ich würde davon ausgehen, dass meine Interaktionsdaten bei der Nutzung von KI-Anwendungen sicher sind.
+22. **SEG_2:** Ich informiere meine Kolleginnen und Kollegen, wenn sie etwas tun, das meine Arbeit erleichtert.
+23. **INT_3:** Wenn passende KI-Anwendungen an meinem Arbeitsplatz verfügbar wären, würde ich diese nutzen.
+24. **ATT_3:** Ich fände den Einsatz von KI an meinem Arbeitsplatz unbefriedigend.
+25. **PBC_3:** Wenn ich es wirklich wollte, könnte ich KI an meinem Arbeitsplatz nutzen.
+26. **PN_3:** Personen in meinem beruflichen Umfeld, die mich beeinflussen, würden mir zum Einsatz von KI raten.
+27. **TRU_3:** Ich würde eine KI-Anwendung bei meiner Arbeit für verlässlich halten.
+28. **PEOU_3:** Zusammenfassend wäre der Einsatz von KI für mich einfach zu handhaben.
+29. **PU_3:** Zusammenfassend hielte ich den Einsatz von KI an meinem Arbeitsplatz für nützlich.
+30. **TTF_3:** Ich denke, dass KI meine Aufgaben unterstützen könnte, bei denen komplexe Entscheidungen zu treffen sind.
+31. **ABI_3:** Ich könnte beurteilen, ob die von einer KI gelieferten Ergebnisse richtig sind.
+32. **ING_3:** Ich würde befürchten, dass KI-Anwendungen zu viele vertrauliche Informationen über unser Unternehmen speichern.
+33. **SEG_3:** Meine Kolleginnen und Kollegen verstehen meine beruflichen Herausforderungen sehr gut.

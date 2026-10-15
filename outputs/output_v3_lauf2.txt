@@ -1,0 +1,183 @@
+### A) Definitionen
+
+**KI-Readiness (Eigene Arbeitsdefinition):**
+Da die Quellen den Begriff nicht explizit definieren, wird KI-Readiness als Arbeitsdefinition gefasst: KI-Readiness bezeichnet den individuellen Bereitschaftszustand von Mitarbeitenden, künstliche Intelligenz am eigenen Arbeitsplatz zu akzeptieren und künftig zielgerichtet zu nutzen. Sie umfasst die kognitive Überzeugung von der Nützlichkeit und Beherrschbarkeit der Technologie, die affektive Offenheit (Einstellung sowie Abbau von Befürchtungen) und die Wahrnehmung eines unterstützenden sozialen Umfelds.
+
+**Künstliche Intelligenz (KI) im Fragebogen:**
+Unter künstlicher Intelligenz (KI) werden im Fragebogen computergestützte Anwendungen verstanden, die menschliche Aufgaben wie das Lösen von Problemen, das Verarbeiten von Texten und Daten oder die Unterstützung bei Entscheidungen ausführen. Diese Definition ist bewusst allgemein verständlich gehalten und verzichtet auf spezielle technische Behauptungen (wie kontinuierliche Selbstlernprozesse), die nicht für alle KI-Systeme gelten.
+
+---
+
+### B) Theorien mit Begründung
+
+1. **Reasoned Action Approach (RAA) / Unified Theory of Acceptance and Use of Technology 2 (UTAUT2)** [41, 49, 52, 121–123]
+   * **Begründung:** RAA und UTAUT2 erklären Verhaltensabsichten durch das Zusammenspiel kognitiver Überzeugungen (wahrgenommene Nützlichkeit und Handlungssteuerung), affektiver Haltungen (Einstellung) und sozialer Einflüsse (wahrgenommene Normen). Diese Theorie ermöglicht eine ganzheitliche Erfassung aller drei geforderten Aspekte (kognitiv, affektiv, sozial) auf individueller Ebene.
+2. **Duality Approach / Integriertes Modell (Protection Motivation Theory / EPPM)** [31, 35, 46, 51–53]
+   * **Begründung:** Der Duality Approach berücksichtigt sowohl adaptive Beurteilungen (kognitiver Nutzen und Selbstwirksamkeit bezüglich der Technologie) als auch non-adaptive Reaktionen (affektive Ängste und Bedenken). Dies ist essenziell, um emotionale Vorbehalte und Verunsicherungen der Belegschaft gegenüber KI abzubilden.
+3. **Organisationales Vertrauensmodell nach Mayer et al. (1995)** [271, 280–281]
+   * **Begründung:** Das Modell erklärt die Nutzungsbereitschaft über kognitive Fähigkeiten der Technologie (Erklärbarkeit/Ability), affektive Barrieren (Unbehaglichkeit/Benevolence) und ethisch-soziale Standards (Datenschutz/Integrität). Es ergänzt die Akzeptanztheorien optimal für Kontexte, in denen KI neu im Unternehmen eingeführt wird.
+
+---
+
+### C) Konstrukt-Inventar
+
+| Konstrukt | Fragebogen / Quelle | aufnehmen / ausschließen | Begründung |
+| :--- | :--- | :--- | :--- |
+| **Intention to use (HIS) / BI** | Questionnaire 1, 2, 3 | **aufnehmen** | Wird als zentrales Zielkonstrukt zur Erfassung der Verhaltensabsicht verpflichtend aufgenommen. |
+| **Attitude (HIS) / Attitude** | Questionnaire 1, 2 | **aufnehmen** | Erfasst die affektive Grundhaltung und Bewertung gegenüber der KI-Nutzung gemäß RAA/UTAUT2. |
+| **Fear (HIS)** | Questionnaire 1 | **aufnehmen** | Deckt die emotionale Bedenken- und Angst-Dimension gegenüber Technologie ab. |
+| **Perceived response efficacy / Perceived usefulness** | Questionnaire 1, 2 | **aufnehmen** | Misst die kognitive Einschätzung des Nutzens und der Leistungssteigerung durch KI. |
+| **Perceived behavioral control** | Questionnaire 1, 2 | **aufnehmen** | Erfasst die kognitiv wahrgenommene Selbstwirksamkeit und Beherrschbarkeit der KI-Nutzung. |
+| **Perceived norms** | Questionnaire 1, 2 | **aufnehmen** | Deckt die soziale Dimension und den wahrgenommenen Erwartungsdruck des Kollegiums ab. |
+| **Abilities (HIS)** | Questionnaire 1 | **ausschließen** | Überschneidet sich inhaltlich mit der Verhaltenskontrolle und setzt teilweise konkretes Vorwissen voraus. |
+| **Perceived costs/barriers (HIS)** | Questionnaire 1 | **ausschließen** | Zielt primär auf gesundheitliche oder direkte finanzielle Lasten ab, die ohne konkretes System nicht bewertbar sind. |
+| **Attitude (disease)** | Questionnaire 1, 3 | **ausschließen** | Krankheitsbezogenes Konstrukt aus dem medizinischen Setting ohne Bezug zur Arbeitswelt. |
+| **Fear (disease)** | Questionnaire 1, 3 | **ausschließen** | Krankheitsbezogene Angst ohne Relevanz für betriebliche KI-Readiness. |
+| **Perceived vulnerability** | Questionnaire 1, 3 | **ausschließen** | Misst die individuelle Krankheitsanfälligkeit und ist nicht auf KI übertragbar. |
+| **Perceived severity** | Questionnaire 1, 3 | **ausschließen** | Erfasst die Schwere einer medizinischen Erkrankung. |
+| **Trust** | Questionnaire 2, 4 | **ausschließen** | Ist über Nützlichkeit und Verhaltenskontrolle abgedeckt und erfordert konkrete Systemerfahrungen. |
+| **Fear towards environmental hazards** | Questionnaire 2 | **ausschließen** | Spezifisch für Umweltgefahren im Smart-Home-Kontext. |
+| **Hazard experiences** | Questionnaire 2 | **ausschließen** | Erfasst vergangene Naturkatastrophen und ist kontextfremd. |
+| **Habit** | Questionnaire 2 | **ausschließen** | Setzt eine bereits etablierte Nutzungsgewohnheit im Unternehmen voraus. |
+| **Perceived ease of use** | Questionnaire 2 | **ausschließen** | Zur Wahrung der Eindimensionalität in das Konstrukt der Verhaltenskontrolle integriert. |
+| **Hedonic motivations** | Questionnaire 2 | **ausschließen** | Spielmotivation ist für die allgemeine betriebliche KI-Bereitschaft untergeordnet. |
+| **Perceived costs/benefits** | Questionnaire 2 | **ausschließen** | Redundant zur wahrgenommenen Nützlichkeit. |
+| **Governmental regulations** | Questionnaire 2 | **ausschließen** | Bezieht sich auf staatliche Förderungen im Energiesektor. |
+| **Environmental concerns** | Questionnaire 2 | **ausschließen** | Misst allgemeines Umweltbewusstsein ohne direkten KI-Bezug. |
+| **Planning Tasks** | Questionnaire 3 | **ausschließen** | Erfasst die Ist-Häufigkeit von Planungsaufgaben, kein KI-Estellungskonstrukt. |
+| **Creativity Tasks** | Questionnaire 3 | **ausschließen** | Erfasst Aufgabenhäufigkeiten von Kreativitätsaufgaben im Arbeitsalltag. |
+| **Judgment / Decision-Making Tasks** | Questionnaire 3 | **ausschließen** | Erfasst Aufgabenhäufigkeiten von Urteilsaufgaben. |
+| **Cognitive-Conflict Tasks** | Questionnaire 3 | **ausschließen** | Erfasst das Vorkommen von Diskussionsaufgaben am Arbeitsplatz. |
+| **Mixed-Motive Tasks** | Questionnaire 3 | **ausschließen** | Erfasst das Vorkommen von Verhandlungsaufgaben. |
+| **Contests / Competitive Tasks** | Questionnaire 3 | **ausschließen** | Erfasst Wettbewerbsaufgaben am Arbeitsplatz. |
+| **Execution / Performance Tasks** | Questionnaire 3 | **ausschließen** | Erfasst reine Ausführungsaufgaben im Arbeitsalltag. |
+| **Immersion (TeC)** | Questionnaire 3 | **ausschließen** | Spezifisches Eigenschaftskonstrukt für Virtual Reality. |
+| **Interactivity (TeC)** | Questionnaire 3 | **ausschließen** | Misst die technische Interaktivität virtueller Umgebungen. |
+| **Task-Technology Fit (TTF)** | Questionnaire 3 | **ausschließen** | Erfordert die konkrete Bewertung der Passung eines bereits genutzten Systems. |
+| **Perceived Performance (PERF)** | Questionnaire 3 | **ausschließen** | Inhaltlich vollständig durch die wahrgenommene Nützlichkeit abgedeckt. |
+| **Perceived Technical Aspects (PTAVM)** | Questionnaire 5 | **ausschließen** | Bezieht sich spezifisch auf Videokonferenzen und Webcams. |
+| **Social Communication (SCVM)** | Questionnaire 5 | **ausschließen** | Erfasst Kommunikationsregeln in virtuellen Meetings. |
+| **Social Exchange in General (SEG)** | Questionnaire 5 | **ausschließen** | Misst allgemeinen Kollegenaustausch ohne spezifischen KI-Bezug. |
+| **Work Engagement (WE)** | Questionnaire 5 | **ausschließen** | Erfasst allgemeine Arbeitsbegeisterung, nicht die KI-Bereitschaft. |
+
+---
+
+### D) Item-Tabelle
+
+| Konstrukt | Definition | Item | (R) | Herkunft | Quelle |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| **Nutzungsabsicht** | Die Absicht des Mitarbeitenden, KI bei Verfügbarkeit künftig am Arbeitsplatz zu nutzen. | Ich beabsichtige, künstliche Intelligenz bei meiner Arbeit zu nutzen, sobald sie mir zur Verfügung steht. | Nein | angepasst (Orig.: *"If Virtual Reality were available, I would use it for my tasks."*) | Questionnaire 3, BI-3 |
+| **Nutzungsabsicht** | Die Absicht des Mitarbeitenden, KI bei Verfügbarkeit künftig am Arbeitsplatz zu nutzen. | Ich plane, künftig Anwendungen künstlicher Intelligenz für meine beruflichen Aufgaben einzusetzen. | Nein | angepasst (Orig.: *"I plan to use Virtual Reality for my work activities."*) | Questionnaire 3, BI-2 |
+| **Nutzungsabsicht** | Die Absicht des Mitarbeitenden, KI bei Verfügbarkeit künftig am Arbeitsplatz zu nutzen. | Ich würde ein betriebliches KI-Angebot bestimmt nutzen, falls dieses an meinem Arbeitsplatz angeboten wird. | Nein | angepasst (Orig.: *"I would definitely use the described surgical opportunity if it would be available;"*) | Questionnaire 1, 1-1 |
+| **Einstellung zu KI** | Die allgemeine affektive Haltung und Bewertung bezüglich des Einsatzes von KI am Arbeitsplatz. | Ich stehe dem Einsatz künstlicher Intelligenz an meinem Arbeitsplatz positiv gegenüber. | Nein | angepasst (Orig.: *"I like the use of the described surgical opportunity."*) | Questionnaire 1, 2-5 |
+| **Einstellung zu KI** | Die allgemeine affektive Haltung und Bewertung bezüglich des Einsatzes von KI am Arbeitsplatz. | Ich finde den Gedanken vorteilhaft, künstliche Intelligenz bei meiner Arbeit einzusetzen. | Nein | angepasst (Orig.: *"The use of PowerPilot would be advantageous."*) | Questionnaire 2, 2-1 |
+| **Einstellung zu KI** | Die allgemeine affektive Haltung und Bewertung bezüglich des Einsatzes von KI am Arbeitsplatz. | Ich halte die Nutzung künstlicher Intelligenz in meinem Aufgabenbereich für eine gute Sache. | Nein | angepasst (Orig.: *"The use of PowerPilot would be satisfactory."*) | Questionnaire 2, 2-2 |
+| **Bedenken bezüglich KI** | Die affektiven Sorgen und Befürchtungen bezüglich negativer Konsequenzen von KI am Arbeitsplatz. | Der Gedanke an den Einsatz von künstlicher Intelligenz an meinem Arbeitsplatz löst bei mir Unbehagen aus. | (R) | angepasst (Orig.: *"The described surgical opportunity makes me feel anxious, uncomfortable..."*) | Questionnaire 1, 3-1 |
+| **Bedenken bezüglich KI** | Die affektiven Sorgen und Befürchtungen bezüglich negativer Konsequenzen von KI am Arbeitsplatz. | Die Vorstellung, mit künstlicher Intelligenz arbeiten zu müssen, macht mich nervös. | (R) | angepasst (Orig.: *"The described surgical opportunity makes me feel anxious, shaky and nervous."*) | Questionnaire 1, 3-3 |
+| **Bedenken bezüglich KI** | Die affektiven Sorgen und Befürchtungen bezüglich negativer Konsequenzen von KI am Arbeitsplatz. | Ich befürchte, dass der Einsatz von künstlicher Intelligenz meinen Arbeitsplatz beeinträchtigen könnte. | (R) | angepasst (Orig.: *"The described surgical opportunity makes me feel anxious, very strained, as I am in danger;"*) | Questionnaire 1, 3-2 |
+| **Wahrgenommene Nützlichkeit** | Die kognitive Überzeugung, dass KI die eigene Arbeitsleistung und Aufgabenerfüllung unterstützt. | Ich glaube, dass künstliche Intelligenz meine Arbeitsleistung bei beruflichen Aufgaben verbessern könnte. | Nein | angepasst (Orig.: *"I believe that using Virtual Reality would improve my performance on work tasks."*) | Questionnaire 3, PERF-1 |
+| **Wahrgenommene Nützlichkeit** | Die kognitive Überzeugung, dass KI die eigene Arbeitsleistung und Aufgabenerfüllung unterstützt. | Ich gehe davon aus, dass künstliche Intelligenz mir helfen könnte, meine Arbeitsaufgaben schneller zu erledigen. | Nein | angepasst (Orig.: *"I believe that I could perform my tasks better using Virtual Reality than without it."*) | Questionnaire 3, PERF-2 |
+| **Wahrgenommene Nützlichkeit** | Die kognitive Überzeugung, dass KI die eigene Arbeitsleistung und Aufgabenerfüllung unterstützt. | Ich erwarte, dass der Einsatz künstlicher Intelligenz die Qualität meiner Arbeitsergebnisse steigern würde. | Nein | angepasst (Orig.: *"I believe that the quality of my work results would improve through the use of Virtual Reality."*) | Questionnaire 3, PERF-3 |
+| **Wahrgenommene Verhaltenskontrolle** | Die kognitive Wahrnehmung der eigenen Fähigkeit und Selbstwirksamkeit zur Nutzung von KI. | Ich bin zuversichtlich, dass ich den Umgang mit künstlicher Intelligenz für meine Arbeit problemlos erlernen könnte. | Nein | angepasst (Orig.: *"I am convinced that I can use PowerPilot."*) | Questionnaire 2, 4-3 |
+| **Wahrgenommene Verhaltenskontrolle** | Die kognitive Wahrnehmung der eigenen Fähigkeit und Selbstwirksamkeit zur Nutzung von KI. | Wenn ich künstliche Intelligenz an meinem Arbeitsplatz nutzen möchte, traue ich mir das eigenständig zu. | Nein | angepasst (Orig.: *"If I really want to, I can use PowerPilot."*) | Questionnaire 2, 4-4 |
+| **Wahrgenommene Verhaltenskontrolle** | Die kognitive Wahrnehmung der eigenen Fähigkeit und Selbstwirksamkeit zur Nutzung von KI. | Ich traue mir zu, künstliche Intelligenz für meine alltäglichen Arbeitsaufgaben richtig anzuwenden. | Nein | angepasst (Orig.: *"It is under my control to use PowerPilot."*) | Questionnaire 2, 4-1 |
+| **Wahrgenommene Normen** | Der wahrgenommene soziale Erwartungsdruck relevanter Personen bezüglich der KI-Nutzung. | Kolleginnen und Kollegen, deren Meinung ich schätze, würden mir die Nutzung von künstlicher Intelligenz empfehlen. | Nein | angepasst (Orig.: *"Individuals whose opinion I appreciate would advise me to use the described surgical opportunity;"*) | Questionnaire 1, 12-3 |
+| **Wahrgenommene Normen** | Der wahrgenommene soziale Erwartungsdruck relevanter Personen bezüglich der KI-Nutzung. | Personen an meinem Arbeitsplatz, die mir wichtig sind, befürworten den Einsatz künstlicher Intelligenz. | Nein | angepasst (Orig.: *"Individuals who are important to me would advise me to use the described surgical opportunity;"*) | Questionnaire 1, 12-2 |
+| **Wahrgenommene Normen** | Der wahrgenommene soziale Erwartungsdruck relevanter Personen bezüglich der KI-Nutzung. | Kollegen in einer vergleichbaren Position wie meiner würden mir raten, künstliche Intelligenz einzusetzen. | Nein | angepasst (Orig.: *"My colleagues at work in a situation similar to mine would recommend me to use PowerPilot."*) | Questionnaire 2, 3-3 |
+
+---
+
+### E) Qualitätsprüfung
+
+| Ursprüngliches Item | Festgestelltes Problem | Rolle | Änderung |
+| :--- | :--- | :--- | :--- |
+| *"Ich beabsichtige, KI zur automatischen Datenanalyse und Berichtserstellung zu nutzen, da sie im Unternehmen bereits vorhanden ist."* | Versteckte Annahme (setzt vorhandenes KI-System voraus) und Doppelfrage (Datenanalyse + Berichte). | Kritiker | Geändert zu: *"Ich beabsichtige, künstliche Intelligenz bei meiner Arbeit zu nutzen, sobald sie mir zur Verfügung steht."* |
+| *"Der Einsatz von Algorithmen des maschinellen Lernens an meinem Arbeitsplatz macht mich nervös."* | Der Fachbegriff "Algorithmen des maschinellen Lernens" ist für Laien ohne KI-Erfahrung unverständlich. | Proband | Geändert zu: *"Die Vorstellung, mit künstlicher Intelligenz arbeiten zu müssen, macht mich nervös."* |
+| *"KI ist nützlich und spart mir täglich wertvolle Arbeitszeit."* | Enthält eine Doppelfrage (nützlich + Zeit sparen) sowie eine suggestive Formulierung. | Kritiker | Geändert zu: *"Ich gehe davon aus, dass künstliche Intelligenz mir helfen könnte, meine Arbeitsaufgaben schneller zu erledigen."* |
+| *"Ich traue mir zu, KI-Prompts einzugeben und Large Language Models zu bedienen."* | Technische Fachbegriffe ("Prompts", "Large Language Models") verunsichern Personen ohne KI-Erfahrung. | Proband | Geändert zu: *"Ich bin zuversichtlich, dass ich den Umgang mit künstlicher Intelligenz für meine Arbeit problemlos erlernen könnte."* |
+| *"Glauben Sie nicht auch, dass Ihre Kollegen Ihnen zur KI-Nutzung raten würden?"* | Suggestivfrage und keine direkte Ich-Form. | Kritiker | Geändert zu: *"Kolleginnen und Kollegen, deren Meinung ich schätze, würden mir die Nutzung von künstlicher Intelligenz empfehlen."* |
+
+---
+
+### F) Fertiger Fragebogen für die Mitarbeitenden
+
+#### Befragung zur Nutzung von künstlicher Intelligenz am Arbeitsplatz
+
+**Einleitung:**
+Sehr geehrte Mitarbeiterinnen und Mitarbeiter,
+
+mit diesem Fragebogen möchten wir Ihre persönliche Einschätzung zum Thema **Künstliche Intelligenz (KI)** an Ihrem Arbeitsplatz erfahren. 
+
+Unter **Künstlicher Intelligenz** verstehen wir computergestützte Anwendungen, die Sie bei Ihren täglichen Aufgaben unterstützen können – beispielsweise beim Suchen und Zusammenfassen von Informationen, beim Erstellen oder Überarbeiten von Texten, beim Sortieren von Daten oder beim Lösen komplexer Aufgaben. Es spielt für diese Befragung keine Rolle, ob in unserem Unternehmen bereits KI-Anwendungen im Einsatz sind oder ob Sie persönlich schon Erfahrungen mit KI gesammelt haben. Es geht ausschließlich um Ihre subjektive Meinung und Erwartung.
+
+Die Beantwortung der Fragen dauert ca. 5 Minuten. Alle Daten werden anonym ausgewertet.
+
+---
+
+**Antwortskala:**
+Bitte bewerten Sie die folgenden Aussagen auf einer Skala von **1 bis 7**:
+* **1** = stimme überhaupt nicht zu
+* **2** = stimme nicht zu
+* **3** = stimme eher nicht zu
+* **4** = neutral / weder noch
+* **5** = stimme eher zu
+* **6** = stimme zu
+* **7** = stimme voll und ganz zu
+
+---
+
+**Fragen:**
+
+1. Ich beabsichtige, künstliche Intelligenz bei meiner Arbeit zu nutzen, sobald sie mir zur Verfügung steht.
+   [ 1 ]  [ 2 ]  [ 3 ]  [ 4 ]  [ 5 ]  [ 6 ]  [ 7 ]
+
+2. Ich plane, künftig Anwendungen künstlicher Intelligenz für meine beruflichen Aufgaben einzusetzen.
+   [ 1 ]  [ 2 ]  [ 3 ]  [ 4 ]  [ 5 ]  [ 6 ]  [ 7 ]
+
+3. Ich würde ein betriebliches KI-Angebot bestimmt nutzen, falls dieses an meinem Arbeitsplatz angeboten wird.
+   [ 1 ]  [ 2 ]  [ 3 ]  [ 4 ]  [ 5 ]  [ 6 ]  [ 7 ]
+
+4. Ich stehe dem Einsatz künstlicher Intelligenz an meinem Arbeitsplatz positiv gegenüber.
+   [ 1 ]  [ 2 ]  [ 3 ]  [ 4 ]  [ 5 ]  [ 6 ]  [ 7 ]
+
+5. Ich finde den Gedanken vorteilhaft, künstliche Intelligenz bei meiner Arbeit einzusetzen.
+   [ 1 ]  [ 2 ]  [ 3 ]  [ 4 ]  [ 5 ]  [ 6 ]  [ 7 ]
+
+6. Ich halte die Nutzung künstlicher Intelligenz in meinem Aufgabenbereich für eine gute Sache.
+   [ 1 ]  [ 2 ]  [ 3 ]  [ 4 ]  [ 5 ]  [ 6 ]  [ 7 ]
+
+7. Der Gedanke an den Einsatz von künstlicher Intelligenz an meinem Arbeitsplatz löst bei mir Unbehagen aus.
+   [ 1 ]  [ 2 ]  [ 3 ]  [ 4 ]  [ 5 ]  [ 6 ]  [ 7 ]
+
+8. Die Vorstellung, mit künstlicher Intelligenz arbeiten zu müssen, macht mich nervös.
+   [ 1 ]  [ 2 ]  [ 3 ]  [ 4 ]  [ 5 ]  [ 6 ]  [ 7 ]
+
+9. Ich befürchte, dass der Einsatz von künstlicher Intelligenz meinen Arbeitsplatz beeinträchtigen könnte.
+   [ 1 ]  [ 2 ]  [ 3 ]  [ 4 ]  [ 5 ]  [ 6 ]  [ 7 ]
+
+10. Ich glaube, dass künstliche Intelligenz meine Arbeitsleistung bei beruflichen Aufgaben verbessern könnte.
+    [ 1 ]  [ 2 ]  [ 3 ]  [ 4 ]  [ 5 ]  [ 6 ]  [ 7 ]
+
+11. Ich gehe davon aus, dass künstliche Intelligenz mir helfen könnte, meine Arbeitsaufgaben schneller zu erledigen.
+    [ 1 ]  [ 2 ]  [ 3 ]  [ 4 ]  [ 5 ]  [ 6 ]  [ 7 ]
+
+12. Ich erwarte, dass der Einsatz künstlicher Intelligenz die Qualität meiner Arbeitsergebnisse steigern würde.
+    [ 1 ]  [ 2 ]  [ 3 ]  [ 4 ]  [ 5 ]  [ 6 ]  [ 7 ]
+
+13. Ich bin zuversichtlich, dass ich den Umgang mit künstlicher Intelligenz für meine Arbeit problemlos erlernen könnte.
+    [ 1 ]  [ 2 ]  [ 3 ]  [ 4 ]  [ 5 ]  [ 6 ]  [ 7 ]
+
+14. Wenn ich künstliche Intelligenz an meinem Arbeitsplatz nutzen möchte, traue ich mir das eigenständig zu.
+    [ 1 ]  [ 2 ]  [ 3 ]  [ 4 ]  [ 5 ]  [ 6 ]  [ 7 ]
+
+15. Ich traue mir zu, künstliche Intelligenz für meine alltäglichen Arbeitsaufgaben richtig anzuwenden.
+    [ 1 ]  [ 2 ]  [ 3 ]  [ 4 ]  [ 5 ]  [ 6 ]  [ 7 ]
+
+16. Kolleginnen und Kollegen, deren Meinung ich schätze, würden mir die Nutzung von künstlicher Intelligenz empfehlen.
+    [ 1 ]  [ 2 ]  [ 3 ]  [ 4 ]  [ 5 ]  [ 6 ]  [ 7 ]
+
+17. Personen an meinem Arbeitsplatz, die mir wichtig sind, befürworten den Einsatz künstlicher Intelligenz.
+    [ 1 ]  [ 2 ]  [ 3 ]  [ 4 ]  [ 5 ]  [ 6 ]  [ 7 ]
+
+18. Kollegen in einer vergleichbaren Position wie meiner würden mir raten, künstliche Intelligenz einzusetzen.
+    [ 1 ]  [ 2 ]  [ 3 ]  [ 4 ]  [ 5 ]  [ 6 ]  [ 7 ]

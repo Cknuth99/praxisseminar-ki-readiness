@@ -1,0 +1,183 @@
+A) Definitionen
+	•	KI-Readiness [eigene Arbeitsdefinition]: KI-Readiness bezeichnet die individuelle Bereitschaft, Fähigkeit und Motivation von Mitarbeitenden, künstliche Intelligenz im eigenen Arbeitskontext zielgerichtet und effektiv einzusetzen. Sie setzt sich aus kognitiven Überzeugungen (z. B. Nutzenwahrnehmung, Bedienkompetenz), affektiven Bewertungen (z. B. Einstellungen, Anspannung/Angst) sowie der Wahrnehmung sozialer Einflüsse und der eigenen Verhaltenskontrolle zusammen.
+	•	Künstliche Intelligenz (KI) im Fragebogen: Unter künstlicher Intelligenz (KI) werden im Fragebogen digitale, selbstlernende Softwareanwendungen und Algorithmen verstanden (z. B. generative KI-Sprachmodelle wie ChatGPT oder automatisierte Assistenzsysteme), die eigenständig Muster aus Daten analysieren, Sprache verarbeiten, Entscheidungsvorschläge generieren und komplexe Aufgaben am Arbeitsplatz unterstützen oder ausführen können.
+
+B) Theorien mit Begründung
+Für die Erklärung der KI-Readiness werden drei fundierte Theorien aus den Quellen kombiniert:
+	1	Reasoned Action Approach (RAA) / Theory of Planned Behavior (TPB):
+	◦	Begründung: Die RAA/TPB bildet das fundamentale verhaltenspsychologische Gerüst. Sie erklärt die Nutzungsabsicht über die drei zentralen Pfade: Einstellung (affektiv/bewertend), wahrgenommene Normen (sozialer Einfluss) und wahrgenommene Verhaltenskontrolle (kognitiv/handlungsbezogen).
+	2	Unified Theory of Acceptance and Use of Technology 2 (UTAUT2) / Integriertes Akzeptanzmodell:
+	◦	Begründung: UTAUT2 erweitert das Modell um spezifische technologisch-kognitive Komponenten. Sie erklärt, wie die wahrgenommene Nützlichkeit (Perceived Usefulness / Response Efficacy) und die wahrgenommenen Fähigkeiten sowie die Einfachheit der Nutzung (Abilities / Perceived Ease of Use / Ability) die Akzeptanz und Einsatzbereitschaft neuer Technologien am Arbeitsplatz strukturieren.
+	3	Erweitertes Affekt- und Vertrauensmodell (EPPM / Mayer et al. Trust Model):
+	◦	Begründung: Technologischer Wandel erzeugt emotionale Reaktionen. Diese Perspektive ergänzt die Abbildung affektiver Faktoren wie Technologieangst (Fear / Anxiety) und Unbehaglichkeit (Uncanny), welche Barrieren für die Bereitschaft bilden können.
+
+C) Tabelle: Konstrukte, Items und Herkunft
+Ausschlüsse von Theorieelementen:
+	•	Integrity (Datenschutz/Datensicherheit) aus dem Vertrauensmodell: Ausgeschlossen, da es sich primär um eine organisatorisch-technische Rahmenbedingung des Unternehmens handelt und nicht um eine individuelle Bereitschaftsdimension der Mitarbeitenden.
+	•	Benevolence / Uncanniness (Unheimlichkeit): Mit dem Konstrukt Angst gegenüber KI zusammengeführt, um affektive Redundanzen zu vermeiden.
+Konstrukt
+Definition
+Item (Ich-Form, Arbeitsplatzbezug)
+Herkunft
+Quelle
+Wahrgenommene Nützlichkeit
+Kognitive Einschätzung, dass die Nutzung von KI die eigene Arbeitsleistung und Effizienz verbessert.
+1. Ich denke, dass der Einsatz von KI meine Leistung bei meinen Arbeitsaufgaben verbessern würde.
+Angepasst (Fragebogen 3 / VR, PERF Item 1)
+Datensatz_v1.docx
+
+
+2. Ich denke, dass ich meine Aufgaben am Arbeitsplatz mithilfe von KI besser erledigen könnte.
+Angepasst (Fragebogen 3 / VR, PERF Item 2)
+Datensatz_v1.docx
+
+
+3. Ich denke, dass sich die Qualität meiner Arbeitsergebnisse durch den Einsatz von KI verbessern würde.
+Angepasst (Fragebogen 3 / VR, PERF Item 3)
+Datensatz_v1.docx
+
+
+4. Ich halte den Einsatz von KI an meinem Arbeitsplatz für nützlich.
+Angepasst (Fragebogen 2 / PowerPilot, Item 10.4)
+Datensatz_v1.docx
+Wahrgenommene Fähigkeiten
+Kognitives Zutrauen in das eigene Wissen und die einfache Handhabung von KI-Anwendungen.
+5. Ich weiß im Grundsatz, wie KI-Anwendungen funktionieren.
+Angepasst (Fragebogen 4 / ChatGPT, Item X1)
+Datensatz_v1.docx
+
+
+6. Ich finde es einfach, KI-Anwendungen an meinem Arbeitsplatz zu bedienen.
+Angepasst (Fragebogen 2 / PowerPilot, Item 9.1)
+Datensatz_v1.docx
+
+
+7. Die Hauptfunktionen von KI-Werkzeugen sind für mich leicht verständlich.
+Angepasst (Fragebogen 2 / PowerPilot, Item 9.2)
+Datensatz_v1.docx
+
+
+8. Ich kann nachvollziehen, wie KI-Systeme zu ihren Ergebnissen kommen.
+Angepasst (Fragebogen 4 / ChatGPT, Item X2)
+Datensatz_v1.docx
+Einstellung gegenüber KI
+Affektive und bewertende Gesamthaltung gegenüber dem Einsatz von KI im Arbeitsalltag.
+9. Die Nutzung von KI an meinem Arbeitsplatz wäre für mich vorteilhaft.
+Angepasst (Fragebogen 2 / PowerPilot, Item 2.1)
+Datensatz_v1.docx
+
+
+10. Die Nutzung von KI an meinem Arbeitsplatz wäre für mich zufriedenstellend.
+Angepasst (Fragebogen 2 / PowerPilot, Item 2.2)
+Datensatz_v1.docx
+
+
+11. Die Nutzung von KI an meinem Arbeitsplatz wäre für mich wichtig.
+Angepasst (Fragebogen 2 / PowerPilot, Item 2.3)
+Datensatz_v1.docx
+
+
+12. Ich befürworte den Einsatz von KI in meinem täglichen Arbeitsumfeld.
+Angepasst (Fragebogen 1 / Cataract, Item 2.5)
+Datensatz_v1.docx
+Angst gegenüber KI
+Affektives Ausmaß an gefühlter Anspannung, Unsicherheit oder Unbehaglichkeit bezüglich KI.
+13. Der Gedanke an den Einsatz von KI an meinem Arbeitsplatz ruft bei mir Unbehagen hervor.
+Angepasst (Fragebogen 1 / Cataract, Item 3.1)
+Datensatz_v1.docx
+
+
+14. Der Einsatz von KI an meinem Arbeitsplatz gibt mir das Gefühl von Anspannung.
+Angepasst (Fragebogen 1 / Cataract, Item 3.2)
+Datensatz_v1.docx
+
+
+15. Die Arbeit mit KI-Anwendungen empfinde ich als unheimlich.
+Übernommen (Fragebogen 4 / ChatGPT, Item U1)
+Datensatz_v1.docx
+
+
+16. Der Gedanke an KI-Anwendungen in meinem Arbeitsalltag macht mich nervös.
+Angepasst (Fragebogen 1 / Cataract, Item 3.3)
+Datensatz_v1.docx
+Wahrgenommene Normen
+Wahrgenommener sozialer Druck und Erwartungshaltung des beruflichen Umfelds zur KI-Nutzung.
+17. Meine Kolleginnen und Kollegen am Arbeitsplatz würden mir empfehlen, KI zu nutzen.
+Angepasst (Fragebogen 2 / PowerPilot, Item 3.3)
+Datensatz_v1.docx
+
+
+18. Personen, deren Meinung ich schätze, würden mir raten, KI bei meinen Aufgaben einzusetzen.
+Angepasst (Fragebogen 1 / Cataract, Item 12.3)
+Datensatz_v1.docx
+
+
+19. Personen, von denen ich mich beeinflussen lasse, würden mir zur Nutzung von KI raten.
+Angepasst (Fragebogen 1 / Cataract, Item 12.1)
+Datensatz_v1.docx
+
+
+20. Personen, die mir im beruflichen Umfeld wichtig sind, befürworten meinen Einsatz von KI.
+Angepasst (Fragebogen 1 / Cataract, Item 12.2)
+Datensatz_v1.docx
+Wahrgenommene Verhaltenskontrolle
+Wahrgenommene persönliche Entscheidungsfreiheit und eigene Kontrolle über die KI-Nutzung am Arbeitsplatz.
+21. Es liegt in meiner eigenen Kontrolle, ob ich KI an meinem Arbeitsplatz nutze.
+Angepasst (Fragebogen 2 / PowerPilot, Item 4.1)
+Datensatz_v1.docx
+
+
+22. Ob ich KI für meine Arbeitsaufgaben einsetze oder nicht, hängt allein von mir ab.
+Angepasst (Fragebogen 1 / Cataract, Item 5.1)
+Datensatz_v1.docx
+
+
+23. Wenn ich es wirklich möchte, kann ich KI jederzeit an meinem Arbeitsplatz nutzen.
+Angepasst (Fragebogen 2 / PowerPilot, Item 4.4)
+Datensatz_v1.docx
+
+
+24. Es liegt im Wesentlichen an mir selbst, KI in meinem Arbeitsalltag anzuwenden.
+Angepasst (Fragebogen 2 / PowerPilot, Item 4.2)
+Datensatz_v1.docx
+
+D) Fertiger Fragebogen für die Mitarbeitenden
+Mitarbeiterbefragung zur Nutzung von Künstlicher Intelligenz (KI)
+Allgemeine Beschreibung Künstliche Intelligenz (KI) bezeichnet digitale Systeme und Softwareanwendungen, die menschliche Lern-, Analyse- und Sprachfähigkeiten nachbilden. KI-Systeme verarbeiten Informationen eigenständig, erkennen Muster in Datensätzen und können Texte, Analysen oder Lösungsvorschläge generieren.
+Perspektive der Nutzung & Interaktion Die Interaktion mit KI erfolgt in der Regel direkt über digitale Schnittstellen an Ihrem Computer oder Mobilgerät (z. B. durch Texteingaben, Fragen oder Datenupload). Die KI verarbeitet Ihre Eingaben in Echtzeit und stellt Ihnen Antworten, Entwürfe, Zusammenfassungen oder Entscheidungsgrundlagen zur Verfügung.
+Nutzungskontext am Arbeitsplatz Im Arbeitsalltag kann KI als unterstützendes Werkzeug eingesetzt werden – etwa bei der Recherche, der Erstellung von Dokumenten, der Datenanalyse oder der Automatisierung wiederkehrender Aufgaben. Ob und wie KI-Systeme gewinnbringend eingesetzt werden, hängt von den spezifischen Anforderungen Ihrer täglichen Arbeitsaufgaben ab.
+
+Anleitung zur Beantwortung: Bitte bewerten Sie die folgenden Aussagen bezogen auf Ihren persönlichen Arbeitsplatz. Geben Sie für jede Aussage an, wie sehr Sie ihr zustimmen.
+Antwortskala:
+	•	1 = stimme überhaupt nicht zu
+	•	2 = stimme nicht zu
+	•	3 = stimme eher nicht zu
+	•	4 = neutral
+	•	5 = stimme eher zu
+	•	6 = stimme zu
+	•	7 = stimme voll und ganz zu
+
+	1	Ich denke, dass der Einsatz von KI meine Leistung bei meinen Arbeitsaufgaben verbessern würde.
+	2	Ich denke, dass ich meine Aufgaben am Arbeitsplatz mithilfe von KI besser erledigen könnte.
+	3	Ich denke, dass sich die Qualität meiner Arbeitsergebnisse durch den Einsatz von KI verbessern würde.
+	4	Ich halte den Einsatz von KI an meinem Arbeitsplatz für nützlich.
+	5	Ich weiß im Grundsatz, wie KI-Anwendungen funktionieren.
+	6	Ich finde es einfach, KI-Anwendungen an meinem Arbeitsplatz zu bedienen.
+	7	Die Hauptfunktionen von KI-Werkzeugen sind für mich leicht verständlich.
+	8	Ich kann nachvollziehen, wie KI-Systeme zu ihren Ergebnissen kommen.
+	9	Die Nutzung von KI an meinem Arbeitsplatz wäre für mich vorteilhaft.
+	10	Die Nutzung von KI an meinem Arbeitsplatz wäre für mich zufriedenstellend.
+	11	Die Nutzung von KI an meinem Arbeitsplatz wäre für mich wichtig.
+	12	Ich befürworte den Einsatz von KI in meinem täglichen Arbeitsumfeld.
+	13	Der Gedanke an den Einsatz von KI an meinem Arbeitsplatz ruft bei mir Unbehagen hervor.
+	14	Der Einsatz von KI an meinem Arbeitsplatz gibt mir das Gefühl von Anspannung.
+	15	Die Arbeit mit KI-Anwendungen empfinde ich als unheimlich.
+	16	Der Gedanke an KI-Anwendungen in meinem Arbeitsalltag macht mich nervös.
+	17	Meine Kolleginnen und Kollegen am Arbeitsplatz würden mir empfehlen, KI zu nutzen.
+	18	Personen, deren Meinung ich schätze, würden mir raten, KI bei meinen Aufgaben einzusetzen.
+	19	Personen, von denen ich mich beeinflussen lasse, würden mir zur Nutzung von KI raten.
+	20	Personen, die mir im beruflichen Umfeld wichtig sind, befürworten meinen Einsatz von KI.
+	21	Es liegt in meiner eigenen Kontrolle, ob ich KI an meinem Arbeitsplatz nutze.
+	22	Ob ich KI für meine Arbeitsaufgaben einsetze oder nicht, hängt allein von mir ab.
+	23	Wenn ich es wirklich möchte, kann ich KI jederzeit an meinem Arbeitsplatz nutzen.
+	24	Es liegt im Wesentlichen an mir selbst, KI in meinem Arbeitsalltag anzuwenden.

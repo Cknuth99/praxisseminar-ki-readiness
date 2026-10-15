@@ -1,0 +1,43 @@
+Ich lese zuerst den Datensatz und die fünf Paper, dann entwickle ich daraus den Fragebogen.
+
+Ich habe alle sechs Quellen gelesen. Hier das Ergebnis.
+
+## 1. Theorieauswahl & Begründung
+
+Die fünf Paper (alle Wichmann/Leyer et al.) nutzen durchgängig **integrierte Akzeptanzmodelle**. Für KI-Readiness von Mitarbeitenden schlage ich eine Kombination aus vier Theoriesträngen vor:
+
+| Theorie | Quelle im Datensatz | Warum passend |
+|---|---|---|
+| **Reasoned Action Approach / TPB** (Fishbein & Ajzen) | Paper 1, 2, 3 | Kern aller Fragebögen: Intention, Einstellung, Normen, Verhaltenskontrolle – erklärt zukünftiges Nutzungsverhalten vor der eigentlichen Nutzung. |
+| **UTAUT2 / TAM** (Venkatesh et al.) | Paper 1, 2, 3 | Liefert die technologiebezogenen Treiber (Nützlichkeit, Bedienbarkeit, fördernde Bedingungen, Angst). |
+| **Vertrauensmodell** (Mayer, Davis & Schoorman 1995: Ability, Benevolence, Integrity) | Paper 4 | KI (v. a. GenAI) wird im Unternehmen nur genutzt, wenn Mitarbeitende Ergebnissen und Datensicherheit vertrauen – Paper 4 zeigt dies für ChatGPT. |
+| **Task-Technology Fit** (Goodhue & Thompson) | Paper 3 | Readiness hängt davon ab, ob KI zu den konkreten Aufgaben passt – nicht nur von Einstellungen. |
+
+Ergänzend: der **Dualitätsansatz adaptiver/nicht-adaptiver Bewertungen** (PMT/EPPM, Paper 1) für KI-bezogene Ängste und Barrieren sowie die **soziotechnische Systemtheorie** (Paper 5) für die organisationale/soziale Einbettung.
+
+## 2./3./4. Konstrukte, Definitionen, Items
+
+Skala für alle Items: **1 = stimme überhaupt nicht zu … 7 = stimme voll und ganz zu**. „KI-Anwendungen" meint die im Unternehmen eingeführten/geplanten KI-Tools (z. B. generative KI-Assistenten); vor dem Fragebogen sollte – wie in Paper 3 – eine kurze Beschreibung der Technologie stehen.
+
+| Konstrukt | Definition | Items | Quelle |
+|---|---|---|---|
+| **1. Nutzungsabsicht** | Absicht, KI-Anwendungen künftig in der eigenen Arbeit einzusetzen. | 1. Ich beabsichtige, KI-Anwendungen künftig für meine Aufgaben einzusetzen.<br>2. Ich plane, KI-Anwendungen in meinem Arbeitsalltag zu nutzen.<br>3. Wenn KI-Anwendungen verfügbar sind, werde ich sie für meine Aufgaben nutzen.<br>4. Meine Absicht, KI in meinen Arbeitsprozessen einzusetzen, ist hoch. | Fishbein & Ajzen (RAA); Fragebogen 1, 2, 3, 4 |
+| **2. Einstellung gegenüber KI** | Bewertung der KI-Nutzung als vorteilhaft, sinnvoll, angenehm. | Die Nutzung von KI-Anwendungen in meiner Arbeit wäre …<br>1. … vorteilhaft.<br>2. … zufriedenstellend.<br>3. … wichtig.<br>4. … angenehm.<br>5. Ich mag die Nutzung von KI-Anwendungen. | Fishbein & Ajzen; Fragebogen 1, 2 |
+| **3. Leistungserwartung / Nützlichkeit** | Erwartung, dass KI die eigene Arbeitsleistung und Ergebnisqualität verbessert. | 1. Ich denke, dass sich meine Leistung durch die Nutzung von KI-Anwendungen verbessern würde.<br>2. Mit KI-Anwendungen könnte ich meine Aufgaben besser erledigen als ohne.<br>3. Die Qualität meiner Arbeitsergebnisse würde sich durch KI verbessern.<br>4. KI-Anwendungen helfen mir, Zeit zu sparen.<br>5. Insgesamt sind KI-Anwendungen für meine Arbeit nützlich. | UTAUT2/TAM; Fragebogen 2 (Perceived usefulness), Fragebogen 3 (PERF) |
+| **4. Aufwandserwartung / Bedienbarkeit** | Wahrgenommene Einfachheit, KI-Anwendungen zu verstehen und zu bedienen. | 1. Ich denke, KI-Anwendungen sind einfach zu bedienen.<br>2. Die Hauptfunktionen von KI-Anwendungen sind für mich leicht verständlich.<br>3. Vor der Nutzung bräuchte ich nur eine kurze Einweisung.<br>4. Insgesamt fällt mir die Nutzung von KI-Anwendungen leicht. | UTAUT2/TAM; Fragebogen 2 (Ease of use), Fragebogen 1 (Abilities) |
+| **5. Wahrgenommene Verhaltenskontrolle / Selbstwirksamkeit** | Überzeugung, die Nutzung selbst steuern zu können und dazu in der Lage zu sein. | 1. Es liegt in meiner Kontrolle, KI-Anwendungen zu nutzen.<br>2. Ob ich KI-Anwendungen nutze, hängt hauptsächlich von mir ab.<br>3. Ich bin überzeugt, dass ich KI-Anwendungen nutzen kann.<br>4. Wenn ich wirklich will, kann ich KI-Anwendungen jederzeit nutzen. | Fishbein & Ajzen; Selbstwirksamkeitstheorie (Paper 2); Fragebogen 1, 2 |
+| **6. Wahrgenommene Normen / sozialer Einfluss** | Wahrgenommene Erwartung relevanter Bezugspersonen, KI zu nutzen. | 1. Meine Kolleg:innen in einer ähnlichen Situation würden mir empfehlen, KI-Anwendungen zu nutzen.<br>2. Meine Führungskraft würde mir empfehlen, KI-Anwendungen zu nutzen.<br>3. Personen, deren Meinung ich schätze, würden mir raten, KI zu nutzen.<br>4. In meinem Team wird erwartet, dass man KI-Anwendungen nutzt. | Fishbein & Ajzen; UTAUT2 (Social influence); Fragebogen 1, 2 |
+| **7. KI-Kompetenz (Ability)** | Verständnis, wie KI funktioniert und wie ihre Ergebnisse zustande kommen und zu prüfen sind. | 1. Ich weiß, wie KI-Anwendungen funktionieren.<br>2. Ich kann nachvollziehen, wie KI-Anwendungen zu ihren Ergebnissen kommen.<br>3. Ich kann beurteilen, ob die Ergebnisse einer KI-Anwendung richtig sind.<br>4. Ich weiß, wie ich Anfragen an eine KI formulieren muss, um gute Ergebnisse zu erhalten. | Mayer et al. 1995 (Ability); Fragebogen 4 (X1–X3) |
+| **8. Vertrauen in KI (Zuverlässigkeit)** | Bereitschaft, sich auf Ergebnisse von KI-Anwendungen zu verlassen. | 1. KI-Anwendungen sind zuverlässig.<br>2. Ich vertraue den Antworten von KI-Anwendungen.<br>3. Ich wäre bereit, Teilaufgaben eigenständig von einer KI erledigen zu lassen.<br>4. (R) KI-Anwendungen sollten ohne menschliche Kontrolle nicht in Arbeitsprozessen eingesetzt werden. | Mayer et al. 1995; Fragebogen 2 (Trust), Fragebogen 4 (T1–T4) |
+| **9. Integrität / Datensicherheit** | Vertrauen, dass eingegebene Unternehmens- und Personendaten sicher sind. | 1. Ich habe keine Bedenken, dass KI-Anwendungen interne Informationen an Dritte weitergeben.<br>2. Ich denke, dass die Daten, die ich bei der KI-Nutzung eingebe, sicher sind.<br>3. (R) Ich denke, KI-Anwendungen erhalten zu viele Informationen über unser Unternehmen.<br>4. Unser Unternehmen hat klare Regeln, welche Daten ich in KI-Anwendungen eingeben darf. | Mayer et al. 1995 (Integrity); Fragebogen 4 (D1–D3) |
+| **10. Angst vor KI** | Negative Emotion (Unbehagen, Bedrohung) gegenüber KI – nicht-adaptive Bewertung. | Der Gedanke, mit KI-Anwendungen zu arbeiten, …<br>1. … macht mich unruhig und unwohl.<br>2. … löst bei mir Anspannung aus, weil ich mich bedroht fühle.<br>3. … macht mich nervös.<br>4. Ich empfinde KI-Anwendungen als unheimlich.<br>5. Ich befürchte, dass KI meine Tätigkeit überflüssig macht. | Izard et al. (Fear); UTAUT2 (Anxiety); PMT/EPPM; Fragebogen 1, 2, 4 (U1–U3) |
+| **11. Task-Technology Fit** | Wahrgenommene Passung zwischen KI-Anwendungen und den eigenen Aufgabentypen. | Ich denke, dass KI-Anwendungen meine Aufgaben unterstützen können, …<br>1. … die eine strukturierte Planung von Abläufen erfordern.<br>2. … bei denen ich neue Ideen entwickle.<br>3. … bei denen korrekte Lösungen durch Fakten oder Logik bestimmbar sind.<br>4. … bei denen Entscheidungen ohne eindeutig richtige Antwort getroffen werden müssen.<br>5. … die standardisierten, vordefinierten Abläufen folgen. | Goodhue & Thompson (TTF); McGrath Task Circumplex; Fragebogen 3 (TTF) |
+| **12. Fördernde Bedingungen / organisationale Unterstützung** | Wahrgenommene technische, soziale und organisationale Unterstützung für die KI-Nutzung. | 1. Ich habe Zugang zu den KI-Anwendungen, die ich für meine Arbeit brauche.<br>2. Mein Unternehmen bietet ausreichend Schulungen zur KI-Nutzung an.<br>3. Bei Problemen mit KI-Anwendungen bekomme ich Unterstützung.<br>4. Meine Kolleg:innen tauschen sich darüber aus, wie sie KI in ihrer Arbeit einsetzen.<br>5. Die Nutzung von KI wird von der Führung aktiv gefördert. | UTAUT2 (Facilitating conditions); soziotechnische Systemtheorie, Social Exchange (Fragebogen 5); Fragebogen 2 (Governmental support, adaptiert) |
+
+(R) = umgekehrt gepoltes Item, vor der Auswertung rekodieren.
+
+**Hinweise zur Anwendung**
+- Wie in Paper 1 und 3: KI-Beschreibung vorschalten, Attention-Check einbauen, Kontrollvariablen (KI-Erfahrung, allgemeine Computerkenntnisse, Abteilung, Alter) als Einzelitems ergänzen. Paper 4 zeigt, dass Abteilungen (IT vs. Non-IT, Sales) deutlich abweichen – Abteilung also unbedingt erheben.
+- Konstrukte 1–6 bilden den RAA/UTAUT-Kern, 7–9 das Vertrauensmodell, 10 die Barrieren, 11–12 den Aufgaben- und Organisationskontext. Readiness lässt sich damit als Profil (Mittelwerte je Konstrukt) oder im Strukturmodell (PLS-SEM, wie in allen Papern) auswerten.
+
+Soll ich daraus eine formatierte Word- oder Excel-Vorlage (z. B. für LimeSurvey-Import) erstellen?

@@ -1,0 +1,105 @@
+**F) Prüftabelle**
+
+| Item-ID | Befund | Begründung | Änderung |
+|---|---|---|---|
+| NABS1 | ok | Entspricht FB2 1(2); Bedingung „wenn verfügbar" vermeidet Annahme vorhandener KI. | keine |
+| NABS2 | ok | Entspricht FB2 1(1). | keine |
+| NABS3 | ok | Entspricht FB1 1(1). | keine |
+| EINST1 | ok – Hinweis (5) | „vorteilhaft" liegt nah an NUTZ3 „nützlich"; Überschneidung stammt aus den Originalskalen (FB2 Attitude/PU). | keine; bei Diskriminanzprüfung (HTMT) beachten |
+| EINST2 | ok | Entspricht FB2 2(4). | keine |
+| EINST3 | Problem (6) | Als „neu" deklariert, ist aber die Umpolung von FB2 2(2) „satisfactory". (R) korrekt. | Herkunft: „angepasst, umgepolt (Original: ‚…satisfactory')" |
+| NORM1 | ok | Entspricht FB1 12(2). | keine |
+| NORM2 | ok | Entspricht FB2 3(3). | keine |
+| NORM3 | ok | Entspricht FB1 12(3). | keine |
+| VKONT1 | ok | Entspricht FB1 5(3). | keine |
+| VKONT2 | ok | Entspricht FB2 4(1). | keine |
+| VKONT3 | Problem (3) | „könnte ich KI jederzeit nutzen" setzt Verfügbarkeit voraus; ohne KI im Betrieb vermischt sich Verfügbarkeit mit Kontrolle. | „Wenn ich es wirklich wollte, könnte ich KI-Anwendungen an meinem Arbeitsplatz nutzen, sofern sie verfügbar wären." |
+| VERT1 | ok | Entspricht FB4 T4. | keine |
+| VERT2 | ok | Entspricht FB2 5(1). | keine |
+| VERT3 | Problem (6, 8) | Nicht „neu", sondern Umpolung von FB4 T3. Verneinung („nicht wohl") im umgepolten Item erzeugt Doppelverneinung mit „stimme nicht zu"; „arbeitskritisch" ist kein geläufiges Wort. (R) korrekt. | „Ich hätte Bedenken, wenn KI wichtige Aufgaben an meinem Arbeitsplatz ohne menschliche Kontrolle übernehmen würde." (R); Herkunft: „angepasst, umgepolt (Original: T3)" |
+| NUTZ1 | Problem (5, 6) | Angegebenes Original 10(4) passt nicht zum Inhalt „Effizienz steigern" und wird zugleich für NUTZ3 genutzt. „Effizienz steigern" überschneidet sich mit LEIST1 „Arbeitsleistung verbessern". | „Ich denke, dass der Einsatz von KI meinen Arbeitsaufwand verringern könnte." Herkunft: angepasst (Original: „I think using PowerPilot can save energy"), FB2 10(1) |
+| NUTZ2 | ok | Strukturell aus FB2 10(3) abgeleitet, Herkunft korrekt. | keine |
+| NUTZ3 | ok | Entspricht FB2 10(4). | keine |
+| BEDI1 | ok | Entspricht FB2 9(1). | keine |
+| BEDI2 | Problem (8) | „KI-Werkzeuge" weicht vom sonst verwendeten Begriff „KI-Anwendungen" ab. | „…die Grundfunktionen von KI-Anwendungen…" |
+| BEDI3 | Problem (6) | Nicht „neu", sondern Umpolung von FB2 9(3). (R) korrekt. | Herkunft: „angepasst, umgepolt (Original: ‚…easy for me to use')" |
+| TTF1 | Problem (4) | TTF misst die Passung zu *eigenen* Aufgaben; im Original wurden Items nur bei mindestens monatlichem Vorkommen gezeigt. Ohne Filter ist das Item für Personen ohne Planungsaufgaben nicht beantwortbar; zudem wurde die Satzstruktur gegenüber dem Original verändert. | „Ich denke, dass KI mich bei Aufgaben unterstützen könnte, die eine strukturierte Planung von Abläufen erfordern." + Zusatzoption „Solche Aufgaben kommen in meiner Tätigkeit nicht vor." |
+| TTF2 | Problem (4) | wie TTF1 | Zusatzoption wie TTF1 |
+| TTF3 | Problem (4) | wie TTF1 | Zusatzoption wie TTF1 |
+| LEIST1 | Problem (6) | Als „übernommen" deklariert, aber VR durch KI ersetzt und „Leistung bei meinen Aufgaben" zu „Arbeitsleistung" geändert → angepasst. | Herkunft: „angepasst" |
+| LEIST2 | Problem (6) | wie LEIST1 | Herkunft: „angepasst" |
+| LEIST3 | Problem (6) | wie LEIST1 | Herkunft: „angepasst" |
+| WOHL1 | ok | Entspricht FB4 U1; Definition zielt auf Unheimlichkeit, daher „nein" bei (R) konsistent. | keine |
+| WOHL2 | ok – Hinweis (5) | „unangenehm" ist Gegenpol zu EINST2 „erfreulich"; Überschneidung stammt aus den Originalskalen. | keine; bei HTMT-Prüfung beachten |
+| WOHL3 | ok – Hinweis (8) | Anpassung „unmenschlich" → „fremdartig" ist sinnvoll (Doppeldeutigkeit vermieden); Begriff „KI-Systeme" abweichend. | „…mit KI-Anwendungen…" |
+| FAEH1 | ok | Entspricht FB4 X2. | keine |
+| FAEH2 | ok | Entspricht FB4 X3. | keine |
+| FAEH3 | Problem (3, 8) | „KI-Systeme an meinem Arbeitsplatz" setzt vorhandene KI voraus; Konjunktiv „wüsste" ist bei einer Wissensaussage unverständlich. | „Ich weiß grundsätzlich, wie KI-Anwendungen funktionieren." |
+| INTEG1 | Problem (8) | Verneinung „keine Bedenken" plus Ablehnungsskala → Doppelverneinung (bereits im Original). | „Ich wäre zuversichtlich, dass interne Informationen bei der Nutzung von KI vertraulich bleiben." |
+| INTEG2 | Problem (8) | „Interaktionsdaten" ist Fachjargon. | „Ich würde davon ausgehen, dass die Daten, die wir bei der Nutzung von KI eingeben, sicher sind." |
+| INTEG3 | Problem (6) | Nicht „neu", sondern Anpassung von FB4 D3. (R) korrekt. | Herkunft: „angepasst (Original: D3)"; Begriff „KI-Anwendungen" |
+
+**G) Prüfung der Gesamtstruktur**
+
+Konstrukt-Inventar: vollständig. Alle 40 Konstrukte der fünf Fragebögen sind gelistet (FB1: 12, die Diabetes-Variante nutzt dieselben Konstrukte; FB2: 14; FB3: 5; FB4: 5; FB5: 4). Die Zahlenangaben für Ausschlüsse (β = .011; β = .097; Fear towards hazards n.s.) stimmen mit den Papern überein.
+
+Inkonsistenzen im Inventar:
+- Trust ist als „aufnehmen aus FB2" markiert, FB4-Trust als „redundant" – tatsächlich stammen zwei von drei VERT-Items aus FB4. Gleiches Muster bei Intention, Attitude, Normen und PBC: als „redundant/ausschließen" markierte FB2-Konstrukte liefern die Mehrheit der Items. Empfehlung: statt „ausschließen" die Kategorie „zusammengeführt (Items mitgenutzt)" verwenden.
+- Begründung für TeC („über TTF abgedeckt") ist sachlich falsch – TeC ist Antezedens von TTF. Der tragfähige Grund ist, dass die VR-Dimensionen (Immersion, Interaktivität, soziale Präsenz) nicht auf KI übertragbar sind.
+- Abilities (HIS): Begründung nur teilweise zutreffend (Item 1 „leicht verständlich" wäre übertragbar); der Ausschluss ist durch die Redundanz mit BEDI2 dennoch vertretbar.
+
+Theorien: RAA (Einstellung, Normen, Verhaltenskontrolle, Absicht) vollständig. Mayer et al.: Ability, Benevolence, Integrity, Trust enthalten; die Modellbestandteile „Vertrauensneigung" und „wahrgenommenes Risiko" fehlen ohne Begründung – sie sind in keinem der fünf Fragebögen operationalisiert, was als Begründung ergänzt werden sollte. TTF: TC und TeC ausgeschlossen, TTF und PERF aufgenommen; der Ausschluss von TC bricht jedoch die Filterlogik des Originals (siehe TTF1–3). Zudem stammen die gewählten Aufgabentypen teils aus Dimensionen, die im Paper 3 wegen unzureichender Ladung entfielen (Planning); Creativity und Execution/Contest waren tragfähiger. Nicht deklariert: PU und PEOU sind UTAUT2/TAM-Konstrukte; UTAUT2 fehlt in Abschnitt B, obwohl zwei Skalen daraus stammen.
+
+Konstruktdefinitionen: Die Definition von „Wahrgenommene Nützlichkeit" („Arbeitsleistung verbessert") ist wortgleich mit „Wahrgenommene Leistung". Definition schärfen: Nützlichkeit = erwarteter Nutzen/Unterstützung bei Aufgaben; Leistung = erwartete Verbesserung von Leistung und Ergebnisqualität. Die WOHL-Skala misst Unheimlichkeit, wird also als negativer Readiness-Indikator ausgewertet – das sollte im Auswertungshinweis stehen.
+
+Einleitung: Keine Zusagen ohne Platzhalter. Dauer und Datenschutz sind korrekt als Platzhalter markiert; Anonymität wird nicht versprochen. Die vereinfachte KI-Definition und der Hinweis, dass keine Vorkenntnisse nötig sind, sind angemessen. Die einheitliche 7er-Skala über Quellen mit 5er-Skalen (FB3–5) ist vertretbar, sollte aber im Methodenteil erwähnt werden. Begriffe sollten durchgehend „KI-Anwendungen" lauten.
+
+**H) Finaler Fragebogen**
+
+**Fragebogen zur Nutzung von Künstlicher Intelligenz am Arbeitsplatz**
+
+Künstliche Intelligenz (KI) bezeichnet Softwaresysteme und digitale Werkzeuge, die Aufgaben wie das Erstellen von Texten, das Analysieren von Daten oder das Lösen von Problemen unterstützen können, indem sie automatisch Muster in Daten erkennen und darauf basierend Vorschläge oder Ergebnisse generieren. Im Folgenden möchten wir Ihre persönliche Einschätzung zu möglichen KI-Anwendungen an Ihrem Arbeitsplatz erfahren. Auch wenn Sie bislang keine KI nutzen oder keine Vorkenntnisse besitzen, sind Ihre Erwartungen und Einschätzungen für uns von Bedeutung.
+
+Bitte beantworten Sie die Aussagen auf der Skala von 1 = stimme überhaupt nicht zu bis 7 = stimme voll und ganz zu. Bei den Aussagen M08, M19 und M34 steht zusätzlich die Option „Solche Aufgaben kommen in meiner Tätigkeit nicht vor" zur Verfügung.
+
+`[Dauer]`
+`[Hinweis zum Datenschutz]`
+
+- M01: Ich beabsichtige, KI-Anwendungen an meinem Arbeitsplatz zu nutzen, wenn sie verfügbar sind.
+- M02: Die Nutzung von KI an meinem Arbeitsplatz wäre für mich vorteilhaft.
+- M03: Personen, die mir an meinem Arbeitsplatz wichtig sind, würden mir die Nutzung von KI empfehlen.
+- M04: Es läge allein in meiner Entscheidung, ob ich KI an meinem Arbeitsplatz nutze.
+- M05: Ich würde den Antworten und Ergebnissen von KI-Anwendungen an meinem Arbeitsplatz vertrauen.
+- M06: Ich denke, dass der Einsatz von KI meinen Arbeitsaufwand verringern könnte.
+- M07: Ich denke, dass die Bedienung von KI-Anwendungen für mich einfach wäre.
+- M08: Ich denke, dass KI mich bei Aufgaben unterstützen könnte, die eine strukturierte Planung von Abläufen erfordern.
+- M09: Ich denke, dass sich meine Arbeitsleistung durch die Nutzung von KI verbessern würde.
+- M10: Ich würde KI-Anwendungen an meinem Arbeitsplatz als unheimlich empfinden.
+- M11: Ich könnte nachvollziehen, wie KI-Anwendungen an meinem Arbeitsplatz zu ihren Ergebnissen kommen.
+- M12: Ich wäre zuversichtlich, dass interne Informationen bei der Nutzung von KI vertraulich bleiben.
+- M13: Ich fände den Einsatz von KI bei meiner täglichen Arbeit erfreulich.
+- M14: Ich plane, KI-Anwendungen zukünftig für meine Arbeitstätigkeit einzusetzen.
+- M15: Ich hätte die volle Kontrolle darüber, ob ich KI für meine Aufgaben einsetze.
+- M16: Meine Kolleginnen und Kollegen in einer ähnlichen Position würden mir empfehlen, KI zu nutzen.
+- M17: Ich glaube, dass mir KI-Anwendungen bei der Bewältigung meiner Aufgaben helfen könnten.
+- M18: Ich würde KI-Anwendungen an meinem Arbeitsplatz als zuverlässig einstufen.
+- M19: Ich glaube, dass KI mich bei Aufgaben unterstützen könnte, die die Entwicklung neuer Ideen erfordern.
+- M20: Ich glaube, dass die Grundfunktionen von KI-Anwendungen leicht zu verstehen wären.
+- M21: Ich würde den Einsatz von KI bei meiner täglichen Arbeit als unangenehm empfinden.
+- M22: Ich glaube, dass ich meine Aufgaben mit KI besser erledigen könnte als ohne sie.
+- M23: Ich würde davon ausgehen, dass die Daten, die wir bei der Nutzung von KI eingeben, sicher sind.
+- M24: Ich könnte beurteilen, ob die von einer KI gelieferten Ergebnisse richtig sind.
+- M25: Personen, deren fachliche Meinung ich schätze, würden mir zum Einsatz von KI raten.
+- M26: Ich würde KI-Anwendungen an meinem Arbeitsplatz definitiv nutzen, wenn mir die Möglichkeit geboten würde.
+- M27: Ich hätte Bedenken, wenn KI wichtige Aufgaben an meinem Arbeitsplatz ohne menschliche Kontrolle übernehmen würde.
+- M28: Ich fände den Einsatz von KI an meinem Arbeitsplatz unbefriedigend.
+- M29: Die Nutzung von KI-Anwendungen fände ich in meiner täglichen Arbeit kompliziert.
+- M30: Wenn ich es wirklich wollte, könnte ich KI-Anwendungen an meinem Arbeitsplatz nutzen, sofern sie verfügbar wären.
+- M31: Ich denke, dass sich die Qualität meiner Arbeitsergebnisse durch den Einsatz von KI erhöhen würde.
+- M32: Ich denke, dass der Einsatz von KI an meinem Arbeitsplatz nützlich wäre.
+- M33: Ich weiß grundsätzlich, wie KI-Anwendungen funktionieren.
+- M34: Ich glaube, dass KI mich bei Aufgaben unterstützen könnte, die klar definierten Arbeitsabläufen folgen.
+- M35: Ich würde die Interaktion mit KI-Anwendungen an meinem Arbeitsplatz als fremdartig empfinden.
+- M36: Ich würde befürchten, dass KI-Anwendungen zu viele vertrauliche Informationen über unser Unternehmen speichern.
+
+Auswertungshinweis (nicht für Befragte): Umzupolen sind M27, M28, M29, M36. Die Skala Unheimlichkeit (M10, M21, M35) geht als negativer Indikator in die KI-Readiness ein. Antworten „kommt nicht vor" bei M08/M19/M34 werden bei der TTF-Bildung ausgeschlossen (Mittelwert der verbleibenden Items).

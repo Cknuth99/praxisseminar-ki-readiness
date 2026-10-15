@@ -1,0 +1,142 @@
+### F) Prüftabelle
+
+| Item-ID | Befund | Begründung | Änderung |
+| :--- | :--- | :--- | :--- |
+| **INT_1** | ok | Das Item ist verständlich, frei von Suggestion oder Doppelfragen und setzt durch den Konditionalsatz keine Nutzung voraus. | keine Änderung erforderlich |
+| **INT_2** | ok | Die Formulierung drückt eine künftige Planungsabsicht ohne vorhandene Nutzung aus. | keine Änderung erforderlich |
+| **INT_3** | ok | Der Konjunktiv verhindert eine versteckte Annahme über die Verfügbarkeit von KI. | keine Änderung erforderlich |
+| **INT_4** | ok | Das neu formulierte Item erfasst die Bemühungsabsicht ohne Vorbedingungen. | keine Änderung erforderlich |
+| **ATT_1** | ok | Klare kognitiv-affektive Bewertung im Konjunktiv. | keine Änderung erforderlich |
+| **ATT_2** | Problem mit Kriterium 8 | Sprachlicher Fehler/Grammatikfehler ("bewährte" statt "würde ... bewerten" / "fände"). | "Ich würde den möglichen Einsatz von KI in meinem Arbeitsbereich positiv bewerten." |
+| **ATT_3** | ok | Richtige (R)-Kennzeichnung, da "unbefriedigend" die Einstellung invertiert misst. | keine Änderung erforderlich |
+| **ATT_4** | Problem mit Kriterium 3 | Indikativ Präsens ("Ich halte...") kann eine bereits existierende Praxis oder gefestigte KI-Nutzung suggerieren. | "Ich fände den Einsatz von KI an meinem Arbeitsplatz wichtig." |
+| **NOR_1** | ok | Korrekte Abfrage sozialer Erwartungen im Konjunktiv. | keine Änderung erforderlich |
+| **NOR_2** | ok | Passt exakt zur Definition wahrgenommener Kollegendruck-Normen. | keine Änderung erforderlich |
+| **NOR_3** | ok | Standardkonforme Übersetzung und Aufbereitung aus Fragebogen 1. | keine Änderung erforderlich |
+| **NOR_4** | ok | Misst die allgemeine Erwartungshaltung der Kultur im Arbeitsumfeld. | keine Änderung erforderlich |
+| **PBC_1** | ok | Misst die Entscheidungshoheit ohne Vorbedingungen. | keine Änderung erforderlich |
+| **PBC_2** | ok | Konjunktiv drückt Autonomie unabhängig von der gegenwärtigen Situation aus. | keine Änderung erforderlich |
+| **PBC_3** | Problem mit Kriterium 3 | "könnte ich dies jederzeit tun" setzt voraus, dass KI im Unternehmen bereits technisch installiert und freigeschaltet ist. | "Wenn KI an meinem Arbeitsplatz verfügbar wäre und ich sie nutzen wollte, könnte ich dies tun." |
+| **PBC_4** | ok | Erfasst die wahrgenommene Steuerungsmöglichkeit im Konjunktiv. | keine Änderung erforderlich |
+| **USE_1** | ok | Misst die Leistungserwartung ohne existierende Nutzung vorauszusetzen. | keine Änderung erforderlich |
+| **USE_2** | ok | Eindeutige, einfache Satzstruktur zur Arbeitsunterstützung. | keine Änderung erforderlich |
+| **USE_3** | ok | Hohe Passung zur Konstruktdefinition bezüglich Arbeitsqualität. | keine Änderung erforderlich |
+| **USE_4** | ok | Richtige (R)-Kennzeichnung für die negierte Nützlichkeitserwartung. | keine Änderung erforderlich |
+| **EOU_1** | ok | Vergleicht die erwartete Handhabbarkeit verständlich und hypothetisch. | keine Änderung erforderlich |
+| **EOU_2** | ok | Misst die erwartete Verständlichkeit der Grundfunktionen. | keine Änderung erforderlich |
+| **EOU_3** | ok | Richtige (R)-Kennzeichnung für erschwerte Erlernbarkeit. | keine Änderung erforderlich |
+| **EOU_4** | ok | Das neue Item misst die Selbstwirksamkeit beim Einarbeiten ohne Vorwissen. | keine Änderung erforderlich |
+| **TRU_1** | ok | Konjunktiv schützt vor der Annahme, dass der Proband bereits KI-Antworten erhält. | keine Änderung erforderlich |
+| **TRU_2** | ok | Misst die erwartete Systemzuverlässigkeit. | keine Änderung erforderlich |
+| **TRU_3** | ok | Richtige (R)-Kennzeichnung für die Skepsis gegenüber autonomer Steuerung. | keine Änderung erforderlich |
+| **TRU_4** | ok | Einfacher, verständlicher Satz zur Erwartung korrekter Zuarbeit. | keine Änderung erforderlich |
+| **ABI_1** | Problem mit Kriterium 6 | Herkunft war fälschlich als "übernommen" angegeben; da der Gegenstand "ChatGPT" durch "KI-Anwendungen" ersetzt wurde, lautet die Herkunft nach Regelwerk "angepasst". | Herkunftsangabe in der Dokumentation auf "angepasst" korrigiert. |
+| **ABI_2** | Problem mit Kriterium 6 | Herkunft war fälschlich als "übernommen" angegeben; muss wegen Gegenstandsersetzung "angepasst" lauten. | Herkunftsangabe in der Dokumentation auf "angepasst" korrigiert. |
+| **ABI_3** | Problem mit Kriterium 6 | Herkunft war fälschlich als "übernommen" angegeben; muss wegen Gegenstandsersetzung "angepasst" lauten. | Herkunftsangabe in der Dokumentation auf "angepasst" korrigiert. |
+| **ABI_4** | ok | Korrekte (R)-Kennzeichnung für mangelnde Transparenz/Undurchsichtigkeit. | keine Änderung erforderlich |
+| **ING_1** | Problem mit Kriterium 3 & 6 | Herkunft muss "angepasst" lauten. "unsere eingegebenen Informationen" im Partizip Perfekt setzt voraus, dass bereits Daten eingegeben wurden. | "Ich hätte keine Bedenken, dass KI-Anwendungen bei einer Nutzung unternehmensinterne Informationen an Dritte weitergeben." (Herkunft: angepasst) |
+| **ING_2** | Problem mit Kriterium 3 & 6 | Herkunft muss "angepasst" lauten. "unserer Nutzung" setzt eine stattfindende Nutzung im Indikativ voraus. | "Ich gehe davon aus, dass die Daten bei einer Nutzung von KI sicher wären." (Herkunft: angepasst) |
+| **ING_3** | ok | Durch den Nebensatz "wenn wir sie nutzen" wird keine bestehende Nutzung vorausgesetzt; (R) ist korrekt. | keine Änderung erforderlich |
+| **ING_4** | ok | Erfasst allgemeines Vertrauen in die Einhaltung von Datenschutzbestimmungen. | keine Änderung erforderlich |
+| **UNC_1** | Problem mit Kriterium 3 | Indikativ Präsens ("empfinde ich") setzt den aktiven Umgang mit KI-Anwendungen voraus. | "KI-Anwendungen würde ich als unheimlich empfinden." |
+| **UNC_2** | Problem mit Kriterium 3 | Indikativ Präsens ("empfinde ich") setzt eine stattfindende Nutzung voraus. | "Ich würde die Nutzung von KI-Anwendungen als unangenehm empfinden." |
+| **UNC_3** | Problem mit Kriterium 3 | Indikativ Präsens ("empfinde ich") setzt eine stattfindende Nutzung voraus. | "Ich würde die Nutzung von KI-Anwendungen als unmenschlich empfinden." |
+| **UNC_4** | ok | "beim Gedanken an" ist hypothetisch formuliert; (R) ist für Wohlbefinden bei Unheimlichkeit korrekt. | keine Änderung erforderlich |
+| **FEA_1** | ok | Misst die affektive Bedrohungseinschätzung ohne (R), da Angst ein negatives Konstrukt ist. | keine Änderung erforderlich |
+| **FEA_2** | Problem mit Kriterium 1 | Doppelfrage durch die Kombination von zwei emotionalen Zuständen ("Anspannung und Unsicherheit"). | "Der künftige Einsatz von KI bei meinen Arbeitsaufgaben löst bei mir Anspannung aus." |
+| FEA_3 | Problem mit Kriterium 1 | Doppelfrage durch die Kombination von zwei Emotionen ("nervös und beunruhigt"). | "Wenn ich an den Einsatz von KI an meinem Arbeitsplatz denke, fühle ich mich beunruhigt." |
+
+---
+
+### G) Prüfung der Gesamtstruktur
+
+1. **Vollständigkeit des Konstrukt-Inventars:**
+   * **Fragebogen 1:** Alle 12 im Datensatz enthaltenen Konstrukte wurden aufgeführt.
+   * **Fragebogen 2:** Alle 14 im Datensatz enthaltenen Konstrukte wurden aufgeführt.
+   * **Fragebogen 3:** Alle 5 Hauptkonstrukte/Gruppen wurden aufgeführt.
+   * **Fragebogen 4:** Alle 5 Konstrukte wurden aufgeführt.
+   * **Fragebogen 5:** Alle 4 Konstrukte wurden aufgeführt.
+   * *Fazit:* Das Konstrukt-Inventar ist vollständig (insgesamt 40 Erfassungen über alle 5 Fragebögen).
+
+2. **Berücksichtigung der gewählten Theorien:**
+   * **Reasoned Action Approach (RAA) / TPB:** *Einstellung*, *Wahrgenommene Normen*, *Wahrgenommene Verhaltenskontrolle* und *Nutzungsabsicht* (Zielkonstrukt) wurden vollständig aufgenommen.
+   * **UTAUT2 / TAM:** *Wahrgenommene Nützlichkeit* und *Wahrgenommene Einfachheit der Nutzung* wurden aufgenommen. *Gewohnheit* (Habit) wurde regelkonform ausgeschlossen, da ohne vorhandene KI keine Gewohnheit vorliegen kann. *Hedonische Motivation* wurde regelkonform unter Verweis auf das Nicht-Signifikanzergebnis aus Paper 2 ausgeschlossen.
+   * **Organisationales Vertrauensmodell für KI (Mayer et al., 1995 / Paper 4):** *Vertrauen*, *Erklärbarkeit/Transparenz* (Ability), *Integrität/Datenschutz* (Integrity) und *Unheimlichkeit/Wohlwollen* (Benevolence) wurden vollständig aufgenommen.
+   * *Fazit:* Alle Konstrukte der gewählten Theorien sind entweder enthalten oder regelkonform begründet ausgeschlossen.
+
+3. **Einleitungstext und Platzhalter:**
+   * Der Einleitungstext enthält keine unberechtigten Zusagen. Variable organisatorische Angaben sind korrekt durch Platzhalter in eckigen Klammern erfasst (z. B. `[Dauer der Befragung]`, `[Hinweise zur Anonymität]`, `[Hinweise zum Datenschutz]`).
+   * *Fazit:* Die Einleitung entspricht allen formalen Vorgaben.
+
+---
+
+### H) Finaler Fragebogen mit allen Änderungen
+
+#### Einleitung
+Liebe Mitarbeitende,
+
+mit der folgenden Befragung möchten wir Ihre persönliche Einschätzung zum Thema Künstliche Intelligenz (KI) am Arbeitsplatz erfahren. Unter Künstlicher Intelligenz (KI) werden Softwareanwendungen verstanden, die komplexe Aufgaben unterstützen können, indem sie Informationen analysieren, Muster erkennen, Texte oder Inhalte generieren oder Handlungsvorschläge erarbeiten. KI-Anwendungen dienen als digitale Arbeitswerkzeuge zur Ergänzung menschlicher Tätigkeiten und können Mitarbeitende bei der Ausführung ihrer täglichen Aufgaben unterstützen. 
+
+Die Befragung nimmt etwa [Dauer der Befragung] in Anspruch. Es gibt keine „richtigen“ oder „falschen“ Antworten – uns interessiert ausschließlich Ihre persönliche Sichtweise. [Hinweise zur Anonymität] [Hinweise zum Datenschutz].
+
+Vielen Dank für Ihre Teilnahme und Ihre Unterstützung!
+
+---
+
+#### Antwortskala
+Bitte bewerten Sie die folgenden Aussagen auf einer Skala von **1 bis 7**:
+* **1** = stimme überhaupt nicht zu
+* **2** = stimme nicht zu
+* **3** = stimme eher nicht zu
+* **4** = neutral
+* **5** = stimme eher zu
+* **6** = stimme zu
+* **7** = stimme voll und ganz zu
+
+---
+
+#### Fragenkatalog
+
+* **INT_1:** Ich beabsichtige, KI künftig für meine Arbeitsaufgaben zu nutzen, wenn sie verfügbar ist.
+* **ATT_1:** Den Einsatz von KI an meinem Arbeitsplatz fände ich vorteilhaft.
+* **NOR_1:** Personen, die mir bei der Arbeit wichtig sind, würden mir die Nutzung von KI empfehlen.
+* **PBC_1:** Es läge hauptsächlich an mir selbst, ob ich KI an meinem Arbeitsplatz nutze.
+* **USE_1:** Ich denke, dass der Einsatz von KI meine Arbeitsabläufe effizienter machen könnte.
+* **EOU_1:** Ich glaube, dass die Bedienung von KI-Anwendungen für mich einfach wäre.
+* **TRU_1:** Ich würde den Antworten und Ergebnissen von KI-Anwendungen grundsätzlich vertrauen.
+* **ABI_1:** Ich weiß, wie KI-Anwendungen funktionieren.
+* **ING_1:** Ich hätte keine Bedenken, dass KI-Anwendungen bei einer Nutzung unternehmensinterne Informationen an Dritte weitergeben.
+* **UNC_1:** KI-Anwendungen würde ich als unheimlich empfinden.
+* **FEA_1:** Der Gedanke an KI an meinem Arbeitsplatz macht mir Angst, da sie mir schaden könnte.
+* **INT_2:** Ich plane, KI bei meiner Arbeit einzusetzen, sobald entsprechende Werkzeuge bereitstehen.
+* **ATT_2:** Ich würde den möglichen Einsatz von KI in meinem Arbeitsbereich positiv bewerten.
+* **NOR_2:** Meine Kolleginnen und Kollegen in einer ähnlichen Situation würden befürworten, dass ich KI nutze.
+* **PBC_2:** Ob ich KI für meine Aufgaben einsetze, würde allein von meiner eigenen Entscheidung abhängen.
+* **USE_2:** Ich glaube, dass KI mir helfen könnte, meine Arbeitsaufgaben besser zu erledigen.
+* **EOU_2:** Ich gehe davon aus, dass die Grundfunktionen von KI-Werkzeugen leicht zu verstehen sind.
+* **TRU_2:** Ich hielte KI-Systeme bei der Verarbeitung von Arbeitsaufgaben für zuverlässig.
+* **ABI_2:** Ich kann nachvollziehen, wie KI-Systeme zu ihren Ergebnissen kommen.
+* **ING_2:** Ich gehe davon aus, dass die Daten bei einer Nutzung von KI sicher wären.
+* **UNC_2:** Ich würde die Nutzung von KI-Anwendungen als unangenehm empfinden.
+* **FEA_2:** Der künftige Einsatz von KI bei meinen Arbeitsaufgaben löst bei mir Anspannung aus.
+* **INT_3:** Wenn KI-Anwendungen an meinem Arbeitsplatz verfügbar wären, würde ich sie bestimmt nutzen.
+* **ATT_3:** Ich fände die Nutzung von KI an meinem Arbeitsplatz unbefriedigend.
+* **NOR_3:** Personen, deren fachliche Meinung ich schätze, würden mir zum Einsatz von KI raten.
+* **PBC_3:** Wenn KI an meinem Arbeitsplatz verfügbar wäre und ich sie nutzen wollte, könnte ich dies tun.
+* **USE_3:** Ich gehe davon aus, dass der Einsatz von KI die Qualität meiner Arbeitsergebnisse steigern würde.
+* **EOU_3:** Es würde mir schwerfallen zu erlernen, wie man KI-Anwendungen richtig bedient.
+* **TRU_3:** Ich fände es bedenklich, Arbeitsaufgaben ohne ständige menschliche Kontrolle an eine KI zu übergeben.
+* **ABI_3:** Ich kann nachvollziehen, ob die Ergebnisse von KI-Anwendungen richtig sind.
+* **ING_3:** Ich denke, dass KI-Systeme zu viele Informationen über unser Unternehmen haben werden, wenn wir sie nutzen.
+* **UNC_3:** Ich würde die Nutzung von KI-Anwendungen als unmenschlich empfinden.
+* **FEA_3:** Wenn ich an den Einsatz von KI an meinem Arbeitsplatz denke, fühle ich mich beunruhigt.
+* **INT_4:** Ich werde mich bemühen, KI-Anwendungen in meinem Arbeitsalltag einzusetzen.
+* **ATT_4:** Ich fände den Einsatz von KI an meinem Arbeitsplatz wichtig.
+* **NOR_4:** In meinem Arbeitsumfeld wird erwartet, dass man offen gegenüber neuen Technologien wie KI ist.
+* **PBC_4:** Ich hätte die Kontrolle darüber, wie ich KI bei meinen Aufgaben einsetze.
+* **USE_4:** Ich erwarte durch den Einsatz von KI keine spürbare Erleichterung bei meiner täglichen Arbeit.
+* **EOU_4:** Ich traue mir zu, mich schnell in neue KI-Anwendungen einzuarbeiten.
+* **TRU_4:** Ich könnte mich darauf verlassen, dass KI-Werkzeuge korrekte Zuarbeiten leisten.
+* **ABI_4:** Wie KI-Werkzeuge zu ihren Vorschlägen gelangen, ist für mich völlig undurchsichtig.
+* **ING_4:** Ich vertraue darauf, dass KI-Werkzeuge am Arbeitsplatz alle Datenschutzbestimmungen einhalten.
+* **UNC_4:** Ich fühle mich beim Gedanken an die Nutzung von KI an meinem Arbeitsplatz rundum wohl.

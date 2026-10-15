@@ -1,0 +1,46 @@
+Für die Messung der **KI-Readiness** (KI-Bereitschaft) von Mitarbeitenden empfiehlt sich ein integrierter Ansatz, der auf etablierten Modellen der empirischen Sozialforschung und Technologiefolgenabschätzung basiert.
+
+---
+
+### 1. Theoretische Fundierung und Begründung
+
+Für die Entwicklung des Fragebogens werden drei aufeinander abgestimmte Theorien aus den Quellen kombiniert:
+
+1. **Reasoned Action Approach (RAA) / Theory of Planned Behavior (TPB)** & **UTAUT2 (Unified Theory of Acceptance and Use of Technology 2)**: 
+   * *Begründung*: Diese Modelle bilden den Standard zur Erklärung von Technologieakzeptanz und Verhaltensabsichten. Sie erfassen individuelle Einstellungen, soziale Erwartungen (subjektive Normen) sowie die wahrgenommene Verhaltenskontrolle bzw. Anwendbarkeit.
+2. **Vertrauensmodell für KI (Mayer, Davis & Schoorman Model / Do Khac et al., 2025)**:
+   * *Begründung*: Bei der Einfügung von KI in Unternehmensprozesse ist Vertrauen ein zentraler Prädiktor für die Akzeptanz. Das Modell misst die Wahrnehmung von KI hinsichtlich Fähigkeit/Erklärbarkeit (*Ability*), Unheimlichkeit/Akzeptanz (*Benevolence*) und Datenintegrität/Datenschutz (*Integrity*).
+3. **Task-Technology Fit (TTF) Model**:
+   * *Begründung*: Mangelnde KI-Readiness liegt oft darin begründet, dass Mitarbeitende keinen klaren Mehrwert für ihre spezifischen Arbeitsaufgaben sehen. Das TTF-Modell misst die subjektive Passung zwischen den Anforderungen der täglichen Aufgaben und den Funktionalitäten der KI.
+
+---
+
+### 2. Skalierung
+
+Gemäß der Methodik der im Datensatz enthaltenen Studien wird eine **7-stufige Likert-Skala** verwendet:
+* **1** = stimme überhaupt nicht zu
+* **2** = stimme nicht zu
+* **3** = stimme eher nicht zu
+* **4** = neutral / weder noch
+* **5** = stimme eher zu
+* **6** = stimme zu
+* **7** = stimme voll und ganz zu
+
+---
+
+### 3. Fragebogen zur KI-Readiness
+
+| Konstrukt | Definition | Items (7-stufige Likert-Skala: 1 = stimme überhaupt nicht zu, 7 = stimme voll und ganz zu) | Quelle |
+| :--- | :--- | :--- | :--- |
+| **Fähigkeiten & Erklärbarkeit** (*Ability / Explainability*) | Das Wissen und das Verständnis der Mitarbeitenden darüber, wie KI-Anwendungen funktionieren und wie deren Ergebnisse zustande kommen. | (1) Ich weiß, wie KI-Anwendungen grundlegend funktionieren.<br>(2) Ich kann nachvollziehen, wie eine KI zu ihren Ergebnissen kommt.<br>(3) Ich kann beurteilen, ob die von der KI gelieferten Ergebnisse richtig sind.<br>(4) Die Handhabung und Funktionsweise von KI-Anwendungen ist für mich klar und verständlich. | RAA / Trust Model in AI |
+| **Einstellung gegenüber KI** (*Attitude towards AI*) | Die allgemeine subjektive Haltung und Bewertung der Mitarbeitenden bezüglich des Einsatzes von KI am Arbeitsplatz. | (1) Die Nutzung von KI-Anwendungen bei meiner Arbeit wäre für mich vorteilhaft.<br>(2) Ich finde den Einsatz von KI in meinen täglichen Arbeitsprozessen gut.<br>(3) Ich empfinde die Arbeit mit KI-Unterstützung als zufriedenstellend und bereichernd.<br>(4) Der Einsatz von KI an meinem Arbeitsplatz ist für mich eine wichtige Entwicklung. | RAA / UTAUT2 |
+| **Wahrgenommene Nützlichkeit** (*Perceived Efficacy / Performance Expectancy*) | Die Erwartung der Mitarbeitenden, dass der Einsatz von KI ihre Arbeitsleistung steigert, Prozesse verbessert und Belastungen reduziert. | (1) Ich denke, dass sich meine Arbeitsleistung durch die Nutzung von KI verbessern würde.<br>(2) Mit der Nutzung von KI könnte ich meine Arbeitsaufgaben besser erledigen als ohne sie.<br>(3) Ich bin davon überzeugt, dass der Einsatz von KI meine alltägliche Arbeitsbelastung reduzieren kann.<br>(4) Die Qualität meiner Arbeitsergebnisse verbessert sich durch den gezielten Einsatz von KI. | UTAUT2 / PMT |
+| **Wahrgenommene Verhaltenskontrolle** (*Perceived Behavioral Control / Ease of Use*) | Das Ausmaß an Freiheit, Ressourcen und Autonomie, das Mitarbeitende bei der Entscheidung und Nutzung von KI empfinden. | (1) Ob ich KI für meine Aufgaben nutze oder nicht, hängt allein von mir ab.<br>(2) Wenn ich wirklich möchte, kann ich KI-Anwendungen jederzeit in meinen Arbeitsablauf integrieren.<br>(3) Ich besitze die notwendigen Freiheiten und Möglichkeiten, um KI bei meiner täglichen Arbeit einzusetzen.<br>(4) Ich fühle mich in der Lage, die Nutzung von KI in meinen Arbeitsaufgaben selbstständig zu steuern. | RAA / SET |
+| **Integrität & Datenschutz** (*Integrity / Data Privacy*) | Das Vertrauen der Mitarbeitenden, dass KI-Systeme unternehmensinterne Daten vertraulich behandeln und Sicherheitsstandards einhalten. | (1) Ich habe keine Bedenken, dass durch die Nutzung von KI eingegebene unternehmensinterne Informationen an Dritte weitergegeben werden.<br>(2) Ich denke, dass unsere Interaktionsdaten bei der Nutzung von KI-Anwendungen sicher sind.<br>(3) Ich vertraue darauf, dass die im Unternehmenskontext genutzten KI-Tools alle gesetzlichen und internen Datenschutzrichtlinien einhalten. | Trust Model in AI |
+| **Subjektive Normen** (*Perceived Norms / Social Influence*) | Der wahrgenommene soziale Druck bzw. die Empfehlungen von Führungskräften und Kolleg:innen bezüglich der KI-Nutzung. | (1) Personen im Unternehmen, von denen ich mich beeinflussen lasse, würden mir raten, KI zu nutzen.<br>(2) Personen, die mir im Unternehmen wichtig sind, befürworten den Einsatz von KI-Anwendungen.<br>(3) Personen, deren fachliche Meinung ich schätze, empfehlen die Nutzung von KI am Arbeitsplatz.<br>(4) Kolleg:innen in einer mir vergleichbaren Position befürworten den Einsatz von KI. | RAA / UTAUT2 |
+| **Aufgaben-Technologie-Passung** (*Task-Technology Fit*) | Die wahrgenommene Übereinstimmung zwischen den beruflichen Aufgabenanforderungen und den spezifischen Funktionalitäten der KI. | (1) Die Funktionalitäten von KI-Anwendungen passen gut zu den Anforderungen meiner täglichen Arbeitsaufgaben.<br>(2) KI kann mich effektiv bei Aufgaben unterstützen, die strukturierte Analysen oder Planungen erfordern.<br>(3) Die zur Verfügung stehenden KI-Tools sind genau auf die Art von Arbeit abgestimmt, die ich regelmäßig ausführe. | TTF Model |
+| **Nutzungsabsicht** (*Intention to Use / Behavioral Intention*) | Die konkrete Absicht und Verhaltensplanung der Mitarbeitenden, KI-Anwendungen zukünftig für ihre Arbeitsaufgaben zu verwenden. | (1) Ich beabsichtige, KI-Anwendungen künftig für meine Arbeitsaufgaben einzusetzen.<br>(2) Ich plane, KI-Systeme regelmäßig für meine beruflichen Aktivitäten zu nutzen.<br>(3) Wenn entsprechende KI-Anwendungen verfügbar sind, werde ich sie für meine Aufgaben nutzen. | RAA / UTAUT2 |
+
+---
+
+💡 **Soll ich diesen Fragebogen als strukturierte Datei (z. B. Word oder PDF) für Sie aufbereiten oder Auswertungshinweise für die Auswertung im Unternehmen ergänzen?**

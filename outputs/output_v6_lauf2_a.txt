@@ -1,0 +1,165 @@
+Ich lese zuerst den Datensatz und die fünf Papers, dann erstelle ich die vollständige Ausarbeitung.
+
+Paper 1 erfasst. Jetzt Paper 2 (PowerPilot).
+
+Paper 3 erfasst. Jetzt Paper 4 (Trust in GenAI) und Paper 5 (Virtual Meetings).
+
+## A) Definitionen
+
+**KI-Readiness** (eigene Arbeitsdefinition – keine der fünf Quellen definiert den Begriff; Paetow et al. 2026 erwähnen nur „organizational readiness“ ohne Definition): KI-Readiness ist die individuelle Bereitschaft von Mitarbeitenden, KI-Anwendungen an ihrem Arbeitsplatz zu nutzen. Sie zeigt sich in der Nutzungsabsicht und wird durch kognitive Einschätzungen (z. B. Nützlichkeit, Nachvollziehbarkeit), affektive Reaktionen (z. B. Einstellung, Angst, Vertrauen) und soziale Einflüsse (wahrgenommene Normen) bestimmt. Sie ist unabhängig davon, ob KI am Arbeitsplatz bereits eingesetzt wird.
+
+**KI im Fragebogen** (eigene Arbeitsdefinition – die Quellen definieren nur Teilbereiche: Wichmann et al. 2024 „AI-based HIS“ als selbstlernende Systeme, Do Khac et al. 2025 „generative KI/LLMs“; beides gilt nicht für alle KI-Anwendungen): KI bezeichnet Computerprogramme, die Aufgaben übernehmen, für die sonst menschliches Denken nötig wäre – etwa Texte verfassen oder zusammenfassen, Daten auswerten, Fragen beantworten, Vorschläge machen oder Entscheidungen vorbereiten. Die Ergebnisse entstehen auf Grundlage von Daten und Beispielen, mit denen das Programm entwickelt wurde. KI kann Menschen bei Aufgaben unterstützen oder Aufgaben eigenständig ausführen.
+
+## B) Theorien mit Begründung
+
+1. **Reasoned Action Approach (RAA; Fishbein & Ajzen)** – Grundlage der Fragebögen 1 und 2. Erklärt die Nutzungsabsicht über Einstellung (affektiv-evaluativ), wahrgenommene Normen (sozial) und wahrgenommene Verhaltenskontrolle (kognitiv). In beiden Studien waren Einstellung und Normen signifikante Prädiktoren (Wichmann et al. 2024; Wichmann, Behn et al. 2025). Der RAA liefert damit das Grundgerüst und deckt die soziale Dimension ab.
+
+2. **UTAUT2 (Venkatesh et al.)** – in Fragebogen 1 und 2 integriert; liefert die technologiespezifischen kognitiven Konstrukte Nützlichkeit (Performance Expectancy) und Benutzerfreundlichkeit (Effort Expectancy) sowie die affektive Komponente Angst (Anxiety, in Wichmann et al. 2024 als „Fear (HIS)“ operationalisiert). Nützlichkeit war in Fragebogen 2 der stärkste Prädiktor; Angst gegenüber dem System war in Fragebogen 1 in allen KI-Szenarien bedeutsam.
+
+3. **Vertrauensmodell nach Mayer, Davis & Schoorman (1995)** – Grundlage von Fragebogen 4 (Do Khac et al. 2025). Ergänzt die KI-spezifische Beziehungsebene: Vertrauen als Bereitschaft, sich auf ein System zu verlassen, mit den Vorbedingungen Fähigkeit/Nachvollziehbarkeit (kognitiv) und Integrität (Datensicherheit). Vertrauen erklärte dort 41–56 % der Varianz der Nutzungsabsicht. Gerade bei KI, deren Ergebnisse schwer überprüfbar sind, ist dies ein eigenständiger, nicht durch RAA/UTAUT2 abgedeckter Mechanismus.
+
+Nicht gewählt: HBM/PMT/EPPM (krankheitsbezogene Bedrohungs-Appraisals, nicht übertragbar), Self-Efficacy-Theorie (durch Verhaltenskontrolle abgedeckt), TTF (aufgabenspezifisch; Passung gilt laut Paetow et al. 2026 als „cognitive proxy for anticipated usefulness“), STS-Theorie (erklärt Arbeitsengagement, nicht Nutzungsabsicht).
+
+## C) Konstrukt-Inventar
+
+Anzahl Konstrukte (Überschriften): FB1 = 12 (Variante Diabetes: 11, ohne Abilities; „Adaptive/Non-adaptive appraisals“ sind Gruppierungen ohne Items), FB2 = 14, FB3 = 5 (Aufgabentypen und TeC-Subdimensionen Immersion/Interaktivität/Soziale Präsenz zählen als Unterkategorien), FB4 = 5, FB5 = 4. Gesamt: 40.
+
+| Konstrukt | FB | Entscheidung | Begründung |
+|---|---|---|---|
+| Intention to use (HIS) | 1 | aufnehmen | Zielkonstrukt. |
+| Attitude (HIS) | 1 | aufnehmen | RAA-Kernkonstrukt, signifikant in allen Szenarien (Wichmann et al. 2024). |
+| Fear (HIS) | 1 | aufnehmen | UTAUT2-Anxiety; affektive Dimension, in allen KI-Szenarien bedeutsam (Wichmann et al. 2024). |
+| Perceived response efficacy | 1 | ausschließen | Dieselbe Dimension wie Nützlichkeit (Synonymtabelle in Wichmann et al. 2024, Tab. 1); wird dort zusammengeführt. |
+| Perceived behavioral control | 1 | aufnehmen | RAA-Kernkonstrukt; kognitive Kontrollwahrnehmung. |
+| Abilities (HIS) | 1 | ausschließen | Inhaltlich Benutzerfreundlichkeit („easy to understand“); nur bei Kurzzeitbehandlungen signifikant (Wichmann et al. 2024); in Benutzerfreundlichkeit aufgegangen. |
+| Perceived costs/barriers (HIS) | 1 | ausschließen | Items gesundheitsspezifisch („zu schwach“, „fühle mich schlecht“); UTAUT2-Preis/Wert trifft Mitarbeitende nicht, da sie nicht selbst zahlen. |
+| Attitude (disease) | 1 | ausschließen | Nonadaptives Appraisal zur Krankheit; kein Gegenstand am Arbeitsplatz. |
+| Fear (disease) | 1 | ausschließen | Krankheitsbezogen, nicht übertragbar. |
+| Perceived vulnerability | 1 | ausschließen | Krankheitsbezogen (HBM/PMT), nicht gewählte Theorie. |
+| Perceived severity | 1 | ausschließen | Krankheitsbezogen (HBM/PMT), nicht gewählte Theorie. |
+| Perceived norms | 1 | aufnehmen | RAA/UTAUT2-Social-Influence; soziale Dimension, signifikant (Wichmann et al. 2024). |
+| Intention to use | 2 | aufnehmen | Zielkonstrukt (Quelle für Items). |
+| Attitude | 2 | aufnehmen | Siehe FB1; Itemquelle. |
+| Perceived norms | 2 | aufnehmen | Siehe FB1; Itemquelle (Kolleg:innen). |
+| Perceived behavioral control | 2 | aufnehmen | RAA; in FB2 signifikant, aber negativ (Wichmann, Behn et al. 2025, H10) – Richtung am Arbeitsplatz offen, daher prüfenswert. |
+| Trust | 2 | aufnehmen | Wird mit Vertrauen (FB4) zusammengeführt; Items „reliable/dependable“ passen zur Mayer-Definition. |
+| Fear towards environmental hazards | 2 | ausschließen | Gegenstand ist Umweltgefahr, nicht KI; H9 nicht signifikant (Wichmann, Behn et al. 2025). |
+| Hazard experiences | 2 | ausschließen | Einzelitem zu erlebten Umweltereignissen; kontextfremd. |
+| Habit | 2 | ausschließen | UTAUT2-Habit setzt wiederholte frühere Nutzung voraus; Nutzungsstatus im Unternehmen unbekannt → versteckte Annahme. |
+| Perceived ease of use | 2 | aufnehmen | UTAUT2-Effort-Expectancy; einziger Prädiktor der Verhaltenskontrolle (Wichmann, Behn et al. 2025, H6b). |
+| Perceived usefulness | 2 | aufnehmen | UTAUT2-Performance-Expectancy; stärkster Prädiktor der Absicht (Wichmann, Behn et al. 2025). |
+| Hedonic motivations | 2 | ausschließen | UTAUT2-Konstrukt, aber H4 nicht signifikant (β=.011; Wichmann, Behn et al. 2025); zudem Überschneidung mit Einstellungsitem „enjoyable“. |
+| Perceived costs/benefits | 2 | ausschließen | Mischt Kosten und Nutzen (zwei Dimensionen); im Modell der Studie nicht enthalten. |
+| Governmental regulations | 2 | ausschließen | Umwelt-/politikspezifisch; kein Bezug zu KI am Arbeitsplatz. |
+| Environmental concerns | 2 | ausschließen | Kontextspezifisch; H8 nicht signifikant (Wichmann, Behn et al. 2025). |
+| Task Characteristics (TC) | 3 | ausschließen | Beschreibt Aufgabenprofil, keine KI-Einschätzung; dient nur der TTF-Filterung. |
+| Technology Characteristics (TeC) | 3 | ausschließen | VR-spezifische Merkmale (Immersion, Interaktivität, soziale Präsenz); auf KI nicht übertragbar. |
+| Task-Technology Fit (TTF) | 3 | ausschließen | Starker Prädiktor (β=.836), aber laut Paetow et al. 2026 kognitiver Proxy für Nützlichkeit → Überschneidung; zudem aufgabenspezifisches Filterdesign. |
+| Behavioral intention to use (BI) | 3 | aufnehmen | Zielkonstrukt; Itemquelle (Arbeitsbezug, Konjunktiv). |
+| Perceived Performance (PERF) | 3 | aufnehmen | Als Itemquelle für Nützlichkeit (Performance Expectancy = Nützlichkeit laut Synonymtabelle FB1); kein eigenes Konstrukt. |
+| Intention to use | 4 | ausschließen (als Itemquelle) | Zielkonstrukt, aber Items in Wir-Form/Unternehmensperspektive; Ich-Form aus FB1–3 bevorzugt. |
+| Trust | 4 | aufnehmen | Kern des Mayer-Modells; erklärt 41–56 % der Absicht (Do Khac et al. 2025). |
+| Benevolence | 4 | ausschließen | Konstrukt der gewählten Theorie, aber kein Effekt auf Vertrauen (Do Khac et al. 2025); zudem als „Unheimlichkeit“ operationalisiert → Überschneidung mit Angst. |
+| Ability | 4 | aufnehmen | Nachvollziehbarkeit/Explainability; stärkster Vertrauensfaktor für IT und Vertrieb (Do Khac et al. 2025). |
+| Integrity | 4 | aufnehmen | Datensicherheit; stärkster Vertrauensfaktor für drei von fünf Abteilungen (Do Khac et al. 2025); am Arbeitsplatz hochrelevant. |
+| Perceived Technical Aspects in Virtual Meetings | 5 | ausschließen | Meetingtechnik, kein KI-Bezug. |
+| Social Communication during Virtual Meetings | 5 | ausschließen | Kein KI-Bezug; H2 nicht signifikant (Wichmann, Gesk & Leyer 2026). |
+| Social Exchange in General | 5 | ausschließen | Allgemeiner Kollegenaustausch; nicht Bestandteil der gewählten Theorien. |
+| Work Engagement | 5 | ausschließen | Ergebnisvariable der STS-Studie, kein Readiness-Konstrukt. |
+
+**Aufgenommen (10 Konstrukte):** Nutzungsabsicht, Einstellung, Wahrgenommene Normen, Wahrgenommene Verhaltenskontrolle, Wahrgenommene Nützlichkeit, Benutzerfreundlichkeit, Angst vor KI, Vertrauen, Nachvollziehbarkeit, Integrität.
+
+## D) Item-Tabelle
+
+Konvention: Alle Items in Ich-Form, Arbeitsplatzbezug, Konjunktiv bei hypothetischen Erfahrungen. „angepasst“ = Gegenstand ersetzt (ggf. zusätzlich Konjunktiv für das Szenario „KI wäre verfügbar“); jede weitere inhaltliche Änderung = „neu“. Definitionen aus FB1 stammen aus dem Datensatz; FB2/FB4 aus den zugehörigen Papers (im Datensatz keine Definitionen); „eigene“ gekennzeichnet.
+
+| Konstrukt | Definition | ID | Item | (R) | Herkunft | Quelle |
+|---|---|---|---|---|---|---|
+| Nutzungsabsicht | Präferenz einer Person, KI am eigenen Arbeitsplatz zu nutzen (FB1-Def., Gegenstand ersetzt) | NA1 | Ich beabsichtige, KI an meinem Arbeitsplatz zu nutzen, wenn sie verfügbar wäre. | – | angepasst („I intend to use the described surgical opportunity if it would be available“) | FB1, Item 1(2) |
+| | | NA2 | Wenn KI an meinem Arbeitsplatz verfügbar wäre, würde ich sie für meine Aufgaben einsetzen. | – | angepasst („Wenn Virtual Reality verfügbar wäre, würde ich sie für meine Aufgaben einsetzen“) | FB3, BI-3 |
+| | | NA3 | Ich würde KI an meinem Arbeitsplatz auf jeden Fall nutzen, wenn sie verfügbar wäre. | – | angepasst („I would definitely use the described surgical opportunity if it would be available“) | FB1, Item 1(1) |
+| Einstellung | Haltung einer Person gegenüber KI am Arbeitsplatz (FB1-Def.) | EI1 | Die Nutzung von KI an meinem Arbeitsplatz wäre vorteilhaft. | – | angepasst („The use of PowerPilot would be … advantageous“) | FB2, Item 2(1) |
+| | | EI2 | Die Nutzung von KI an meinem Arbeitsplatz wäre für mich wichtig. | – | angepasst („… important“) | FB2, Item 2(3) |
+| | | EI3 | Ich fände die Nutzung von KI an meinem Arbeitsplatz unbefriedigend. | R | neu (Umkehrung von „… satisfactory“) | FB1, Item 2(2) |
+| Wahrgenommene Normen | Meinung anderer über die Nutzung von KI am Arbeitsplatz (FB1-Def.) | NO1 | Personen, die mir wichtig sind, würden mir raten, KI an meinem Arbeitsplatz zu nutzen. | – | angepasst („Individuals who are important to me would advise me to use …“) | FB1, Item 12(2) |
+| | | NO2 | Kolleginnen und Kollegen in einer ähnlichen Situation wie meiner würden mir empfehlen, KI zu nutzen. | – | angepasst („My colleagues at work in a situation similar to mine would recommend me to use PowerPilot“) | FB2, Item 3(3) |
+| | | NO3 | Personen, deren Meinung ich schätze, würden mir raten, KI an meinem Arbeitsplatz zu nutzen. | – | angepasst („Individuals whose opinion I appreciate would advise me to use …“) | FB1, Item 12(3) |
+| Wahrgenommene Verhaltenskontrolle | Grad an Freiheit, den eine Person bei der Entscheidung über die Nutzung von KI wahrnimmt (FB1-Def.) | VK1 | Ob ich KI an meinem Arbeitsplatz nutze, läge allein bei mir. | – | angepasst („Whether I undergo surgery or not, is solely up to me“) | FB1, Item 5(3) |
+| | | VK2 | Wenn ich wirklich wollte, könnte ich KI an meinem Arbeitsplatz nutzen. | – | angepasst („If I really want to, I can use PowerPilot“) | FB2, Item 4(4) |
+| | | VK3 | Die Nutzung von KI an meinem Arbeitsplatz läge unter meiner Kontrolle. | – | angepasst („It is under my control to use PowerPilot“) | FB2, Item 4(1) |
+| Wahrgenommene Nützlichkeit | Wirksamkeit von KI und der Nutzen, den sie der Person bei der Arbeit bringt (Paper 2, Tab. 1, Gegenstand ersetzt) | NU1 | Ich denke, dass sich meine Leistung bei meinen Aufgaben durch die Nutzung von KI verbessern würde. | – | angepasst („Ich denke, dass sich meine Leistung bei meinen Aufgaben durch die Nutzung von Virtual Reality verbessern würde“) | FB3, PERF-1 |
+| | | NU2 | Ich denke, dass ich meine Aufgaben mit KI besser erledigen könnte als ohne sie. | – | angepasst (PERF-2) | FB3, PERF-2 |
+| | | NU3 | Ich denke, dass KI an meinem Arbeitsplatz nützlich wäre. | – | angepasst („In other words, PowerPilot is useful“) | FB2, Item 10(4) |
+| Benutzerfreundlichkeit | Grad, in dem eine Person glaubt, KI am Arbeitsplatz leicht handhaben zu können (Paper 2, Tab. 1) | BF1 | Ich denke, dass KI an meinem Arbeitsplatz leicht zu bedienen wäre. | – | angepasst („I think it is easy to operate PowerPilot“) | FB2, Item 9(1) |
+| | | BF2 | Ich würde den Umgang mit KI an meinem Arbeitsplatz schnell erlernen. | – | neu (Ersatz für „main function easy to understand“, um Überschneidung mit Nachvollziehbarkeit zu vermeiden) | FB2, Item 9(2) |
+| | | BF3 | Ich würde vor der Nutzung von KI nur eine kurze Einführung benötigen. | – | angepasst („Prior the surgical opportunity, I only need a short preliminary meeting“) | FB1, Item 6(2) |
+| Angst vor KI | Emotion Furcht/Angst, die eine Person gegenüber KI am Arbeitsplatz empfindet (FB1-Def.) | AN1 | Der Gedanke an KI an meinem Arbeitsplatz macht mich nervös. | – | neu (Entbündelung von „feel anxious, shaky and nervous“) | FB1, Item 3(3) |
+| | | AN2 | KI an meinem Arbeitsplatz würde mich beunruhigen. | – | neu (Entbündelung von „feel anxious, uncomfortable“) | FB1, Item 3(1) |
+| | | AN3 | Ich hätte Angst, dass KI an meinem Arbeitsplatz mir schaden könnte. | – | neu (Entbündelung von „… as it could hurt me“) | FB1, Item 3(1) |
+| Vertrauen | Bereitschaft, sich auf die Ergebnisse einer KI zu verlassen, ohne sie vollständig kontrollieren zu können (Mayer et al. 1995 nach Paper 4; eigene Kürzung) | VT1 | Ich würde den Ergebnissen einer KI an meinem Arbeitsplatz vertrauen. | – | angepasst („Ich vertraue den Antworten von ChatGPT“) | FB4, T4 |
+| | | VT2 | Ich würde einer KI an meinem Arbeitsplatz Aufgaben ohne ständige Kontrolle überlassen. | – | neu (Entbündelung von T3: „feel good“ + „business critical“ entfernt) | FB4, T3 |
+| | | VT3 | Ich denke, dass KI an meinem Arbeitsplatz verlässlich wäre. | – | angepasst („PowerPilot is reliable“) | FB2, Item 5(1) |
+| Nachvollziehbarkeit | Einschätzung, wie weit eine Person versteht, wie KI funktioniert und zu ihren Ergebnissen kommt (Paper 4, Abschn. 4.1) | NV1 | Ich weiß, wie KI funktioniert. | – | angepasst („Ich weiß, wie ChatGPT funktioniert“) | FB4, X1 |
+| | | NV2 | Ich könnte nachvollziehen, wie eine KI an meinem Arbeitsplatz zu ihren Ergebnissen kommt. | – | angepasst („Ich kann nachvollziehen, wie ChatGPT zu den Ergebnissen kommt“) | FB4, X2 |
+| | | NV3 | Ich könnte beurteilen, ob die Ergebnisse einer KI an meinem Arbeitsplatz richtig sind. | – | angepasst („Ich kann nachvollziehen, ob die Ergebnisse von ChatGPT richtig sind“) | FB4, X3 |
+| Integrität | Einschätzung, dass eine KI die bei der Nutzung eingegebenen Unternehmensinformationen sicher behandelt (Paper 4, Abschn. 4.1) | IN1 | Ich hätte keine Bedenken, dass eine KI an meinem Arbeitsplatz interne Informationen an Dritte weitergibt. | – | angepasst (D1) | FB4, D1 |
+| | | IN2 | Ich denke, dass die Daten, die ich bei der Nutzung von KI an meinem Arbeitsplatz eingebe, sicher wären. | – | angepasst (D2) | FB4, D2 |
+| | | IN3 | Ich denke, dass eine KI zu viele Informationen über mein Unternehmen hätte, wenn wir sie nutzen würden. | R | angepasst (D3, im Original bereits gegenläufig) | FB4, D3 |
+
+## E) Fragebogen für die Mitarbeitenden
+
+**Einleitung**
+
+Vielen Dank, dass Sie an dieser Befragung teilnehmen. Die Bearbeitung dauert etwa [Dauer]. [Hinweis zum Datenschutz]
+
+Im Folgenden geht es um Künstliche Intelligenz (KI) an Ihrem Arbeitsplatz. Bitte lesen Sie die Beschreibung aufmerksam.
+
+*Allgemeine Beschreibung.* Unter KI verstehen wir Computerprogramme, die Aufgaben übernehmen, für die sonst menschliches Denken nötig wäre. Beispiele sind das Verfassen oder Zusammenfassen von Texten, das Auswerten von Daten, das Beantworten von Fragen oder das Vorbereiten von Entscheidungen. Die Ergebnisse entstehen auf Grundlage von Daten und Beispielen, mit denen das Programm entwickelt wurde.
+
+*Nutzerperspektive.* Aus Sicht der Nutzenden erscheint KI meist als Programm am Computer oder Smartphone, als Assistent in einer bekannten Software (z. B. E-Mail, Office, Fachanwendung) oder als Funktion, die im Hintergrund Vorschläge erzeugt. Die KI liefert ein Ergebnis, das Sie prüfen, übernehmen, ändern oder verwerfen können.
+
+*Interaktion.* Die Bedienung erfolgt meist über Texteingabe, Sprache oder Auswahl in einer Oberfläche. Sie beschreiben, was Sie benötigen, und erhalten ein Ergebnis, das Sie weiter anpassen können. KI kann Sie bei einzelnen Schritten unterstützen oder ganze Aufgaben eigenständig ausführen.
+
+*Einsatzkontext.* Ob KI für eine Aufgabe geeignet ist, hängt von der Aufgabe und den verfügbaren Daten ab. KI kann Ergebnisse liefern, die falsch oder unvollständig sind; die Verantwortung für die Arbeit bleibt bei den Menschen.
+
+Bitte beziehen Sie alle folgenden Aussagen auf Ihren eigenen Arbeitsplatz. Es spielt keine Rolle, ob an Ihrem Arbeitsplatz bereits KI eingesetzt wird. Stellen Sie sich gegebenenfalls vor, KI wäre für Ihre Aufgaben verfügbar. Es gibt keine richtigen oder falschen Antworten.
+
+Bitte geben Sie an, wie sehr Sie den Aussagen zustimmen:
+1 = stimme überhaupt nicht zu · 2 · 3 · 4 · 5 · 6 · 7 = stimme voll und ganz zu
+
+**Aussagen**
+
+1. NV1 – Ich weiß, wie KI funktioniert.
+2. EI1 – Die Nutzung von KI an meinem Arbeitsplatz wäre vorteilhaft.
+3. NU1 – Ich denke, dass sich meine Leistung bei meinen Aufgaben durch die Nutzung von KI verbessern würde.
+4. AN1 – Der Gedanke an KI an meinem Arbeitsplatz macht mich nervös.
+5. NO1 – Personen, die mir wichtig sind, würden mir raten, KI an meinem Arbeitsplatz zu nutzen.
+6. BF1 – Ich denke, dass KI an meinem Arbeitsplatz leicht zu bedienen wäre.
+7. VT1 – Ich würde den Ergebnissen einer KI an meinem Arbeitsplatz vertrauen.
+8. VK1 – Ob ich KI an meinem Arbeitsplatz nutze, läge allein bei mir.
+9. IN1 – Ich hätte keine Bedenken, dass eine KI an meinem Arbeitsplatz interne Informationen an Dritte weitergibt.
+10. NA1 – Ich beabsichtige, KI an meinem Arbeitsplatz zu nutzen, wenn sie verfügbar wäre.
+11. EI2 – Die Nutzung von KI an meinem Arbeitsplatz wäre für mich wichtig.
+12. NV2 – Ich könnte nachvollziehen, wie eine KI an meinem Arbeitsplatz zu ihren Ergebnissen kommt.
+13. AN2 – KI an meinem Arbeitsplatz würde mich beunruhigen.
+14. NU2 – Ich denke, dass ich meine Aufgaben mit KI besser erledigen könnte als ohne sie.
+15. VT2 – Ich würde einer KI an meinem Arbeitsplatz Aufgaben ohne ständige Kontrolle überlassen.
+16. NO2 – Kolleginnen und Kollegen in einer ähnlichen Situation wie meiner würden mir empfehlen, KI zu nutzen.
+17. IN2 – Ich denke, dass die Daten, die ich bei der Nutzung von KI an meinem Arbeitsplatz eingebe, sicher wären.
+18. BF2 – Ich würde den Umgang mit KI an meinem Arbeitsplatz schnell erlernen.
+19. NA2 – Wenn KI an meinem Arbeitsplatz verfügbar wäre, würde ich sie für meine Aufgaben einsetzen.
+20. VK2 – Wenn ich wirklich wollte, könnte ich KI an meinem Arbeitsplatz nutzen.
+21. NU3 – Ich denke, dass KI an meinem Arbeitsplatz nützlich wäre.
+22. EI3 – Ich fände die Nutzung von KI an meinem Arbeitsplatz unbefriedigend.
+23. BF3 – Ich würde vor der Nutzung von KI nur eine kurze Einführung benötigen.
+24. AN3 – Ich hätte Angst, dass KI an meinem Arbeitsplatz mir schaden könnte.
+25. NV3 – Ich könnte beurteilen, ob die Ergebnisse einer KI an meinem Arbeitsplatz richtig sind.
+26. IN3 – Ich denke, dass eine KI zu viele Informationen über mein Unternehmen hätte, wenn wir sie nutzen würden.
+27. NO3 – Personen, deren Meinung ich schätze, würden mir raten, KI an meinem Arbeitsplatz zu nutzen.
+28. VT3 – Ich denke, dass KI an meinem Arbeitsplatz verlässlich wäre.
+29. VK3 – Die Nutzung von KI an meinem Arbeitsplatz läge unter meiner Kontrolle.
+30. NA3 – Ich würde KI an meinem Arbeitsplatz auf jeden Fall nutzen, wenn sie verfügbar wäre.
+
+Vielen Dank für Ihre Teilnahme.
+
+**Quellen (Datensatz_v1 und Papers):** FB1 – Wichmann, Gesk & Leyer (2024), JMIR Formative Research 8:e48600 · FB2 – Wichmann, Behn, Degirmenci, Leyer & Barros (2025), HICSS 58 · FB3 – Paetow, Wichmann & Leyer (2026), HICSS 59 · FB4 – Do Khac, Leyer, Wichmann & Richter (2025), Enterprise Information Systems · FB5 – Wichmann, Gesk & Leyer (2026), Information Technology and Management 27:173–185.

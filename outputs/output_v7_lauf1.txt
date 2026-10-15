@@ -1,0 +1,47 @@
+Ich lese zunächst den Datensatz und die fünf Papers, um Theorien und Items daraus abzuleiten.
+
+## KI-Readiness-Fragebogen für Mitarbeitende
+
+### 1. Theorieauswahl & Begründung
+
+KI-Readiness ist kein einzelnes Konstrukt, sondern die Bereitschaft *und* Fähigkeit, KI im eigenen Arbeitskontext zu nutzen. Die fünf Papers des Datensatzes liefern dafür ein integriertes Gerüst – genau so, wie Wichmann et al. es selbst in Paper 1 und 2 praktizieren:
+
+| Theorie | Quelle im Datensatz | Warum passend |
+|---|---|---|
+| **UTAUT2 / Reasoned Action Approach (TPB)** (Venkatesh et al. 2012; Ajzen 2010) | Paper 1 (JMIR 2024), Paper 2 (HICSS 2025) | Kern jeder Akzeptanzmessung: Nützlichkeit, Aufwand, soziale Normen, Rahmenbedingungen, Einstellung → Intention. In beiden Papers empirisch bestätigt. |
+| **Self-Efficacy Theory** (Bandura 1986) | Paper 2 | „Readiness" heißt auch *Können*: Zutrauen in eigene KI-Kompetenz erklärt die wahrgenommene Verhaltenskontrolle (zentraler Befund von Paper 2). |
+| **Vertrauensmodell Ability–Benevolence–Integrity** (Mayer et al. 1995) | Paper 4 (EIS 2025) | Speziell für generative KI im Unternehmen validiert; Datensicherheit und Nachvollziehbarkeit sind Readiness-Hürden, die UTAUT nicht abdeckt. |
+| **Protection Motivation Theory / EPPM** (Bedrohungs- vs. Bewältigungseinschätzung) | Paper 1 | Erfasst die affektive Seite: Angst vor KI und wahrgenommene Bedrohung (z. B. des eigenen Jobs) als nicht-adaptive Appraisals. |
+| **Task-Technology Fit** (Goodhue & Thompson 1995) | Paper 3 (HICSS 2026) | Readiness ist aufgabenabhängig: Passt KI zu *meinen* Aufgaben? Erklärt Leistungserwartung über den generischen Nutzen hinaus. |
+| **Socio-Technical Systems Theory** (Bostrom & Heinen 1977) | Paper 5 (ITM 2026) | Liefert die organisationale Ebene: Unterstützung, Austausch mit Kolleg:innen, Schulung – ohne soziales System keine technische Readiness. |
+
+### 2.–4. Konstrukte, Definitionen, Items
+
+Skala für alle Items: **1 = stimme überhaupt nicht zu … 7 = stimme voll und ganz zu.** „KI-Anwendungen" bezeichnet die im Unternehmen eingeführten bzw. geplanten KI-Tools (vorab im Fragebogen kurz beschreiben – analog zur Technologie-Vignette in Paper 3). Items mit **(R)** sind invertiert zu kodieren.
+
+| Konstrukt | Definition | Items | Quelle |
+|---|---|---|---|
+| **1. Nutzungsintention** | Erklärte Absicht, KI-Anwendungen künftig für die eigene Arbeit zu nutzen (abhängige Variable). | 1. Ich beabsichtige, KI-Anwendungen künftig für meine Aufgaben einzusetzen.<br>2. Ich plane, KI-Anwendungen in meiner täglichen Arbeit zu nutzen.<br>3. Wenn KI-Anwendungen verfügbar sind, werde ich sie definitiv für meine Arbeit nutzen. | Q1 „Intention to use", Q3 „BI", Q4 I1–I3 (UTAUT2/TPB) |
+| **2. Einstellung gegenüber KI** | Globale positive/negative Bewertung des KI-Einsatzes am Arbeitsplatz. | Der Einsatz von KI in meiner Arbeit wäre …<br>1. … vorteilhaft.<br>2. … sinnvoll.<br>3. … wichtig.<br>4. Ich stehe dem Einsatz von KI in meiner Arbeit positiv gegenüber. | Q1/Q2 „Attitude" (TPB) |
+| **3. Leistungserwartung** | Überzeugung, dass KI die eigene Arbeitsleistung und Ergebnisqualität verbessert. | 1. Mit KI-Anwendungen könnte ich meine Aufgaben besser erledigen als ohne sie.<br>2. KI-Anwendungen würden mir helfen, meine Aufgaben schneller zu erledigen.<br>3. Die Qualität meiner Arbeitsergebnisse würde sich durch KI verbessern.<br>4. Insgesamt sind KI-Anwendungen für meine Arbeit nützlich. | Q2 „Perceived usefulness", Q3 „PERF" (UTAUT2) |
+| **4. Aufwandserwartung** | Wahrgenommene Leichtigkeit, KI-Anwendungen zu bedienen und zu verstehen. | 1. Ich denke, KI-Anwendungen sind leicht zu bedienen.<br>2. Die Hauptfunktionen von KI-Anwendungen sind für mich leicht zu verstehen.<br>3. Es fällt mir leicht, den Umgang mit KI-Anwendungen zu erlernen.<br>4. Vor der Nutzung bräuchte ich nur eine kurze Einführung. | Q2 „Perceived ease of use", Q1 „Abilities" (UTAUT2) |
+| **5. KI-Selbstwirksamkeit** | Zutrauen in die eigene Fähigkeit, KI kompetent einzusetzen und Ergebnisse zu beurteilen. | 1. Ich weiß, wie KI-Anwendungen grundsätzlich funktionieren.<br>2. Ich kann beurteilen, ob die Ergebnisse einer KI-Anwendung richtig sind.<br>3. Ich bin überzeugt, dass ich KI-Anwendungen erfolgreich für meine Aufgaben einsetzen kann.<br>4. Ich kann KI-Anwendungen gezielt anweisen (z. B. durch gute Prompts), um brauchbare Ergebnisse zu erhalten. | Q4 X1–X3 „Ability", Q2 „PBC" (Self-Efficacy Theory) |
+| **6. Wahrgenommene Verhaltenskontrolle** | Wahrgenommener Entscheidungs- und Handlungsspielraum bei der KI-Nutzung. | 1. Es liegt in meiner Hand, ob ich KI-Anwendungen in meiner Arbeit nutze.<br>2. Wenn ich wirklich will, kann ich KI-Anwendungen jederzeit in meiner Arbeit einsetzen.<br>3. Ich habe die nötigen Ressourcen (Zeit, Zugang), um KI-Anwendungen zu nutzen. | Q1/Q2 „Perceived behavioral control" (TPB) |
+| **7. Soziale Normen** | Wahrgenommene Erwartung relevanter Bezugspersonen, KI zu nutzen. | 1. Meine Führungskraft würde mir empfehlen, KI-Anwendungen zu nutzen.<br>2. Kolleg:innen in einer ähnlichen Position wie ich würden mir empfehlen, KI-Anwendungen zu nutzen.<br>3. Personen, deren Meinung mir wichtig ist, befürworten den Einsatz von KI in meiner Arbeit.<br>4. In meinem Team gilt es als selbstverständlich, KI-Anwendungen zu nutzen. | Q1/Q2 „Perceived norms" (TPB/UTAUT2) |
+| **8. Organisationale Unterstützung** | Wahrgenommene Rahmenbedingungen des Unternehmens (Schulung, Richtlinien, Infrastruktur, Austausch). | 1. Mein Unternehmen stellt ausreichende Schulungen zum Umgang mit KI bereit.<br>2. Mein Unternehmen hat klare Regeln, wie KI-Anwendungen genutzt werden dürfen.<br>3. Bei Fragen zu KI-Anwendungen finde ich im Unternehmen Ansprechpersonen.<br>4. Meine Kolleg:innen und ich tauschen uns darüber aus, wie wir KI sinnvoll einsetzen.<br>5. Mein Unternehmen motiviert mich, KI-Anwendungen auszuprobieren. | Q2 „Governmental regulations" (adaptiert), Q5 „SEG" (UTAUT2 Facilitating Conditions, STS) |
+| **9. Vertrauen in KI** | Bereitschaft, sich auf KI-Ergebnisse zu verlassen, inkl. wahrgenommener Zuverlässigkeit. | 1. Ich vertraue den Ergebnissen von KI-Anwendungen.<br>2. KI-Anwendungen liefern verlässliche Ergebnisse.<br>3. Ich wäre bereit, Teilaufgaben eigenständig von KI erledigen zu lassen.<br>4. KI-Ergebnisse sollten grundsätzlich nicht ohne menschliche Kontrolle verwendet werden. **(R)** | Q4 T1–T4, Q2 „Trust" (Mayer et al.) |
+| **10. Wahrgenommene Integrität / Datensicherheit** | Einschätzung, dass KI-Anwendungen mit Unternehmens- und Personendaten sicher umgehen. | 1. Ich denke, dass die Daten, die ich in KI-Anwendungen eingebe, sicher sind.<br>2. Ich habe keine Bedenken, dass interne Informationen über KI-Anwendungen an Dritte gelangen.<br>3. Ich denke, KI-Anwendungen erhalten zu viele Informationen über unser Unternehmen. **(R)** | Q4 D1–D3 „Integrity" |
+| **11. Angst / wahrgenommene Bedrohung** | Affektive Abwehrreaktion gegenüber KI (nicht-adaptive Appraisals). | Der Gedanke an KI in meiner Arbeit …<br>1. … macht mich unruhig und nervös.<br>2. … löst bei mir Unbehagen aus, weil sie mir schaden könnte.<br>3. Ich befürchte, dass KI Teile meiner Tätigkeit überflüssig macht.<br>4. KI-Anwendungen empfinde ich als unheimlich. | Q1/Q2 „Fear", Q4 U1–U3 „Benevolence" (PMT/EPPM) |
+| **12. Task-Technology Fit** | Wahrgenommene Passung von KI zu den eigenen Aufgabentypen. | 1. KI-Anwendungen könnten mich bei Aufgaben unterstützen, die klar definierten Abläufen folgen.<br>2. KI-Anwendungen könnten mich bei Aufgaben unterstützen, bei denen ich neue Ideen entwickle.<br>3. KI-Anwendungen könnten mich bei Aufgaben unterstützen, die Analyse von Fakten und Daten erfordern.<br>4. KI-Anwendungen könnten mich bei Entscheidungen zwischen mehreren Alternativen unterstützen.<br>5. Insgesamt passen KI-Anwendungen gut zu den Aufgaben, die ich in meiner Arbeit erledige. | Q3 „TTF" (McGrath-Taxonomie, Goodhue & Thompson) |
+| **13. Hedonische Motivation** | Erwartete Freude und Interesse an der KI-Nutzung. | 1. Die Nutzung von KI-Anwendungen macht mir Spaß.<br>2. Ich finde es spannend, KI-Anwendungen auszuprobieren.<br>3. Mit KI zu arbeiten, empfinde ich als bereichernd. | Q2 „Hedonic motivations" (UTAUT2) |
+
+**Umfang:** 13 Konstrukte, 48 Items (ca. 10–12 Min.).
+
+### Methodische Hinweise
+
+- **Readiness-Index:** Konstrukte 2–8, 12, 13 bilden die *Bereitschaft*, Konstrukt 5 die *Fähigkeit*, 9–11 die *Hürden*. Für ein Dashboard eignet sich ein gewichteter Mittelwert; für die Analyse ein SEM mit Konstrukt 1 als abhängiger Variable (wie in Paper 1–3).
+- **Reliabilität:** Cronbachs α ≥ 0,7 je Konstrukt prüfen; Konstrukt 12 ggf. als formatives Konstrukt behandeln, da die Aufgabentypen nicht austauschbar sind (vgl. Paper 3).
+- **Zusätzlich erfassen:** Soziodemografie, Abteilung (Paper 4 zeigt deutliche Unterschiede), bisherige KI-Erfahrung (Habit, Q2), Aufgabenhäufigkeit je Typ (Q3 TC, 6-stufige Häufigkeitsskala).
+- **Pretest:** Kognitives Interview mit 5–8 Mitarbeitenden, Attention-Check einbauen (vgl. Paper 3).
+
+Soll ich daraus einen fertigen Fragebogen als Dokument (mit Einleitungstext, Vignette und Layout) erstellen?
