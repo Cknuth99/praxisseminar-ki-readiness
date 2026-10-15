@@ -10,9 +10,9 @@ Dieses Repository enthält das Artefakt der Hausarbeit: einen Master-Prompt, mit
 
 | Prompt | Aufgabe | Ausführung |
 |---|---|---|
-| [5A](prompts/v5A_erstellung.md) | Erstellung: Begriffe, Theorien, Konstrukt-Inventar, Items, fertiger Fragebogen | NotebookLM, erste Nachricht |
-| [5B](prompts/v5B_pruefung.md) | Prüfung nach acht Item- und drei Strukturkriterien | NotebookLM, zweite Nachricht im selben Notebook |
-| [5C](prompts/v5C_pruefung_claude.md) | dieselbe Prüfung durch ein zweites Modell ohne Kenntnis des Erstellungsprozesses | Claude, eigener Chat mit denselben sechs Quellen |
+| [5A](prompts/prompt_v5a.md) | Erstellung: Begriffe, Theorien, Konstrukt-Inventar, Items, fertiger Fragebogen | NotebookLM, erste Nachricht |
+| [5B](prompts/prompt_v5b.md) | Prüfung nach acht Item- und drei Strukturkriterien | NotebookLM, zweite Nachricht im selben Notebook |
+| [5C](prompts/prompt_v5c.md) | dieselbe Prüfung durch ein zweites Modell ohne Kenntnis des Erstellungsprozesses | Claude, eigener Chat mit denselben sechs Quellen |
 
 Der Master-Prompt wurde in fünf Versionen entwickelt. Jede Version löst ein Problem, das im Test der Vorversion beobachtet wurde. Der Verlauf ist in [PROZESSLOG.md](PROZESSLOG.md) dokumentiert.
 
@@ -20,11 +20,10 @@ Der Master-Prompt wurde in fünf Versionen entwickelt. Jede Version löst ein Pr
 
 ```
 README.md                 diese Seite
-PROZESSLOG.md             Entwicklungsprotokoll: Iterationen, Hindernisse, Ergebnisse, Limitationen
-prompts/                  alle Prompt-Versionen im Wortlaut (v1 bis v5A/5B/5C)
+PROZESSLOG.md             Entwicklungsprotokoll: Iterationen, Fehlerlisten, Kennwert-Prüfung, Hindernisse
+prompts/                  alle Prompt-Versionen im Wortlaut (prompt_v1 bis prompt_v5c)
 outputs/                  alle Modellausgaben, eine Datei je Lauf und Prompt-Teil
 fragebogen/               der finale Fragebogen (Version 5, Lauf 2, nach Prüfung durch 5C)
-screenshots/              Abbildungen aus NotebookLM
 ```
 
 Dateinamen in `outputs/`: `output_v5_lauf2_a.txt` steht für Version 5, Lauf 2, Teil a. Teil `a` ist die Ausgabe des Erstellungsprompts, `b` die Prüfung im selben Notebook, `c` die Prüfung durch Claude. Die Versionen 6 und 7 sind keine neuen Prompts: v6 ist Prompt 5A in Claude, v7 ist Prompt v1 in Claude (Gegentest).
